@@ -133,17 +133,19 @@ jobs:
                 # ارسال درخواست curl به subconverter محلی و ذخیره خروجی
                 # -s: حالت ساکت (silent)
                 # -S: نمایش خطاها حتی در حالت ساکت
-                # -f: در صورت خطای HTTP، دستور را با کد خطا پایان دهد.
                 # -o: ذخیره خروجی در فایل مشخص شده
-                curl -s -S -f -o "$OUTPUT_FILE_PATH_IN_WORKSPACE" "$FULL_API_URL"
+                # حذف -f برای جلوگیری از توقف Workflow در صورت خطای HTTP (مانند 400)
+                curl -s -S -o "$OUTPUT_FILE_PATH_IN_WORKSPACE" "$FULL_API_URL"
                 
                 # بررسی وضعیت خروج دستور curl
-                if [ $? -eq 0 ]; then
+                CURL_EXIT_CODE=$?
+                if [ "$CURL_EXIT_CODE" -eq 0 ]; then
                   echo "  تبدیل لینک #$LINE_COUNT با موفقیت انجام شد. خروجی در '${OUTPUT_FILE_PATH_IN_WORKSPACE}' ذخیره شد."
                 else
-                  echo "  خطا در تبدیل لینک #$LINE_COUNT از فایل '$sub_file'. لطفاً لاگ‌های GitHub Actions را برای جزئیات بیشتر بررسی کنید."
-                  # می‌توانید در اینجا تصمیم بگیرید که آیا Workflow باید متوقف شود یا ادامه یابد.
-                  # در حال حاضر، فقط یک پیام خطا چاپ می‌شود و به لینک بعدی می‌رود.
+                  echo "  خطا در تبدیل لینک #$LINE_COUNT از فایل '$sub_file' (کد خطا: $CURL_EXIT_CODE). لطفاً لاگ‌های GitHub Actions را برای جزئیات بیشتر بررسی کنید."
+                  echo "  این لینک ممکن است نامعتبر باشد یا subconverter نتواند آن را پردازش کند. به پردازش لینک‌های بعدی ادامه می‌دهیم."
+                  # می‌توانید محتوای فایل خروجی را با یک پیام خطا پر کنید تا مشخص باشد تبدیل ناموفق بوده است.
+                  echo "Error: Failed to convert this link. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
                 fi
               else
                 echo "  خط #$LINE_COUNT در فایل '$sub_file' خالی است. از آن رد می‌شویم."
