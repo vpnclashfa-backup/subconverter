@@ -1,0 +1,63 @@
+# config/subconverter_settings.yml
+# این فایل شامل تنظیمات پیشرفته برای مبدل subconverter است.
+# پارامترهای تعریف شده در اینجا به درخواست‌های API ارسال شده به subconverter اعمال می‌شوند.
+# مقادیر boolean (بولی) باید به صورت true یا false (رشته) باشند.
+# مقادیر متنی مانند exclude/include/rename باید به صورت رشته باشند.
+
+# --- تنظیمات عمومی تبدیل (Common Conversion Settings) ---
+emoji: true          # (اختیاری) آیا نام نودها شامل ایموجی کشور یا نوع سرویس باشد؟ (پیش‌فرض: true)
+add_emoji: true      # (اختیاری) آیا ایموجی به ابتدای نام نود اضافه شود؟ (پیش‌فرض: true)
+remove_emoji: true   # (اختیاری) آیا ایموجی‌های موجود در نام نود حذف شوند؟ (پیش‌فرض: true)
+append_type: false   # (اختیاری) آیا نوع نود (مانند [SS], [VMess]) به ابتدای نام نود اضافه شود؟ (پیش‌فرض: false)
+tfo: false           # (اختیاری) آیا TCP Fast Open برای نودها فعال شود؟ (پیش‌فرض: false)
+udp: true           # (اختیاری) آیا UDP برای نودها فعال شود؟ (پیش‌فرض: false)
+list: true          # (اختیاری) آیا خروجی به صورت لیست ساده نودها باشد (نه کانفیگ کامل)؟ (پیش‌فرض: false)
+sort: false          # (اختیاری) آیا نودها یا گروه‌های خروجی بر اساس نام مرتب شوند (A-Z)؟ (پیش‌فرض: false)
+script: false        # (اختیاری) آیا Clash Script (برای قوانین) تولید شود؟ (پیش‌فرض: false)
+insert: true         # (اختیاری) آیا نودهای تعریف شده در 'insert_url' از فایل pref.ini به خروجی اضافه شوند؟ (پیش‌فرض: true)
+scv: false           # (اختیاری) آیا بررسی گواهی TLS برای نودهای TLS/SSL غیرفعال شود؟ (پیش‌فرض: false - توصیه نمی‌شود فعال شود)
+fdn: true            # (اختیاری) آیا نودهایی که توسط فرمت هدف پشتیبانی نمی‌شوند، فیلتر و حذف شوند؟ (پیش‌فرض: true)
+expand: true         # (اختیاری) آیا قوانین (Rule-sets) به صورت کامل در فایل خروجی قرار گیرند یا فقط لینک آنها؟ (پیش‌فرض: true)
+append_info: true    # (اختیاری) آیا اطلاعات ترافیک مصرفی یا تاریخ انقضا در هدر خروجی (برای کلاینت‌های پشتیبانی شده) اضافه شود؟ (پیش‌فرض: true)
+prepend: true        # (اختیاری) اگر 'insert_url' فعال باشد، آیا نودهای آن در ابتدای لیست نودها قرار گیرند؟ (پیش‌فرض: true)
+classic: false       # (اختیاری) آیا Clash classical rule-provider تولید شود؟ (پیش‌فرض: false)
+tls13: false         # (اختیاری) آیا پارامتر فعال‌سازی TLS 1.3 به نودها اضافه شود؟ (پیش‌فرض: false - توصیه نمی‌شود فعال شود)
+new_name: false      # (اختیاری) برای Clash، آیا از نام‌های جدید (proxies, proxy-groups, rules) استفاده شود؟ (پیش‌فرض: true)
+
+# --- تنظیمات سفارشی‌سازی نام و فیلتر (Naming & Filtering Customization) ---
+# توجه: برای استفاده از این پارامترها، باید مقدار آنها را به صورت رشته وارد کنید و در صورت نیاز به کاراکترهای خاص، آنها را Escape کنید.
+# exclude: "(流量|官网|Expired)" # (اختیاری) عبارت منظم برای حذف نودهایی که نامشان با آن مطابقت دارد.
+# include: "(US|آمریکا|GIA)"    # (اختیاری) عبارت منظم برای نگهداری فقط نودهایی که نامشان با آن مطابقت دارد.
+# rename: "OldName@NewName"    # (اختیاری) عبارت منظم برای تغییر نام نودها (مثال: "Test-(.*?)-@$1-Renamed").
+#                                # می‌توانید چندین خط rename اضافه کنید.
+# filter_script: "function filter(node) { return node.Port > 1000; }" # (اختیاری) کد JavaScript برای فیلتر کردن نودها.
+#                                                                     # (نیاز به token در URL برای اعمال در API)
+# sort_script: "function compare(node_a, node_b) { return node_a.Remark > node_b.Remark; }" # (اختیاری) کد JavaScript برای مرتب‌سازی نودها.
+#                                                                                           # (نیاز به token در URL برای اعمال در API)
+
+# --- تنظیمات مربوط به کلاینت‌ها و ویژگی‌های خاص (Client & Specific Features) ---
+# ua: "Shadowrocket/2.2.65" # (اختیاری) User-Agent سفارشی برای درخواست سابسکریپشن.
+# interval: 43200           # (اختیاری) فاصله زمانی به‌روزرسانی برای کانفیگ‌های میزبانی شده (بر حسب ثانیه).
+# dev_id: "YOUR_QUANTUMULTX_DEVICE_ID" # (اختیاری) Quantumult X device ID برای فعال‌سازی اسکریپت‌های ریموت.
+# filename: "MyConvertedConfig" # (اختیاری) نام فایل در کلاینت (فقط برای برخی فرمت‌ها مانند Clash For Windows).
+
+# --- تنظیمات مربوط به فایل‌های خارجی (External File Settings) ---
+# config: "https://raw.githubusercontent.com/YourUser/YourRepo/main/custom_config.yml" # (اختیاری) لینک به فایل پیکربندی خارجی (شامل گروه‌ها و قوانین).
+#                                                                                   # این تنظیمات، تنظیمات مشابه در pref.ini را override می‌کند.
+
+# --- تنظیمات مربوط به پراکسی (Proxy Settings for subconverter's own fetches) ---
+# proxy_config: "SYSTEM" # (اختیاری) پراکسی برای به‌روزرسانی فایل‌های کانفیگ خارجی (SYSTEM, http://ip:port, socks5://ip:port, cors:URL).
+# proxy_ruleset: "SYSTEM" # (اختیاری) پراکسی برای به‌روزرسانی Rule-sets خارجی.
+# proxy_subscription: "SYSTEM" # (اختیاری) پراکسی برای به‌روزرسانی سابسکریپشن اصلی.
+
+# --- تنظیمات مربوط به Gist (Auto Upload to Gist) ---
+# این تنظیمات در این فایل YAML قابل تنظیم نیستند و باید در فایل gistconf.ini یا به عنوان پارامتر URL استفاده شوند.
+# upload: false # (اختیاری) آیا فایل تبدیل شده به GitHub Gist آپلود شود؟ (نیاز به تنظیم gistconf.ini)
+# upload_path: "my_config.yaml" # (اختیاری) نام فایل در Gist.
+
+# --- تنظیمات مربوط به Rule-sets و Proxy Groups (قوانین و گروه‌های پراکسی) ---
+# این تنظیمات معمولاً در فایل‌های base_rule_base (مانند clash_rule_base) یا از طریق پارامتر 'config' (فایل خارجی) مدیریت می‌شوند.
+# در این فایل settings.yml، مستقیماً قابل تعریف نیستند، اما پارامترهای مرتبط با فعال‌سازی آنها در بالا وجود دارد.
+# enable_rule_generator: false # (اختیاری) فعال کردن تولید قوانین سفارشی.
+# overwrite_original_rules: false # (اختیاری) آیا قوانین اصلی (از base_rule_base) با قوانین سفارشی override شوند.
+# update_ruleset_on_request: false # (اختیاری) آیا قوانین با هر درخواست به‌روزرسانی شوند.
