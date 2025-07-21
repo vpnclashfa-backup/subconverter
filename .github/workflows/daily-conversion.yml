@@ -115,37 +115,52 @@ jobs:
               trimmed_line=$(echo "$line" | xargs) # حذف فضای خالی اطراف خط
 
               if [ -n "$trimmed_line" ]; then # اگر خط خالی نباشد
-                echo "  در حال تبدیل لینک #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
-                
-                # URL-encode کردن لینک تکی با استفاده از پایتون
-                URL_TO_CONVERT=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$trimmed_line")
-
-                # نام فایل خروجی منحصر به فرد (مثلا clash_001.yaml)
-                # از printf برای فرمت کردن عدد با صفرهای پیشرو استفاده می‌کنیم تا نام‌ها مرتب باشند.
-                OUTPUT_FILENAME="${TARGET_FORMAT}_$(printf "%03d" $LINE_COUNT).yaml"
-                # مسیر کامل فایل خروجی در محیط GitHub Actions
-                OUTPUT_FILE_PATH_IN_WORKSPACE="${CURRENT_OUTPUT_DIR}/${OUTPUT_FILENAME}"
-
-                # ساخت URL کامل برای درخواست به API محلی subconverter
-                # شامل لینک سابسکریپشن و پارامترهای پیشرفته
-                FULL_API_URL="http://localhost:25500/sub?target=${TARGET_FORMAT}&url=${URL_TO_CONVERT}${ADVANCED_PARAMS}"
-                
-                # ارسال درخواست curl به subconverter محلی و ذخیره خروجی
-                # -s: حالت ساکت (silent)
-                # -S: نمایش خطاها حتی در حالت ساکت
-                # -o: ذخیره خروجی در فایل مشخص شده
-                # حذف -f برای جلوگیری از توقف Workflow در صورت خطای HTTP (مانند 400)
-                curl -s -S -o "$OUTPUT_FILE_PATH_IN_WORKSPACE" "$FULL_API_URL"
-                
-                # بررسی وضعیت خروج دستور curl
-                CURL_EXIT_CODE=$?
-                if [ "$CURL_EXIT_CODE" -eq 0 ]; then
-                  echo "  تبدیل لینک #$LINE_COUNT با موفقیت انجام شد. خروجی در '${OUTPUT_FILE_PATH_IN_WORKSPACE}' ذخیره شد."
+                # جداسازی لینک و نام فایل دلخواه
+                if [[ "$trimmed_line" == *,* ]]; then
+                  URL_TO_CONVERT_RAW=$(echo "$trimmed_line" | cut -d',' -f1)
+                  CUSTOM_OUTPUT_BASE_NAME=$(echo "$trimmed_line" | cut -d',' -f2-) # گرفتن همه چیز بعد از اولین کاما
+                  # تمیز کردن نام فایل سفارشی: حذف کاراکترهای نامعتبر و جایگزینی با '_'
+                  CUSTOM_OUTPUT_BASE_NAME=$(echo "$CUSTOM_OUTPUT_BASE_NAME" | sed 's/[^a-zA-Z0-9._-]/_/g')
+                  OUTPUT_FILENAME="${CUSTOM_OUTPUT_BASE_NAME}.yaml"
                 else
-                  echo "  خطا در تبدیل لینک #$LINE_COUNT از فایل '$sub_file' (کد خطا: $CURL_EXIT_CODE). لطفاً لاگ‌های GitHub Actions را برای جزئیات بیشتر بررسی کنید."
-                  echo "  این لینک ممکن است نامعتبر باشد یا subconverter نتواند آن را پردازش کند. به پردازش لینک‌های بعدی ادامه می‌دهیم."
-                  # می‌توانید محتوای فایل خروجی را با یک پیام خطا پر کنید تا مشخص باشد تبدیل ناموفق بوده است.
-                  echo "Error: Failed to convert this link. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                  # بازگشت به نام‌گذاری پیش‌فرض اگر کاما یافت نشد
+                  URL_TO_CONVERT_RAW="$trimmed_line"
+                  OUTPUT_FILENAME="${TARGET_FORMAT}_$(printf "%03d" $LINE_COUNT).yaml"
+                  echo "  هشدار: خط #$LINE_COUNT در فایل '$sub_file' فرمت 'URL,FILENAME' را ندارد. از نام پیش‌فرض استفاده می‌شود."
+                fi
+
+                # بررسی اینکه بخش URL واقعاً یک URL باشد (یک بررسی ساده)
+                if [[ "$URL_TO_CONVERT_RAW" =~ ^https?:// ]]; then
+                    echo "  در حال تبدیل لینک #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
+                    
+                    # URL-encode کردن لینک تکی با استفاده از پایتون
+                    URL_TO_CONVERT=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$URL_TO_CONVERT_RAW")
+                    
+                    OUTPUT_FILE_PATH_IN_WORKSPACE="${CURRENT_OUTPUT_DIR}/${OUTPUT_FILENAME}"
+
+                    # ساخت URL کامل برای درخواست به API محلی subconverter
+                    # شامل لینک سابسکریپشن و پارامترهای پیشرفته
+                    FULL_API_URL="http://localhost:25500/sub?target=${TARGET_FORMAT}&url=${URL_TO_CONVERT}${ADVANCED_PARAMS}"
+                    
+                    # ارسال درخواست curl به subconverter محلی و ذخیره خروجی
+                    # -s: حالت ساکت (silent)
+                    # -S: نمایش خطاها حتی در حالت ساکت
+                    # -o: ذخیره خروجی در فایل مشخص شده
+                    # حذف -f برای جلوگیری از توقف Workflow در صورت خطای HTTP (مانند 400)
+                    curl -s -S -o "$OUTPUT_FILE_PATH_IN_WORKSPACE" "$FULL_API_URL"
+                    
+                    # بررسی وضعیت خروج دستور curl
+                    CURL_EXIT_CODE=$?
+                    if [ "$CURL_EXIT_CODE" -eq 0 ]; then
+                      echo "  تبدیل لینک #$LINE_COUNT با موفقیت انجام شد. خروجی در '${OUTPUT_FILE_PATH_IN_WORKSPACE}' ذخیره شد."
+                    else
+                      echo "  خطا در تبدیل لینک #$LINE_COUNT از فایل '$sub_file' (کد خطا: $CURL_EXIT_CODE). لطفاً لاگ‌های GitHub Actions را برای جزئیات بیشتر بررسی کنید."
+                      echo "  این لینک ممکن است نامعتبر باشد یا subconverter نتواند آن را پردازش کند. به پردازش لینک‌های بعدی ادامه می‌دهیم."
+                      # می‌توانید محتوای فایل خروجی را با یک پیام خطا پر کنید تا مشخص باشد تبدیل ناموفق بوده است.
+                      echo "Error: Failed to convert this link. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                    fi
+                else
+                    echo "  خطا: خط #$LINE_COUNT در فایل '$sub_file' حاوی URL معتبری نیست: '$URL_TO_CONVERT_RAW'. از آن رد می‌شویم."
                 fi
               else
                 echo "  خط #$LINE_COUNT در فایل '$sub_file' خالی است. از آن رد می‌شویم."
