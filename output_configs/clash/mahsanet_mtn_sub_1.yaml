@@ -1,0 +1,8 @@
+proxies:
+  - {name: ️ @FreakConfig, server: wouldyoumarriemepleasefuckthesystem3.siasia.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ce62ee5e-e316-46af-b967-4588a5e8e66c, servername: hheydudethisworldisshet.siasia.ir, alpn: [h3%2Ch2], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v2raynplus |, server: 95.164.45.85, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 2", server: 95.164.45.70, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 3", server: 95.164.45.70, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyyسرورای‌بیشتر", server: 95.164.45.95, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 4", server: 638820971350283180.belgrade-shledrc-acbs.info, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
