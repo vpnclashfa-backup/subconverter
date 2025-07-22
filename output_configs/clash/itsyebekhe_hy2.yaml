@@ -1,0 +1,3 @@
+proxies:
+  - {name: 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1, server: 13.212.75.22, port: 10264, type: hysteria2, ports: 10264, password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4, server: aws-linkhy17.liangxin1.xyz, port: 443, type: hysteria2, ports: 443, password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af, sni: www.apple.com.cn, skip-cert-verify: false, udp: true, tfo: false}
