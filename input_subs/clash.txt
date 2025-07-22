@@ -6,13 +6,13 @@ https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/s
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt,mahsanet_mtn_sub_2
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt,mahsanet_mtn_sub_3
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt,mahsanet_mtn_sub_4
-https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt,rayan_proxy,base64_encode_me
-https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content.txt,maimengmeng,base64_encode_me
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/base64/hy2,itsyebekhe_hy2
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/base64/reality,itsyebekhe_reality
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/base64/mix,itsyebekhe_mix
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/base64/xhttp,itsyebekhe_xhttp
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/IR,itsyebekhe_IR
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/TR,itsyebekhe_TR
-https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid,base64_encode_me
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid
+https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt,rayan_proxy
+https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content.txt,maimengmeng
 https://shadowmere.xyz/api/b64sub/,shadowmere
