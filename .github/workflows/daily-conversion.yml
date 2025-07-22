@@ -151,26 +151,19 @@ jobs:
                         # ایجاد یک فایل موقت در پوشه Mount شده برای ذخیره محتوای دیکد شده
                         TEMP_DECODED_FILE=$(mktemp /tmp/subconverter_temp_data/decoded_XXXXXX.txt)
                         
-                        # دریافت محتوای Base64 از URL اصلی
-                        FETCHED_CONTENT=$(curl -s -S "$URL_TO_CONVERT_RAW")
-                        if [ $? -ne 0 ]; then
-                            echo "  خطا در دریافت محتوای Base64 از $URL_TO_CONVERT_RAW. رد می‌شود."
-                            echo "Error: Failed to fetch Base64 content." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                        # دریافت محتوای Base64 از URL اصلی و دیکد کردن مستقیم به فایل موقت
+                        # Redirect stderr of base64 -d to stdout for debugging
+                        curl -s -S "$URL_TO_CONVERT_RAW" | base64 -d > "$TEMP_DECODED_FILE" 2>&1
+                        CURL_BASE64_EXIT_CODE=$? # Get exit code of base64 -d
+                        
+                        # Check if base64 decoding failed or if the fetched content was empty/invalid
+                        if [ "$CURL_BASE64_EXIT_CODE" -ne 0 ] || [ ! -s "$TEMP_DECODED_FILE" ]; then
+                            echo "  خطا در دریافت یا دیکد کردن Base64 محتوا از $URL_TO_CONVERT_RAW (کد خطا: $CURL_BASE64_EXIT_CODE). محتوا ممکن است Base64 معتبر نباشد یا لینک نامعتبر باشد. رد می‌شود."
+                            echo "Error: Failed to fetch or Base64 decode content. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
                             rm -f "$TEMP_DECODED_FILE" # حذف فایل موقت
                             continue # پرش به خط بعدی
                         fi
                         
-                        # دیکد کردن محتوا از Base64
-                        DECODED_CONTENT=$(echo "$FETCHED_CONTENT" | base64 -d 2>/dev/null)
-                        if [ $? -ne 0 ]; then
-                            echo "  خطا در دیکد کردن Base64 محتوا از $URL_TO_CONVERT_RAW. محتوا ممکن است Base64 معتبر نباشد. رد می‌شود."
-                            echo "Error: Failed to Base64 decode content. Content might not be valid Base64." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
-                            rm -f "$TEMP_DECODED_FILE" # حذف فایل موقت
-                            continue # پرش به خط بعدی
-                        fi
-                        
-                        # ذخیره محتوای دیکد شده در فایل موقت
-                        echo "$DECODED_CONTENT" > "$TEMP_DECODED_FILE"
                         # ساخت URL file:// برای subconverter (مسیر داخل کانتینر)
                         URL_FOR_SUBVERTER="file:///app/temp_data/$(basename "$TEMP_DECODED_FILE")"
                         echo "  محتوای دیکد شده در '$TEMP_DECODED_FILE' ذخیره شد. subconverter از '$URL_FOR_SUBVERTER' استفاده خواهد کرد."
