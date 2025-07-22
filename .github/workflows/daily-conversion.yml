@@ -71,13 +71,13 @@ jobs:
 
       - name: Start subconverter Docker container # راه‌اندازی کانتینر subconverter در حالت HTTP سرور
         run: |
-          docker run -d -p 25500:25500 --name subconverter_instance metacubex/subconverter:latest
+          mkdir -p /tmp/subconverter_temp_data # ایجاد پوشه موقت روی هاست برای فایل‌های دیکد شده Base64
+          # راه‌اندازی کانتینر با Mount کردن پوشه موقت
+          docker run -d -p 25500:25500 -v /tmp/subconverter_temp_data:/app/temp_data --name subconverter_instance metacubex/subconverter:latest
           # صبر کردن برای آماده شدن سرویس subconverter
           echo "صبر کردن برای راه‌اندازی subconverter..."
-          # مقدار sleep را می‌توان بر اساس سرعت runner و زمان راه‌اندازی subconverter تنظیم کرد.
-          # 10 ثانیه معمولاً کافی است.
-          sleep 10 
-        
+          sleep 10 # 10 ثانیه معمولاً کافی است.
+          
       - name: Process subscription files # پردازش فایل‌های سابسکریپشن
         run: |
           # مسیر پوشه حاوی فایل‌های سابسکریپشن ورودی
@@ -100,7 +100,6 @@ jobs:
             echo "در حال پردازش فایل: $sub_file"
             
             # استخراج نام فایل بدون پسوند (مثلا "clash" از "clash.txt") که به عنوان TARGET_FORMAT استفاده می‌شود
-            # sed برای حذف پسوند .txt استفاده می‌شود.
             TARGET_FORMAT=$(basename "$sub_file" | sed 's/\.txt$//')
             
             # ایجاد زیرپوشه خروجی برای این فرمت هدف (مثلا output_configs/clash)
@@ -115,38 +114,77 @@ jobs:
               trimmed_line=$(echo "$line" | xargs) # حذف فضای خالی اطراف خط
 
               if [ -n "$trimmed_line" ]; then # اگر خط خالی نباشد
-                # جداسازی لینک و نام فایل دلخواه
-                if [[ "$trimmed_line" == *,* ]]; then
-                  URL_TO_CONVERT_RAW=$(echo "$trimmed_line" | cut -d',' -f1)
-                  CUSTOM_OUTPUT_BASE_NAME=$(echo "$trimmed_line" | cut -d',' -f2-) # گرفتن همه چیز بعد از اولین کاما
-                  # تمیز کردن نام فایل سفارشی: حذف کاراکترهای نامعتبر و جایگزینی با '_'
-                  CUSTOM_OUTPUT_BASE_NAME=$(echo "$CUSTOM_OUTPUT_BASE_NAME" | sed 's/[^a-zA-Z0-9._-]/_/g')
-                  OUTPUT_FILENAME="${CUSTOM_OUTPUT_BASE_NAME}.yaml"
+                # جداسازی لینک، نام فایل دلخواه و نوع پردازش
+                # Expected format: URL,FILENAME_BASE[,PROCESSING_TYPE]
+                URL_TO_CONVERT_RAW=$(echo "$trimmed_line" | cut -d',' -f1)
+                SECOND_PART=$(echo "$trimmed_line" | cut -d',' -f2-) # می‌تونه شامل FILENAME_BASE یا FILENAME_BASE,PROCESSING_TYPE باشه
+
+                if [[ "$SECOND_PART" == *","* ]]; then
+                    # اگر دو کاما یا بیشتر وجود دارد، یعنی FILENAME_BASE و PROCESSING_TYPE هر دو هستند
+                    CUSTOM_OUTPUT_BASE_NAME=$(echo "$SECOND_PART" | cut -d',' -f1)
+                    PROCESSING_TYPE=$(echo "$SECOND_PART" | cut -d',' -s -f2) # -s برای جلوگیری از خطا اگر فیلد دوم وجود ندارد
                 else
-                  # بازگشت به نام‌گذاری پیش‌فرض اگر کاما یافت نشد
-                  URL_TO_CONVERT_RAW="$trimmed_line"
-                  OUTPUT_FILENAME="${TARGET_FORMAT}_$(printf "%03d" $LINE_COUNT).yaml"
-                  echo "  هشدار: خط #$LINE_COUNT در فایل '$sub_file' فرمت 'URL,FILENAME' را ندارد. از نام پیش‌فرض استفاده می‌شود."
+                    # اگر فقط یک کاما یا بدون کاما باشد
+                    CUSTOM_OUTPUT_BASE_NAME="$SECOND_PART"
+                    PROCESSING_TYPE="" # پیش‌فرض: پردازش مستقیم
                 fi
+
+                # تمیز کردن نام فایل سفارشی: حذف کاراکترهای نامعتبر و جایگزینی با '_'
+                CUSTOM_OUTPUT_BASE_NAME=$(echo "$CUSTOM_OUTPUT_BASE_NAME" | sed 's/[^a-zA-Z0-9._-]/_/g')
+
+                # تعیین نام فایل خروجی نهایی
+                if [ -z "$CUSTOM_OUTPUT_BASE_NAME" ]; then
+                    OUTPUT_FILENAME="${TARGET_FORMAT}_$(printf "%03d" $LINE_COUNT).yaml"
+                    echo "  هشدار: خط #$LINE_COUNT در فایل '$sub_file' نام فایل سفارشی ندارد. از نام پیش‌فرض استفاده می‌شود."
+                else
+                    OUTPUT_FILENAME="${CUSTOM_OUTPUT_BASE_NAME}.yaml"
+                fi
+
+                OUTPUT_FILE_PATH_IN_WORKSPACE="${CURRENT_OUTPUT_DIR}/${OUTPUT_FILENAME}"
 
                 # بررسی اینکه بخش URL واقعاً یک URL باشد (یک بررسی ساده)
                 if [[ "$URL_TO_CONVERT_RAW" =~ ^https?:// ]]; then
-                    echo "  در حال تبدیل لینک #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
-                    
-                    # URL-encode کردن لینک تکی با استفاده از پایتون
-                    URL_TO_CONVERT=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$URL_TO_CONVERT_RAW")
-                    
-                    OUTPUT_FILE_PATH_IN_WORKSPACE="${CURRENT_OUTPUT_DIR}/${OUTPUT_FILENAME}"
+                    URL_FOR_SUBVERTER="" # این متغیر URL نهایی را که subconverter استفاده می‌کند، نگه می‌دارد
 
+                    if [ "$PROCESSING_TYPE" == "base64" ]; then
+                        echo "  در حال پردازش Base64 برای لینک #$LINE_COUNT از فایل '$sub_file'..."
+                        # ایجاد یک فایل موقت در پوشه Mount شده برای ذخیره محتوای دیکد شده
+                        TEMP_DECODED_FILE=$(mktemp /tmp/subconverter_temp_data/decoded_XXXXXX.txt)
+                        
+                        # دریافت محتوای Base64 از URL اصلی
+                        FETCHED_CONTENT=$(curl -s -S "$URL_TO_CONVERT_RAW")
+                        if [ $? -ne 0 ]; then
+                            echo "  خطا در دریافت محتوای Base64 از $URL_TO_CONVERT_RAW. رد می‌شود."
+                            echo "Error: Failed to fetch Base64 content." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                            rm -f "$TEMP_DECODED_FILE" # حذف فایل موقت
+                            continue # پرش به خط بعدی
+                        fi
+                        
+                        # دیکد کردن محتوا از Base64
+                        DECODED_CONTENT=$(echo "$FETCHED_CONTENT" | base64 -d 2>/dev/null)
+                        if [ $? -ne 0 ]; then
+                            echo "  خطا در دیکد کردن Base64 محتوا از $URL_TO_CONVERT_RAW. محتوا ممکن است Base64 معتبر نباشد. رد می‌شود."
+                            echo "Error: Failed to Base64 decode content. Content might not be valid Base64." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                            rm -f "$TEMP_DECODED_FILE" # حذف فایل موقت
+                            continue # پرش به خط بعدی
+                        fi
+                        
+                        # ذخیره محتوای دیکد شده در فایل موقت
+                        echo "$DECODED_CONTENT" > "$TEMP_DECODED_FILE"
+                        # ساخت URL file:// برای subconverter (مسیر داخل کانتینر)
+                        URL_FOR_SUBVERTER="file:///app/temp_data/$(basename "$TEMP_DECODED_FILE")"
+                        echo "  محتوای دیکد شده در '$TEMP_DECODED_FILE' ذخیره شد. subconverter از '$URL_FOR_SUBVERTER' استفاده خواهد کرد."
+                    else
+                        # URL-encode کردن لینک تکی با استفاده از پایتون برای پردازش مستقیم
+                        URL_FOR_SUBVERTER=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$URL_TO_CONVERT_RAW")
+                        echo "  در حال تبدیل مستقیم لینک #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
+                    fi
+                    
                     # ساخت URL کامل برای درخواست به API محلی subconverter
-                    # شامل لینک سابسکریپشن و پارامترهای پیشرفته
-                    FULL_API_URL="http://localhost:25500/sub?target=${TARGET_FORMAT}&url=${URL_TO_CONVERT}${ADVANCED_PARAMS}"
+                    # شامل لینک سابسکریپشن (که ممکن است file:// باشد) و پارامترهای پیشرفته
+                    FULL_API_URL="http://localhost:25500/sub?target=${TARGET_FORMAT}&url=${URL_FOR_SUBVERTER}${ADVANCED_PARAMS}"
                     
                     # ارسال درخواست curl به subconverter محلی و ذخیره خروجی
-                    # -s: حالت ساکت (silent)
-                    # -S: نمایش خطاها حتی در حالت ساکت
-                    # -o: ذخیره خروجی در فایل مشخص شده
-                    # حذف -f برای جلوگیری از توقف Workflow در صورت خطای HTTP (مانند 400)
                     curl -s -S -o "$OUTPUT_FILE_PATH_IN_WORKSPACE" "$FULL_API_URL"
                     
                     # بررسی وضعیت خروج دستور curl
@@ -156,7 +194,6 @@ jobs:
                     else
                       echo "  خطا در تبدیل لینک #$LINE_COUNT از فایل '$sub_file' (کد خطا: $CURL_EXIT_CODE). لطفاً لاگ‌های GitHub Actions را برای جزئیات بیشتر بررسی کنید."
                       echo "  این لینک ممکن است نامعتبر باشد یا subconverter نتواند آن را پردازش کند. به پردازش لینک‌های بعدی ادامه می‌دهیم."
-                      # می‌توانید محتوای فایل خروجی را با یک پیام خطا پر کنید تا مشخص باشد تبدیل ناموفق بوده است.
                       echo "Error: Failed to convert this link. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
                     fi
                 else
@@ -179,6 +216,12 @@ jobs:
           echo "توقف و حذف کانتینر subconverter..."
           docker stop subconverter_instance || true # `|| true` برای جلوگیری از خطا در صورت عدم وجود کانتینر
           docker rm subconverter_instance || true # `|| true` برای جلوگیری از خطا در صورت عدم وجود کانتینر
+
+      - name: Clean up temporary files # حذف فایل‌های موقت
+        if: always() # همیشه اجرا شود
+        run: |
+          echo "حذف فایل‌های موقت..."
+          rm -rf /tmp/subconverter_temp_data || true # `|| true` برای جلوگیری از خطا در صورت عدم وجود پوشه
 
       - name: Configure Git user # پیکربندی اطلاعات Git برای commit کردن تغییرات
         run: |
