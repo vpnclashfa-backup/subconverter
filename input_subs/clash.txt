@@ -15,4 +15,4 @@ https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/l
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid
 https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/rayan_proxy.txt,rayan_proxy
 https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/maimengmeng.txt,maimengmeng
-https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/maimengmeng_AnyTLS.txt,maimengmeng_AnyTLS.txt
+https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/maimengmeng_AnyTLS.txt,maimengmeng_AnyTLS
