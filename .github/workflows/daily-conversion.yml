@@ -146,31 +146,38 @@ jobs:
                 if [[ "$URL_TO_CONVERT_RAW" =~ ^https?:// ]]; then
                     URL_FOR_SUBVERTER="" # این متغیر URL نهایی را که subconverter استفاده می‌کند، نگه می‌دارد
 
-                    if [ "$PROCESSING_TYPE" == "base64" ]; then
-                        echo "  در حال پردازش Base64 برای لینک #$LINE_COUNT از فایل '$sub_file'..."
-                        # ایجاد یک فایل موقت در پوشه Mount شده برای ذخیره محتوای دیکد شده
-                        TEMP_DECODED_FILE=$(mktemp /tmp/subconverter_temp_data/decoded_XXXXXX.txt)
+                    if [ -z "$PROCESSING_TYPE" ]; then # محتوای URL از قبل Base64 شده است
+                        echo "  در حال تبدیل مستقیم لینک (محتوای از پیش Base64 شده) #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
+                        # URL اصلی را URL-encode کرده و مستقیماً به subconverter می‌دهیم.
+                        # فرض بر این است که subconverter خودش محتوای Base64 را از این URL دریافت و دیکد می‌کند.
+                        URL_FOR_SUBVERTER=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$URL_TO_CONVERT_RAW")
+                    else # محتوای URL متن معمولی است و باید به Base64 تبدیل شود
+                        echo "  در حال دریافت محتوای معمولی و تبدیل به Base64 برای لینک #$LINE_COUNT از فایل '$sub_file'..."
                         
-                        # دریافت محتوای Base64 از URL اصلی و دیکد کردن مستقیم به فایل موقت
-                        # Redirect stderr of base64 -d to stdout for debugging
-                        curl -s -S "$URL_TO_CONVERT_RAW" | base64 -d > "$TEMP_DECODED_FILE" 2>&1
-                        CURL_BASE64_EXIT_CODE=$? # Get exit code of base64 -d
+                        # ایجاد یک فایل موقت برای ذخیره محتوای Base64 شده
+                        TEMP_ENCODED_BASE64_FILE=$(mktemp /tmp/subconverter_temp_data/encoded_XXXXXX.txt)
                         
-                        # Check if base64 decoding failed or if the fetched content was empty/invalid
-                        if [ "$CURL_BASE64_EXIT_CODE" -ne 0 ] || [ ! -s "$TEMP_DECODED_FILE" ]; then
-                            echo "  خطا در دریافت یا دیکد کردن Base64 محتوا از $URL_TO_CONVERT_RAW (کد خطا: $CURL_BASE64_EXIT_CODE). محتوا ممکن است Base64 معتبر نباشد یا لینک نامعتبر باشد. رد می‌شود."
-                            echo "Error: Failed to fetch or Base64 decode content. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
-                            rm -f "$TEMP_DECODED_FILE" # حذف فایل موقت
+                        # دریافت محتوای معمولی از URL اصلی و تبدیل آن به Base64
+                        curl -s -S "$URL_TO_CONVERT_RAW" | base64 -w 0 > "$TEMP_ENCODED_BASE64_FILE" 2>&1
+                        CURL_BASE64_ENCODE_EXIT_CODE=$?
+                        
+                        if [ "$CURL_BASE64_ENCODE_EXIT_CODE" -ne 0 ]; then
+                            echo "  خطا در دریافت یا تبدیل محتوای معمولی به Base64 از $URL_TO_CONVERT_RAW (کد خطا: $CURL_BASE64_ENCODE_EXIT_CODE). رد می‌شود."
+                            echo "Error: Failed to fetch or Base64 encode content. Check GitHub Actions logs for details." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                            rm -f "$TEMP_ENCODED_BASE64_FILE" # حذف فایل موقت
+                            continue # پرش به خط بعدی
+                        fi
+
+                        if [ ! -s "$TEMP_ENCODED_BASE64_FILE" ]; then
+                            echo "  خطا: محتوای Base64 شده از $URL_TO_CONVERT_RAW خالی است. رد می‌شود."
+                            echo "Error: Encoded Base64 content is empty." > "$OUTPUT_FILE_PATH_IN_WORKSPACE"
+                            rm -f "$TEMP_ENCODED_BASE64_FILE" # حذف فایل موقت
                             continue # پرش به خط بعدی
                         fi
                         
                         # ساخت URL file:// برای subconverter (مسیر داخل کانتینر)
-                        URL_FOR_SUBVERTER="file:///app/temp_data/$(basename "$TEMP_DECODED_FILE")"
-                        echo "  محتوای دیکد شده در '$TEMP_DECODED_FILE' ذخیره شد. subconverter از '$URL_FOR_SUBVERTER' استفاده خواهد کرد."
-                    else
-                        # URL-encode کردن لینک تکی با استفاده از پایتون برای پردازش مستقیم
-                        URL_FOR_SUBVERTER=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(input(), safe=""))' <<< "$URL_TO_CONVERT_RAW")
-                        echo "  در حال تبدیل مستقیم لینک #$LINE_COUNT از فایل '$sub_file' به فرمت '$TARGET_FORMAT'..."
+                        URL_FOR_SUBVERTER="file:///app/temp_data/$(basename "$TEMP_ENCODED_BASE64_FILE")"
+                        echo "  محتوای معمولی تبدیل شده به Base64 در '$TEMP_ENCODED_BASE64_FILE' ذخیره شد. subconverter از '$URL_FOR_SUBVERTER' استفاده خواهد کرد."
                     fi
                     
                     # ساخت URL کامل برای درخواست به API محلی subconverter
