@@ -13,6 +13,6 @@ https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/x
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/IR,itsyebekhe_IR
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/TR,itsyebekhe_TR
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid
-https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt,rayan_proxy
-https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content.txt,maimengmeng
-https://shadowmere.xyz/api/b64sub/,shadowmere
+https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt,rayan_proxy,base64
+https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content.txt,maimengmeng,base64
+https://shadowmere.xyz/api/b64sub,shadowmere
