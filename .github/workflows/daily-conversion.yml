@@ -1,13 +1,10 @@
 name: Daily Subscription Converter
 
 on:
-  # این Workflow هر روز در ساعت 00:00 UTC (حدود 03:30 صبح به وقت ایران) اجرا می‌شود.
-  # می‌توانید زمان را بر اساس نیاز خود تغییر دهید.
-  # برای اطلاعات بیشتر در مورد Cron syntax: https://crontab.guru/
   schedule:
-    - cron: '0 0 * * *' # هر روز ساعت 00:00 UTC
-
-  # می‌توانید یک تریگر دستی هم اضافه کنید تا هر وقت خواستید آن را اجرا کنید.
+  schedule:
+    - cron: '30 5 * * *'
+    - cron: '30 17 * * *'
   workflow_dispatch:
 
 jobs:
