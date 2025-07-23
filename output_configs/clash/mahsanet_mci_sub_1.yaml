@@ -1,2 +1,2 @@
 proxies:
-  - {name: "@meli_proxyy", server: 95.164.45.95, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
