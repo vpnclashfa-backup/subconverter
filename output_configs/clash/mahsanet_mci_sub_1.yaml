@@ -5,7 +5,6 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ", server: InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5c929ec5-5b1e-447a-950c-354c5d1ba1de, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
@@ -13,14 +12,12 @@ Proxy Group:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: 🎥 NETFLIX
     type: select
@@ -28,7 +25,6 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: ⛔️ 广告拦截
     type: select
@@ -48,7 +44,6 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: 🌏 国内媒体
     type: select
@@ -60,14 +55,12 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: 🍎 苹果服务
     type: select
@@ -75,7 +68,6 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
   - name: 🎯 全球直连
     type: select
@@ -92,7 +84,6 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ"
       - "@meli_proxyy"
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
