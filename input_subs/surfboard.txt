@@ -12,9 +12,9 @@ https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/l
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid
 https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/rayan_proxy.txt,rayan_proxy
 https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/maimengmeng.txt,maimengmeng
-https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt,10ium_fetcher
+https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_proxy_configs.txt,10ium_fetcher
 https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/base64/mix,10ium_HiN-VPN
-https://raw.githubusercontent.com/10ium/V2RayAggregator/refs/heads/master/Eternity.txt,10ium_Aggregator
-https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Normal/vmess,10ium_V2Hub_vmess
-https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Normal/trojan,10ium_V2Hub_trojan
-https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Normal/shadowsocks,10ium_V2Hub_shadowsocks
+https://raw.githubusercontent.com/10ium/V2RayAggregator/refs/heads/master/Eternity,10ium_Aggregator
+https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Base64/vmess,10ium_V2Hub_vmess
+https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Base64/trojan,10ium_V2Hub_trojan
+https://raw.githubusercontent.com/10ium/V2Hub3/main/Split/Base64/shadowsocks,10ium_V2Hub_shadowsocks
