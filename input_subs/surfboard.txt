@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt,mahsanet_mci_sub_1
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt,mahsanet_mci_sub_2
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt,mahsanet_mci_sub_3
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt,mahsanet_mci_sub_4
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt,mahsanet_mtn_sub_1
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt,mahsanet_mtn_sub_2
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt,mahsanet_mtn_sub_3
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt,mahsanet_mtn_sub_4
+https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/base64/mix,itsyebekhe_mix
+https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/IR,itsyebekhe_IR
+https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/location/base64/TR,itsyebekhe_TR
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt,roosterkid
+https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/rayan_proxy.txt,rayan_proxy
+https://raw.githubusercontent.com/vpnclashfa-backup/SubConfigShuffler/refs/heads/main/shuffled_outputs/maimengmeng.txt,maimengmeng
