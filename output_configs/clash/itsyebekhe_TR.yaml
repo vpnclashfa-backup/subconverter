@@ -7,4 +7,5 @@ proxies:
   - {name: TR | 🟢 | ss | @v2ray_v_vpn | 19, server: tr.vpnsparta.pro, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @v2rayngvvpn | 27, server: 94.131.123.147, port: 7383, type: ss, cipher: chacha20-ietf-poly1305, password: eSHEdJz96rqNkOCAzd5Csv, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @v_2ray1 | 11, server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
-  - {name: TR | 🟢 | vless | @vpnv2rayngv | 16, server: 62.3.12.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 75fde681-ec64-4654-86fa-30732e8e179c, servername: NGINX-Z.pages.DEV, alpn: [h3], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TR | 🟢 | ss | @vmesc | 15, server: tur.fastsoonlink.com, port: 40019, type: ss, cipher: chacha20-ietf-poly1305, password: 78e36312-16d4-49c2-ad18-610bf6d05d63, udp: true, tfo: false}
+  - {name: TR | 🟢 | vless | @vpnv2rayngv | 14, server: 62.3.12.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 75fde681-ec64-4654-86fa-30732e8e179c, servername: NGINX-Z.pages.DEV, alpn: [h3], skip-cert-verify: false, udp: true, tfo: false}
