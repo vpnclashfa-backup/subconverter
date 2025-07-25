@@ -5,31 +5,27 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1, server: 13.212.75.22, port: 10264, type: hysteria2, ports: 10264, password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4, server: aws-linkhy17.liangxin1.xyz, port: 443, type: hysteria2, ports: 443, password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af, sni: www.apple.com.cn, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ❔ XX | 🟢 | hy2 | @filter_breaker | 43, server: nlnl.yinheyz.cfd, port: 33856, type: hysteria2, ports: 33856, password: ecb6728b-70e5-4b01-8cc1-19d6ffc84858, obfs: salamander, obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==, sni: nlnl.yinheyz.cfd, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -48,8 +44,7 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -60,23 +55,20 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -92,8 +84,7 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬 SG | 🟢 | hy2 | @zdyz2 | 1
-      - 🇯🇵 JP | 🟢 | hy2 | @zdyz2 | 4
+      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

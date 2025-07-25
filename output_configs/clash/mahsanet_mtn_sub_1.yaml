@@ -5,59 +5,51 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: کانفینگ  اختصاصی @ParsiV2ray پر سرعت, server: 104.17.147.22, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69, servername: smart.v2plusify.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy 2", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v2raynplus |, server: 95.164.45.85, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meli_proxyy 3", server: 95.164.45.95, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 3", server: 95.164.45.70, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy 4", server: 95.164.45.70, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meli_proxyy 5", server: 95.164.45.70, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyyسرورای‌بیشتر", server: 95.164.45.95, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meli_proxyy 6", server: 638820971350283180.belgrade-shledrc-acbs.info, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 5", server: 638820971350283180.belgrade-shledrc-acbs.info, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -76,15 +68,13 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -95,44 +85,38 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -148,15 +132,13 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - کانفینگ  اختصاصی @ParsiV2ray پر سرعت
       - "@meli_proxyy"
       - "@meli_proxyy 2"
       - v2raynplus |
       - "@meli_proxyy 3"
       - "@meli_proxyy 4"
-      - "@meli_proxyy 5"
       - "@meli_proxyyسرورای‌بیشتر"
-      - "@meli_proxyy 6"
+      - "@meli_proxyy 5"
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

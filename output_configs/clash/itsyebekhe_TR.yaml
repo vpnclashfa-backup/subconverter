@@ -6,10 +6,8 @@ log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
   - {name: TR | 🟢 | vless | @f_nirevil | 2, server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR | 🟢 | vless | @filter_breaker | 46, server: 91.228.186.195, port: 54843, type: vless, tls: true, packet-encoding: xudp, uuid: 8b2aa8a0-ddea-4296-bc19-c46db6271fb1, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: B3F8lbh4WaeM7vZzkJWrGp-TSRCW_EGMmUQyLCUbxXM, short-id: c8123d09fda87235}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: TR | 🔴 | vless | @jeyksatan | 12, server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR | 🔴 | vless | @netmellianti | 16, server: 45.8.21.6, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 1e15402c-1bc5-4a05-8f4a-6c6512311ab4, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR | 🟢 | vless | @outline_vpn | 25, server: 62.3.12.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 75fde681-ec64-4654-86fa-30732e8e179c, servername: NGINX-Z.pages.DEV, alpn: [h3], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TR | 🟢 | vless | @outline_vpn | 24, server: 62.3.12.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 75fde681-ec64-4654-86fa-30732e8e179c, servername: NGINX-Z.pages.DEV, alpn: [h3], skip-cert-verify: false, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @proxy_net_meli | 8, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
   - {name: TR | 🔴 | vless | @pusyvpn | 7, server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @v2rayngvvpn | 27, server: 94.131.123.147, port: 7383, type: ss, cipher: chacha20-ietf-poly1305, password: eSHEdJz96rqNkOCAzd5Csv, udp: true, tfo: false}
@@ -21,10 +19,8 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -35,10 +31,8 @@ Proxy Group:
     interval: 300
     proxies:
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -50,10 +44,8 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -77,10 +69,8 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -96,10 +86,8 @@ Proxy Group:
       - 🎯 全球直连
       - 🔰 节点选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -110,10 +98,8 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -125,10 +111,8 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
@@ -149,10 +133,8 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | vless | @filter_breaker | 46
       - TR | 🔴 | vless | @jeyksatan | 12
-      - TR | 🔴 | vless | @netmellianti | 16
-      - TR | 🟢 | vless | @outline_vpn | 25
+      - TR | 🟢 | vless | @outline_vpn | 24
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
       - TR | 🟢 | ss | @v2rayngvvpn | 27
