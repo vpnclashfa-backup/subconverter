@@ -5,7 +5,8 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: "@meli_proxyy", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meli_proxyy 2", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
@@ -13,12 +14,14 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -26,6 +29,7 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -45,6 +49,7 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -56,12 +61,14 @@ Proxy Group:
       - 🎯 全球直连
       - 🔰 节点选择
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -69,6 +76,7 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -85,6 +93,7 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "@meli_proxyy"
+      - "@meli_proxyy 2"
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
