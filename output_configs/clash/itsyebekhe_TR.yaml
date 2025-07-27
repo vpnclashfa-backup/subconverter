@@ -6,12 +6,12 @@ log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
   - {name: TR | 🟢 | vless | @f_nirevil | 2, server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR | 🟢 | ss | @free1ss | 16, server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: uFCaPTWSVw8fHHDeIdkY7O, udp: true, tfo: false}
   - {name: TR | 🔴 | vless | @jeyksatan | 12, server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @proxy_net_meli | 8, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
   - {name: TR | 🔴 | vless | @pusyvpn | 7, server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR | 🔴 | vmess | @v2rayn5 | 4, server: 213.142.150.227, port: 8443, type: vmess, uuid: 3c3e0cda-709a-438c-a48a-99b38f8ddc68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
+  - {name: TR | 🔴 | vmess | @v2rayn5 | 2, server: 213.142.150.227, port: 8443, type: vmess, uuid: 3c3e0cda-709a-438c-a48a-99b38f8ddc68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: TR | 🟢 | ss | @v_2ray1 | 11, server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
+  - {name: TR | 🟢 | ss | @vmess_ir | 16, server: tr.vpnsparta.pro, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
@@ -19,24 +19,24 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -44,12 +44,12 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -69,12 +69,12 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -86,24 +86,24 @@ Proxy Group:
       - 🎯 全球直连
       - 🔰 节点选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -111,12 +111,12 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -133,12 +133,12 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🟢 | vless | @f_nirevil | 2
-      - TR | 🟢 | ss | @free1ss | 16
       - TR | 🔴 | vless | @jeyksatan | 12
       - TR | 🟢 | ss | @proxy_net_meli | 8
       - TR | 🔴 | vless | @pusyvpn | 7
-      - TR | 🔴 | vmess | @v2rayn5 | 4
+      - TR | 🔴 | vmess | @v2rayn5 | 2
       - TR | 🟢 | ss | @v_2ray1 | 11
+      - TR | 🟢 | ss | @vmess_ir | 16
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
