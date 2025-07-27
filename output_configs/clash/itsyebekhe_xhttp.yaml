@@ -5,21 +5,38 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: 🇺🇸 US | 🔴 | vless | @configshubplus | 13, server: 172.236.103.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bc432859-051c-40e5-ab96-a34f47f1b14a, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇳 IN | 🟢 | vless | @configshubplus | 17, server: 160.191.183.244, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4a2b03d3-93d7-41eb-9f91-992d781568bc, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: KKzd7r0oeVE4KaUJddgSwrxThKDzKZajx_YZti0zVC4, short-id: 40}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @configscenter | 2, server: 2sudo.winapp3.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5b0e1347-1e9b-4b83-a27b-468e3dafb69b, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 9, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f21bd47d-64a6-4316-ba6d-d6d8e2120034, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 12, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3d212218-5ee2-4df8-8bf8-9eaf2474bf6e, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 13, server: Ip2.yw5jk.org, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3d212218-5ee2-4df8-8bf8-9eaf2474bf6e, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7, server: ips.rainoteam.store, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6a45de8b-46e5-4da4-b242-3e18f3228087, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🔴 | vless | @iseqaro | 0, server: s5.1dnt.k-l.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f353fbf3-b6a1-4524-b916-f65bc077511f, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3, server: bos.lebasnoo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9c2e1da7-8e50-4899-ad69-ad0b52de696c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10, server: vip1.proxystore11.news, port: 15110, type: vless, tls: true, packet-encoding: xudp, uuid: 91b14630-d9fa-442c-8a2a-b16967e910fe, servername: yahoo.com, reality-opts: {public-key: y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk, short-id: 0570}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12, server: vip1.proxystore11.news, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 423a18a5-0798-46d9-83f1-5bec04a2f49e, servername: vultr.com, reality-opts: {public-key: -4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io, short-id: f8fcb589}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127, server: vip1.proxystore11.news, port: 15110, type: vless, tls: true, packet-encoding: xudp, uuid: 91b14630-d9fa-442c-8a2a-b16967e910fe, servername: yahoo.com, reality-opts: {public-key: y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk, short-id: 0570}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @turboo_server | 6, server: server2.ultra-irancell.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: turboo-server, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5, server: test.fast.hosting-ip.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: bb57d265-b716-4092-bd0a-68f3988db63c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16, server: viop.fast.hosting-ip.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7, server: statue.lnmarketplace.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c63f43f-f526-49bb-b5c8-2be26e11ef00, servername: statue.lnmarketplace.net, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2, server: netmeli.noytads.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e018bfab-0902-47a0-abfc-7efbd017ec73, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: IT | 🔴 | vless | @xsv2ray | 4, server: fast-01.saitsazs.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 34a4cfb4-8b42-42ba-b087-6a338c2b3b4a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8, server: 91.107.254.202, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a6580107-b1e0-4057-9f47-ac7f28de457a, servername: firebase.googleapis.com, reality-opts: {public-key: 4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4, short-id: 7ab467}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE | 🟢 | vless | @farahvpn | 19, server: 199.247.16.203, port: 17928, type: vless, tls: true, packet-encoding: xudp, uuid: 71243590-61ff-46b9-816c-ec48ea9ea692, servername: zhaket.com, reality-opts: {public-key: hP4TGbnaexWt-MKrFPd67DoFwSmr-o72GILwFvmZxiA, short-id: d3c49afc00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🟢 | vless | @farahvpn | 18, server: 199.247.16.203, port: 17928, type: vless, tls: true, packet-encoding: xudp, uuid: 71243590-61ff-46b9-816c-ec48ea9ea692, servername: zhaket.com, reality-opts: {public-key: hP4TGbnaexWt-MKrFPd67DoFwSmr-o72GILwFvmZxiA, short-id: d3c49afc00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🔴 | vless | @fastkanfig | 10, server: 216.22.5.96, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e7b626f8-ebcc-4a24-ac32-4efb1d92340a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🟢 | vless | @game_file2020 | 9, server: 5.161.151.225, port: 6009, type: vless, tls: true, packet-encoding: xudp, uuid: bd33dca5-e673-4c02-a629-f7fa368e2333, servername: adtarget.com.tr, reality-opts: {public-key: cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc, short-id: dc5db021ae2038a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8088c605-e0c2-4774-9ee4-7fa7e47b6112, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8088c605-e0c2-4774-9ee4-7fa7e47b6112, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18, server: 199.247.16.203, port: 17928, type: vless, tls: true, packet-encoding: xudp, uuid: 71243590-61ff-46b9-816c-ec48ea9ea692, servername: zhaket.com, reality-opts: {public-key: hP4TGbnaexWt-MKrFPd67DoFwSmr-o72GILwFvmZxiA, short-id: d3c49afc00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7, server: 199.247.16.203, port: 17928, type: vless, tls: true, packet-encoding: xudp, uuid: 71243590-61ff-46b9-816c-ec48ea9ea692, servername: zhaket.com, reality-opts: {public-key: hP4TGbnaexWt-MKrFPd67DoFwSmr-o72GILwFvmZxiA, short-id: d3c49afc00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: AE | 🟢 | vless | @grizzlyvpn | 6, server: 130.185.122.139, port: 16380, type: vless, tls: true, packet-encoding: xudp, uuid: a84f0ac2-0a3d-4ad4-bd9e-9b9ed0f7a603, servername: microsoft.com, reality-opts: {public-key: fcCCo3amb6xSdqw_NPVERN8TF-Noy4DRHLNFM9ee4DQ, short-id: 7821497e5d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: AE | 🟢 | vless | @grizzlyvpn | 8, server: 130.185.122.252, port: 28964, type: vless, tls: true, packet-encoding: xudp, uuid: 9987a847-5e57-440c-890e-33fd179af6ff, servername: www.bing.com, reality-opts: {public-key: aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs, short-id: 5405}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🔴 | vless | @lexernet | 7, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: turboo-server, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7, server: 91.99.176.24, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bb7b030f-fd37-488a-be1f-1a26d874cb26, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0, server: 49.13.199.174, port: 55555, type: vless, tls: true, packet-encoding: xudp, uuid: a2c6fa8e-3b6d-4706-bef5-a0365c76a821, servername: google.com, reality-opts: {public-key: d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w, short-id: bc5a8ead5ee076aa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2, server: 49.13.199.174, port: 55555, type: vless, tls: true, packet-encoding: xudp, uuid: 9d468e0a-01ca-41a2-a89b-73b2756f91ec, servername: google.com, reality-opts: {public-key: d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w, short-id: bc5a8ead5ee076aa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @outline_ir | 14, server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d47af421-30d5-49a3-af17-629cdc61e72e, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🟢 | vless | @proxie | 11, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c53e7b0c-bd46-4b36-ad14-14d1bf895bce, servername: Varda.Manwe.ir, alpn: ["http/1.1,h2,h3"], skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🟢 | vless | @proxie | 12, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: edf78ca5-7ccb-44d4-88e6-b5bfb00499f2, servername: Varda.Manwe.ir, alpn: ["http/1.1,h2,h3"], skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🟢 | vless | @proxie | 13, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 13b5abce-df4b-4e08-8b38-5fbfa5a5a95a, servername: Varda.Manwe.ir, alpn: ["http/1.1,h2,h3"], skip-cert-verify: false, udp: true, tfo: false}
@@ -32,7 +49,6 @@ Proxy:
   - {name: 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9, server: 199.247.28.17, port: 44914, type: vless, tls: true, packet-encoding: xudp, uuid: 55a4210c-e765-427f-813d-0c55b763f6b0, servername: black-moai.com, reality-opts: {public-key: o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8, short-id: 1ac2a2dde288}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10, server: 199.247.28.17, port: 44914, type: vless, tls: true, packet-encoding: xudp, uuid: 7b93491b-d1c0-4679-938d-56f0abec50b2, servername: black-moai.com, reality-opts: {public-key: o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8, short-id: 1ac2a2dde288}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11, server: 80.240.23.101, port: 47567, type: vless, tls: true, packet-encoding: xudp, uuid: 73cc7084-a427-4193-8fe0-6dd72ac48265, servername: www.black-moai.com, reality-opts: {public-key: qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU, short-id: a862ded52ae3ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: V2rayNGFreeeV2rayNGFreee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: joinshotoV2rayNGFreee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3, server: 151.101.67.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: joinshotoV2rayNGFreee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: FI | 🔴 | vless | @v2rayngfreee | 4, server: 65.108.247.56, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: joinshotoV2rayNGFreee, skip-cert-verify: false, udp: true, tfo: false}
@@ -41,43 +57,44 @@ Proxy:
   - {name: 🇩🇪 DE | 🟢 | vless | @vmessorg | 25, server: 80.240.23.101, port: 47567, type: vless, tls: true, packet-encoding: xudp, uuid: 73cc7084-a427-4193-8fe0-6dd72ac48265, servername: www.black-moai.com, reality-opts: {public-key: qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU, short-id: a862ded52ae3ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13, server: 45.150.33.157, port: 50810, type: vless, tls: true, packet-encoding: xudp, uuid: 9d21a437-dbae-4995-949b-d9920f2613a9, servername: zhaket.com, reality-opts: {public-key: J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg, short-id: aa60a00122200b76}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15, server: 45.150.33.157, port: 50810, type: vless, tls: true, packet-encoding: xudp, uuid: ec62aa44-b9cd-417f-9adb-3a602922466d, servername: zhaket.com, reality-opts: {public-key: J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg, short-id: aa60a00122200b76}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @configscenter | 2, server: 2sudo.winapp3.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5b0e1347-1e9b-4b83-a27b-468e3dafb69b, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 9, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f21bd47d-64a6-4316-ba6d-d6d8e2120034, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 12, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3d212218-5ee2-4df8-8bf8-9eaf2474bf6e, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @dailytek | 13, server: Ip2.yw5jk.org, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3d212218-5ee2-4df8-8bf8-9eaf2474bf6e, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @father_vpn | 0, server: server2.ultra-irancell.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a707317c-2236-41c0-9c00-63e866401b25, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7, server: ips.rainoteam.store, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6a45de8b-46e5-4da4-b242-3e18f3228087, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE | 🔴 | vless | @iseqaro | 0, server: s5.1dnt.k-l.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f353fbf3-b6a1-4524-b916-f65bc077511f, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3, server: bos.lebasnoo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9c2e1da7-8e50-4899-ad69-ad0b52de696c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10, server: vip1.proxystore11.news, port: 15110, type: vless, tls: true, packet-encoding: xudp, uuid: 91b14630-d9fa-442c-8a2a-b16967e910fe, servername: yahoo.com, reality-opts: {public-key: y7msPZW4eWBT4CJ5v_blgiXUd06HuKvTs3rhlpw9fnk, short-id: 0570}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12, server: vip1.proxystore11.news, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 423a18a5-0798-46d9-83f1-5bec04a2f49e, servername: vultr.com, reality-opts: {public-key: -4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io, short-id: f8fcb589}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @turboo_server | 6, server: server2.ultra-irancell.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: turboo-server, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5, server: test.fast.hosting-ip.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: bb57d265-b716-4092-bd0a-68f3988db63c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16, server: viop.fast.hosting-ip.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7, server: statue.lnmarketplace.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c63f43f-f526-49bb-b5c8-2be26e11ef00, servername: statue.lnmarketplace.net, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2, server: netmeli.noytads.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e018bfab-0902-47a0-abfc-7efbd017ec73, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IT | 🔴 | vless | @xsv2ray | 4, server: fast-01.saitsazs.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 34a4cfb4-8b42-42ba-b087-6a338c2b3b4a, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -90,7 +107,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -99,42 +115,43 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -147,7 +164,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -156,43 +172,44 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -205,7 +222,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -214,22 +230,6 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -248,21 +248,38 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -275,7 +292,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -284,22 +300,6 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -310,21 +310,38 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -337,7 +354,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -346,42 +362,43 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -394,7 +411,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -403,43 +419,44 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -452,7 +469,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -461,22 +477,6 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -492,21 +492,38 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 US | 🔴 | vless | @configshubplus | 13
-      - 🇮🇳 IN | 🟢 | vless | @configshubplus | 17
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
+      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
+      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
+      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
+      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
+      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
+      - 🇩🇪 DE | 🟢 | vless | @prrofile_purple | 127
+      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
+      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
+      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
+      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
+      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
+      - IT | 🔴 | vless | @xsv2ray | 4
       - 🇩🇪 DE | 🟢 | vless | @customvpnserver | 8
-      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 19
+      - 🇩🇪 DE | 🟢 | vless | @farahvpn | 18
       - 🇺🇸 US | 🔴 | vless | @fastkanfig | 10
       - 🇺🇸 US | 🟢 | vless | @game_file2020 | 9
-      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 12
+      - 🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann | 18
       - 🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 7
       - AE | 🟢 | vless | @grizzlyvpn | 6
       - AE | 🟢 | vless | @grizzlyvpn | 8
       - 🇺🇸 US | 🔴 | vless | @lexernet | 7
+      - 🇩🇪 DE | 🔴 | vless | @lranonline_new | 7
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0
       - 🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2
-      - 🇺🇸 US | 🔴 | vless | @outline_ir | 14
       - 🇺🇸 US | 🟢 | vless | @proxie | 11
       - 🇺🇸 US | 🟢 | vless | @proxie | 12
       - 🇺🇸 US | 🟢 | vless | @proxie | 13
@@ -519,7 +536,6 @@ Proxy Group:
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 9
       - 🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10
       - 🇩🇪 DE | 🟢 | vless | @v2rayexpress | 11
-      - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2
       - 🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3
       - FI | 🔴 | vless | @v2rayngfreee | 4
@@ -528,22 +544,6 @@ Proxy Group:
       - 🇩🇪 DE | 🟢 | vless | @vmessorg | 25
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 13
       - 🇳🇱 NL | 🟢 | vless | @vpncostumer | 15
-      - 🇺🇸 US | 🔴 | vless | @configscenter | 2
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 9
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 12
-      - 🇺🇸 US | 🔴 | vless | @dailytek | 13
-      - 🇺🇸 US | 🔴 | vless | @father_vpn | 0
-      - 🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7
-      - 🇩🇪 DE | 🔴 | vless | @iseqaro | 0
-      - 🇺🇸 US | 🔴 | vless | @proxy_v2box | 3
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 10
-      - 🇩🇪 DE | 🟢 | vless | @proxystore11 | 12
-      - 🇺🇸 US | 🔴 | vless | @turboo_server | 6
-      - 🇺🇸 US | 🔴 | vless | @v2ray_sub | 5
-      - 🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16
-      - 🇳🇱 NL | 🟢 | vless | @v2raymelliii | 7
-      - 🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2
-      - IT | 🔴 | vless | @xsv2ray | 4
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
