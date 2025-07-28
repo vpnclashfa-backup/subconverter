@@ -5,47 +5,51 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: "TR | 🔒 VLESS | @f_nirevil #3", server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔓 VLESS | @jeyksatan #13", server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @proxy_net_meli #9", server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
-  - {name: "TR | 🔓 VLESS | @pusyvpn #8", server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔓 VMESS | @v2rayn5 #1", server: 213.142.150.227, port: 8443, type: vmess, uuid: 3c3e0cda-709a-438c-a48a-99b38f8ddc68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @v_2ray1 #12", server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233", server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313", server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239", server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238", server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340", server: 94.131.108.195, port: 53221, type: vless, tls: true, packet-encoding: xudp, uuid: 90efad13-d266-4d10-a914-bc40028ec469, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312", server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -64,12 +68,13 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -80,35 +85,38 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -124,12 +132,13 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "TR | 🔒 VLESS | @f_nirevil #3"
-      - "TR | 🔓 VLESS | @jeyksatan #13"
-      - "TR | 🔒 SS | @proxy_net_meli #9"
-      - "TR | 🔓 VLESS | @pusyvpn #8"
-      - "TR | 🔓 VMESS | @v2rayn5 #1"
-      - "TR | 🔒 SS | @v_2ray1 #12"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40f_nirevil+%233"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40jeyksatan+%2313"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+VLESS+%7C+%40netfreedom0+%2320"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40proxy_net_meli+%239"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40pusyvpn+%238"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%93+VLESS+%7C+%40v2ray_collector+%2340"
+      - "%F0%9F%87%B9%F0%9F%87%B7+TR+%7C+%F0%9F%94%92+SS+%7C+%40v_2ray1+%2312"
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
