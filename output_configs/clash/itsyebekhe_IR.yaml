@@ -21,8 +21,6 @@ Proxy:
   - {name: "IR | 🔒 VLESS | @dargiiriis [1]", server: 185.239.2.101, port: 12002, type: vless, tls: true, packet-encoding: xudp, uuid: ad482dbf-8b1e-45ed-ad01-d9348fbf51cc, servername: www.speedtest.net, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @dargiiriis [2]", server: 185.201.49.30, port: 58097, type: vless, tls: true, packet-encoding: xudp, uuid: c058fe92-58fd-18fe-2ce0-53eebbeb2ceb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @dargiiriis [4]", server: vip.360store.info, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bfc791d7-0ff4-4a9a-8215-118c496a7cd1, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @darkma3ter24 [13]", server: www.parspack.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4825edb4-0fde-4d48-892d-ddac2e1e13bb, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @darkma3ter24 [14]", server: www.parspack.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 08cca313-4f8b-4389-8fab-63684675d52b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @easy_free_vpn [3]", server: iranserver.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 41bd1a4c-855e-4ebc-85ce-9c927840fa82, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @eliteproxyv2 [9]", server: 89.44.113.58, port: 606, type: vless, tls: true, packet-encoding: xudp, uuid: aac76e15-76e8-df0c-41a3-74d2d5450043, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @evay_vpn [14]", server: 212.23.214.148, port: 47534, type: vless, tls: true, packet-encoding: xudp, uuid: bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320, skip-cert-verify: false, udp: true, tfo: false}
@@ -157,8 +155,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -292,8 +288,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -428,8 +422,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -576,8 +568,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -716,8 +706,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -851,8 +839,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -987,8 +973,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -1132,8 +1116,6 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
-      - IR | 🔓 VLESS | @darkma3ter24 [13]
-      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
