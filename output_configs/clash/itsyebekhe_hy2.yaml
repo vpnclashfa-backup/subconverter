@@ -5,27 +5,39 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: ❔ XX | 🟢 | hy2 | @filter_breaker | 43, server: nlnl.yinheyz.cfd, port: 33856, type: hysteria2, ports: 33856, password: ecb6728b-70e5-4b01-8cc1-19d6ffc84858, obfs: salamander, obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==, sni: nlnl.yinheyz.cfd, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]", server: network-sg-01.ppldata.xyz, port: 30000, type: hysteria2, ports: 30000, password: e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3, sni: network-lite.oss-cn-hongkong.aliyuncs.com, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -44,7 +56,10 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -55,20 +70,29 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -84,7 +108,10 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - ❔ XX | 🟢 | hy2 | @filter_breaker | 43
+      - همکاری_ملی
+      - جاویدشاه
+      - KingRezaPahlavi
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

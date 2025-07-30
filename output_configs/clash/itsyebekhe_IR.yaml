@@ -9,13 +9,11 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @Fr33C0nfig [50]", server: 81.12.32.135, port: 32990, type: vless, tls: true, packet-encoding: xudp, uuid: a804bb53-7504-4f06-96d8-ff56fb71539d, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @ai_duet [6]", server: 185.243.49.205, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: ac083fa9-df9a-4722-b70d-24c17bef0516, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @ansel_team [1]", server: 185.29.223.151, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 65015e02-9cd3-4925-9bf9-61ded9c561e7, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @ansel_team [2]", server: 185.29.223.151, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 65015e02-9cd3-4925-9bf9-61ded9c561e7, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @arv2ra [6]", server: kitab.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 989c4f14-a0fb-4375-ba5d-082fb7167b70, servername: AzAdNetByFt65433GhgFR5677JGFR557774ThyYT8766wWqW346678UUJj.pAGeS.deV, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @avaalvpn [1]", server: de.speedhunter.top, port: 21257, type: vmess, uuid: 692cf949-bcf2-4cad-8067-2762b8e24874, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @avaalvpn [3]", server: 185.4.31.107, port: 50700, type: vless, tls: true, packet-encoding: xudp, uuid: 85166337-7d39-4b32-b5f0-ff8c58da7eb2, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @bolbolvpn [1]", server: 2.188.227.134, port: 2060, type: vless, tls: true, packet-encoding: xudp, uuid: daa32d4b-92ce-4901-9fad-28ead37d324b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @bolbolvpn [3]", server: 2.188.227.134, port: 2060, type: vless, tls: true, packet-encoding: xudp, uuid: 5dd18dac-f4f1-480d-baf2-fdbe6165254f, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VMESS | @configfast [1]", server: ee1.daallygold.com, port: 52262, type: vmess, uuid: af5a0d0c-c898-4a51-ba6a-47179d483e41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 SS | @configscenter [1]", server: thr.npvnot.com, port: 10107, type: ss, cipher: aes-256-gcm, password: M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @configscenter [2]", server: nv111.momdping.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf813b9a-14ff-4223-8c62-2968c6221148, servername: nv111.momdping.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @configtrapi [28]", server: makeitclassic.numberonedrshabi.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 630e3696-10e2-4789-bfe1-7c1289457534, skip-cert-verify: false, udp: true, tfo: false}
@@ -23,6 +21,8 @@ Proxy:
   - {name: "IR | 🔒 VLESS | @dargiiriis [1]", server: 185.239.2.101, port: 12002, type: vless, tls: true, packet-encoding: xudp, uuid: ad482dbf-8b1e-45ed-ad01-d9348fbf51cc, servername: www.speedtest.net, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @dargiiriis [2]", server: 185.201.49.30, port: 58097, type: vless, tls: true, packet-encoding: xudp, uuid: c058fe92-58fd-18fe-2ce0-53eebbeb2ceb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @dargiiriis [4]", server: vip.360store.info, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bfc791d7-0ff4-4a9a-8215-118c496a7cd1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @darkma3ter24 [13]", server: www.parspack.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4825edb4-0fde-4d48-892d-ddac2e1e13bb, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @darkma3ter24 [14]", server: www.parspack.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 08cca313-4f8b-4389-8fab-63684675d52b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @easy_free_vpn [3]", server: iranserver.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 41bd1a4c-855e-4ebc-85ce-9c927840fa82, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @eliteproxyv2 [9]", server: 89.44.113.58, port: 606, type: vless, tls: true, packet-encoding: xudp, uuid: aac76e15-76e8-df0c-41a3-74d2d5450043, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @evay_vpn [14]", server: 212.23.214.148, port: 47534, type: vless, tls: true, packet-encoding: xudp, uuid: bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320, skip-cert-verify: false, udp: true, tfo: false}
@@ -55,10 +55,8 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @golf_vpn [15]", server: s16.leader21.top, port: 5053, type: vless, tls: true, packet-encoding: xudp, uuid: 3feabdf2-320f-4692-94d5-5a197b0f1ea6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @grizzlyvpn [7]", server: tun.grizzzlyyyy.ir, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: ccbda652-0f5d-4f19-a0fd-485def22d815, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @hormozvpn [1]", server: 217.60.236.106, port: 187, type: vless, tls: true, packet-encoding: xudp, uuid: 3b9ee86c-09fe-4b21-bb8c-eaaa0201e25b, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @hormozvpn [2]", server: 217.60.236.106, port: 187, type: vless, tls: true, packet-encoding: xudp, uuid: 3b9ee86c-09fe-4b21-bb8c-eaaa0201e25b, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @hormozvpn [3]", server: 85.133.215.172, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fd704838-af11-436e-84c3-5c89d649fbd4, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @hormozvpn [2]", server: 85.133.215.172, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fd704838-af11-436e-84c3-5c89d649fbd4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]", server: 188.121.118.57, port: 20753, type: vless, tls: true, packet-encoding: xudp, uuid: 8b017de8-d24a-46f6-b994-5d2ed4c005ff, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @ip_cf_config [16]", server: 46.245.66.198, port: 1232, type: vless, tls: true, packet-encoding: xudp, uuid: --------NORBERT-VPN--------, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @iran_mehr_vpn [15]", server: 81.12.92.135, port: 18755, type: vless, tls: true, packet-encoding: xudp, uuid: 6a99725d-2af8-d27c-cef5-302fbbe54c07, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @irlast [1]", server: irlast.adkoino.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @jetupnet [2]", server: 46.38.146.68, port: 38585, type: vmess, uuid: e3cc1286-8401-4b1f-b110-dac3a2b15050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -80,7 +78,7 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @minovpnch [13]", server: 45.94.215.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9ada8b3-6ad0-45cc-b72f-ace43c7de476, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @mpproxy [12]", server: 5.160.197.120, port: 13048, type: vless, tls: true, packet-encoding: xudp, uuid: edfeeadd-1b4f-4ed7-92ee-3233421632a2, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @mpproxy [13]", server: 85.198.12.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 000dec39-61ac-4ff2-97e1-5f7c003cf2e5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VMESS | @nofilter_v2rayng [3]", server: germany-solution.bniwring.xyz, port: 7977, type: vmess, uuid: 3474eba9-6f46-414c-a94f-bf27928a64a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VMESS | @nofilter_v2rayng [2]", server: germany-solution.bniwring.xyz, port: 7977, type: vmess, uuid: 3474eba9-6f46-414c-a94f-bf27928a64a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @oonfig [1]", server: tfir.tehranify.shop, port: 2344, type: vless, tls: true, packet-encoding: xudp, uuid: d130f22f-e37d-450e-b107-c46e884f1d96, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @orgempirenet [2]", server: 195.190.144.155, port: 3012, type: vless, tls: true, packet-encoding: xudp, uuid: 4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @pistachiovpn [1]", server: de.speedhunter.top, port: 21257, type: vmess, uuid: 692cf949-bcf2-4cad-8067-2762b8e24874, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -92,13 +90,10 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @prooxyk [1]", server: avalpardakht.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 392afad2-43e3-4414-a5c3-b529a44df4e3, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @proxse11 [1]", server: 188.213.67.214, port: 20883, type: vmess, uuid: 1a5f5c30-daf9-46c6-96da-4de4b42bef85, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @proxy_kuto [1]", server: ir.any-server.cfd, port: 24041, type: vless, tls: true, packet-encoding: xudp, uuid: 36c540df-eed6-4d7a-994c-dd766a86db30, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔒 VLESS | @prrofile_purple [128]", server: 2.clubban.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 23240094-d544-6d31-94d5-2416b8ef9dc2, servername: 2.vizitur.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔒 VLESS | @prrofile_purple [121]", server: 2.clubban.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 23240094-d544-6d31-94d5-2416b8ef9dc2, servername: 2.vizitur.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VMESS | @public504 [11]", server: 94.182.136.40, port: 25832, type: vmess, uuid: a4393300-6777-47b9-8348-1ac84aa7ede9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @pusyvpn [6]", server: 31.14.115.163, port: 55375, type: vless, tls: true, packet-encoding: xudp, uuid: 5f9fc2af-5e32-4e06-9f46-bbdb8a9d306d, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @pusyvpn [10]", server: 5.202.12.211, port: 8097, type: vless, tls: true, packet-encoding: xudp, uuid: 80baf990-a5c9-4755-899b-f7ca88c2def2, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @server_nekobox [8]", server: 92.114.24.55, port: 248, type: vless, tls: true, packet-encoding: xudp, uuid: cd2a292c-c0f9-4672-ae51-a721deef803e, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @server_nekobox [9]", server: 92.114.24.55, port: 248, type: vless, tls: true, packet-encoding: xudp, uuid: 21c77329-b3d9-4d12-8e74-70244f6fd00a, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @server_nekobox [10]", server: 92.114.24.55, port: 248, type: vless, tls: true, packet-encoding: xudp, uuid: 21c77329-b3d9-4d12-8e74-70244f6fd00a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @tc_v2ray [6]", server: 87.236.208.21, port: 33824, type: vless, tls: true, packet-encoding: xudp, uuid: 6e9b86ec-3bb8-4faf-9509-b445e8ede4fe, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @tobevasl [17]", server: 1conf.top, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: 7d283c1a-3a5b-4b2a-a924-0bd256e89726, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @toucan_vpn [1]", server: 185.46.1.203, port: 13008, type: vless, tls: true, packet-encoding: xudp, uuid: c123cc6a-528b-4992-fc03-e2aa9f313782, skip-cert-verify: false, udp: true, tfo: false}
@@ -108,7 +103,6 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @v2ra_ng_iran [17]", server: 185.243.51.67, port: 21760, type: vless, tls: true, packet-encoding: xudp, uuid: 73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @v2ray_fark [7]", server: 37.32.10.174, port: 33269, type: vless, tls: true, packet-encoding: xudp, uuid: 19f143e1-95dc-42f6-f4b4-0554988e876d, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @v2ray_fark [8]", server: 37.32.10.174, port: 33269, type: vless, tls: true, packet-encoding: xudp, uuid: 19f143e1-95dc-42f6-f4b4-0554988e876d, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VMESS | @v2ray_free_conf [19]", server: 2.189.85.218, port: 2020, type: vmess, uuid: 84f67de0-6426-413e-9245-986d97d9e1ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @v2ray_iran88 [10]", server: 185.143.233.120, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: e9e437c2-1ee5-4f0d-ae09-4bfafc835e47, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @v2ray_sub [9]", server: 37.202.225.74, port: 40521, type: vmess, uuid: b368a86e-6fbc-431c-9f05-6e1fab896858, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @v2rayn5 [1]", server: t11.morgoon.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: a8b6457c-eee7-4e46-8c71-307782d41cfe, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
@@ -135,6 +129,7 @@ Proxy:
   - {name: "IR | 🔓 VLESS | @vpnfree85 [1]", server: d1.amo24.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cde6146f-514f-403f-b36d-7f71514c0890, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @vpnfree_irann [4]", server: ir.tunneled.site, port: 3030, type: vmess, uuid: 240874e2-c850-43cf-8104-99bed01ea749, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @wedbazvpn [5]", server: 2.188.219.43, port: 8443, type: vmess, uuid: b2e38621-035b-43f8-84a5-e92160762fc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
+  - {name: "IR | 🔓 VMESS | @wedbazvpn [6]", server: 2.188.219.43, port: 8443, type: vmess, uuid: b2e38621-035b-43f8-84a5-e92160762fc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: "IR | 🔒 VMESS | @x4azadi [11]", server: snappfood.ir, port: 443, type: vmess, uuid: 6d658352-571f-4cb6-9205-d7c02331fa86, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: tr.fastosos.com, network: ws, ws-path: /api, ws-headers: {Host: tr.fastosos.com}, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @xnxv2ray [15]", server: cert.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @xsv2ray [3]", server: nv73.momdping.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 959eb33c-43f8-4f45-9de6-3ffd13319a79, servername: nv73.momdping.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -150,13 +145,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -164,6 +157,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -197,9 +192,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -221,7 +214,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -233,13 +226,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -249,7 +239,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -276,6 +265,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -290,13 +280,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -304,6 +292,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -337,9 +327,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -361,7 +349,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -373,13 +361,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -389,7 +374,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -416,6 +400,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -431,13 +416,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -445,6 +428,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -478,9 +463,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -502,7 +485,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -514,13 +497,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -530,7 +510,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -557,6 +536,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -584,13 +564,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -598,6 +576,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -631,9 +611,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -655,7 +633,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -667,13 +645,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -683,7 +658,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -710,6 +684,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -729,13 +704,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -743,6 +716,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -776,9 +751,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -800,7 +773,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -812,13 +785,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -828,7 +798,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -855,6 +824,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -869,13 +839,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -883,6 +851,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -916,9 +886,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -940,7 +908,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -952,13 +920,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -968,7 +933,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -995,6 +959,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -1010,13 +975,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -1024,6 +987,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -1057,9 +1022,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -1081,7 +1044,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -1093,13 +1056,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -1109,7 +1069,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -1136,6 +1095,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
@@ -1160,13 +1120,11 @@ Proxy Group:
       - IR | 🔓 VLESS | @Fr33C0nfig [50]
       - IR | 🔓 VLESS | @ai_duet [6]
       - IR | 🔓 VLESS | @ansel_team [1]
-      - IR | 🔓 VLESS | @ansel_team [2]
       - IR | 🔒 VLESS | @arv2ra [6]
       - IR | 🔓 VMESS | @avaalvpn [1]
       - IR | 🔓 VLESS | @avaalvpn [3]
       - IR | 🔓 VLESS | @bolbolvpn [1]
       - IR | 🔓 VLESS | @bolbolvpn [3]
-      - IR | 🔓 VMESS | @configfast [1]
       - IR | 🔒 SS | @configscenter [1]
       - IR | 🔒 VLESS | @configscenter [2]
       - IR | 🔓 VLESS | @configtrapi [28]
@@ -1174,6 +1132,8 @@ Proxy Group:
       - IR | 🔒 VLESS | @dargiiriis [1]
       - IR | 🔓 VLESS | @dargiiriis [2]
       - IR | 🔓 VLESS | @dargiiriis [4]
+      - IR | 🔓 VLESS | @darkma3ter24 [13]
+      - IR | 🔓 VLESS | @darkma3ter24 [14]
       - IR | 🔓 VLESS | @easy_free_vpn [3]
       - IR | 🔓 VLESS | @eliteproxyv2 [9]
       - IR | 🔓 VLESS | @evay_vpn [14]
@@ -1207,9 +1167,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @grizzlyvpn [7]
       - IR | 🔓 VLESS | @hormozvpn [1]
       - IR | 🔓 VLESS | @hormozvpn [2]
-      - IR | 🔓 VLESS | @hormozvpn [3]
       - IR | 🔓 VLESS | @hoshmasnoiyfarsi [14]
-      - IR | 🔓 VLESS | @ip_cf_config [16]
       - IR | 🔓 VLESS | @iran_mehr_vpn [15]
       - IR | 🔓 VLESS | @irlast [1]
       - IR | 🔓 VMESS | @jetupnet [2]
@@ -1231,7 +1189,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @minovpnch [13]
       - IR | 🔓 VLESS | @mpproxy [12]
       - IR | 🔓 VLESS | @mpproxy [13]
-      - IR | 🔓 VMESS | @nofilter_v2rayng [3]
+      - IR | 🔓 VMESS | @nofilter_v2rayng [2]
       - IR | 🔓 VLESS | @oonfig [1]
       - IR | 🔓 VLESS | @orgempirenet [2]
       - IR | 🔓 VMESS | @pistachiovpn [1]
@@ -1243,13 +1201,10 @@ Proxy Group:
       - IR | 🔓 VLESS | @prooxyk [1]
       - IR | 🔓 VMESS | @proxse11 [1]
       - IR | 🔓 VLESS | @proxy_kuto [1]
-      - IR | 🔒 VLESS | @prrofile_purple [128]
+      - IR | 🔒 VLESS | @prrofile_purple [121]
       - IR | 🔒 VMESS | @public504 [11]
       - IR | 🔓 VLESS | @pusyvpn [6]
       - IR | 🔓 VLESS | @pusyvpn [10]
-      - IR | 🔓 VLESS | @server_nekobox [8]
-      - IR | 🔓 VLESS | @server_nekobox [9]
-      - IR | 🔓 VLESS | @server_nekobox [10]
       - IR | 🔓 VLESS | @tc_v2ray [6]
       - IR | 🔓 VLESS | @tobevasl [17]
       - IR | 🔓 VLESS | @toucan_vpn [1]
@@ -1259,7 +1214,6 @@ Proxy Group:
       - IR | 🔓 VLESS | @v2ra_ng_iran [17]
       - IR | 🔓 VLESS | @v2ray_fark [7]
       - IR | 🔓 VLESS | @v2ray_fark [8]
-      - IR | 🔓 VMESS | @v2ray_free_conf [19]
       - IR | 🔓 VLESS | @v2ray_iran88 [10]
       - IR | 🔓 VMESS | @v2ray_sub [9]
       - IR | 🔒 VLESS | @v2rayn5 [1]
@@ -1286,6 +1240,7 @@ Proxy Group:
       - IR | 🔓 VLESS | @vpnfree85 [1]
       - IR | 🔓 VMESS | @vpnfree_irann [4]
       - IR | 🔓 VMESS | @wedbazvpn [5]
+      - IR | 🔓 VMESS | @wedbazvpn [6]
       - IR | 🔒 VMESS | @x4azadi [11]
       - IR | 🔓 VLESS | @xnxv2ray [15]
       - IR | 🔒 VLESS | @xsv2ray [3]
