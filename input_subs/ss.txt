@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt,4n0nymou3_ss_anita
+https://subconfigshuffler.tenium.workers.dev/anita?url=https%3A%2F%2Fraw.githubusercontent.com%2F4n0nymou3%2Fss-config-updater%2Frefs%2Fheads%2Fmain%2Fconfigs.txt&outputFormat=base64&count=0&protocols=%5B%22ss%22%2C%22ssr%22%2C%22mieru%22%2C%22snell%22%2C%22vmess%22%2C%22vless%22%2C%22trojan%22%2C%22anytls%22%2C%22hysteria%2Chysteria2%22%2C%22wireguard%22%2C%22ssh%22%2C%22juicity%22%5D&cloudflareOnly=false,4n0nymou3_ss_anita
