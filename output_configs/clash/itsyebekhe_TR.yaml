@@ -5,75 +5,35 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
-  - {name: "TR | 🔒 SS | @argo_vpn1 [5]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @argo_vpn1 [7]", server: 185.123.101.241, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @f_nirevil [3]", server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @free1_vpn [5]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @free1ss [15]", server: 185.123.101.241, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @gh_v2rayng [18]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @jeyksatan [13]", server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @netfreedom0 [18]", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @outlinereleasedkey [16]", server: 62.133.63.212, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @proxy_net_meli [9]", server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @pusyvpn [8]", server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @v2ray1_ng [3]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @v_2ray1 [12]", server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -92,19 +52,9 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -115,56 +65,26 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -180,19 +100,9 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - TR | 🔒 SS | @argo_vpn1 [5]
-      - TR | 🔒 SS | @argo_vpn1 [7]
-      - TR | 🔒 VLESS | @f_nirevil [3]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [15]
-      - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @netfreedom0 [18]
-      - TR | 🔒 SS | @outlinereleasedkey [16]
-      - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔓 VLESS | @pusyvpn [8]
-      - TR | 🔒 SS | @v2ray1_ng [3]
-      - TR | 🔒 SS | @v_2ray1 [12]
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
