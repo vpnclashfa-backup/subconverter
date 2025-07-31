@@ -6,8 +6,14 @@ log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
   - {name: "TR | 🔒 SS | @free1_vpn [5]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @free1_vpn [6]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
+  - {name: "TR | 🔒 VLESS | @hope_net [12]", server: 95.164.116.22, port: 2501, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, servername: a.mifeng.us.kg, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @jeyksatan [13]", server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @msv2flyng [1]", server: 94.131.123.147, port: 7383, type: ss, cipher: chacha20-ietf-poly1305, password: eSHEdJz96rqNkOCAzd5Csv, udp: true, tfo: false}
+  - {name: "TR | 🔒 VLESS | @proxycrone [5]", server: 188.132.141.231, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 5f3ac440-010e-4565-8362-bdb574c2e389, servername: nobitex.ir, reality-opts: {public-key: asQh0s7v3gZjfgXExPo7-4bkObpm1y_ODt9Fx3e69SA, short-id: 0f86044d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @pusyvpn [8]", server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔓 VMESS | @tobevasl [6]", server: netherleindcd.abletodothingsorg.com, port: 8081, type: vmess, uuid: cb810065-88b0-4d6a-9d92-67ee32491616, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔒 TROJAN | @v2rayngconfig [27]", server: 194.146.26.40, port: 443, type: trojan, password: 2ea5fc44-bd38-4fb0-a9b9-88c83fc56622, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
@@ -15,16 +21,28 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -32,8 +50,14 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -53,8 +77,14 @@ Proxy Group:
       - ♻️ 自动选择
       - 🎯 全球直连
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -66,16 +96,28 @@ Proxy Group:
       - 🎯 全球直连
       - 🔰 节点选择
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -83,8 +125,14 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -101,8 +149,14 @@ Proxy Group:
       - 🎯 全球直连
       - ♻️ 自动选择
       - TR | 🔒 SS | @free1_vpn [5]
+      - TR | 🔒 SS | @free1_vpn [6]
+      - TR | 🔒 VLESS | @hope_net [12]
       - TR | 🔓 VLESS | @jeyksatan [13]
+      - TR | 🔒 SS | @msv2flyng [1]
+      - TR | 🔒 VLESS | @proxycrone [5]
       - TR | 🔓 VLESS | @pusyvpn [8]
+      - TR | 🔓 VMESS | @tobevasl [6]
+      - TR | 🔒 TROJAN | @v2rayngconfig [27]
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

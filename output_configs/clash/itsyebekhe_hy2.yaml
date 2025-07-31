@@ -8,7 +8,10 @@ Proxy:
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]", server: network-sg-01.ppldata.xyz, port: 30000, type: hysteria2, ports: 30000, password: e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3, sni: network-lite.oss-cn-hongkong.aliyuncs.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]", server: network-sg-01.ppldata.xyz, port: 30000, type: hysteria2, ports: 30000, password: e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3, sni: network-lite.oss-cn-hongkong.aliyuncs.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]", server: 66.245.192.15, port: 443, type: hysteria2, ports: 443, password: 9f73c619627d6a5d, obfs: salamander, obfs-password: bd7f765e, sni: www.apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]", server: 45.32.234.211, port: 443, type: hysteria2, ports: 443, password: y0qochAspE u-HLfrip-, obfs: salamander, obfs-password: 2pU!, sni: Google.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 66.135.28.59:443, server: 66.135.28.59, port: 443, type: hysteria2, ports: 443, password: f6e4b19a3110d19d, sni: www.apple.com, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
@@ -18,7 +21,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -27,7 +33,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -37,7 +46,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -59,7 +71,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -73,7 +88,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: 📲 电报信息
     type: select
     proxies:
@@ -82,7 +100,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -92,7 +113,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -111,7 +135,10 @@ Proxy Group:
       - همکاری_ملی
       - جاویدشاه
       - KingRezaPahlavi
-      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [53]
+      - 🇸🇬 SG | 🔒 HY2 | @filter_breaker [47]
+      - 🇬🇧 GB | 🔒 HY2 | @vipv2rey [19]
+      - 🇳🇱 NL | 🔒 HY2 | @vipv2rey [20]
+      - 66.135.28.59:443
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
