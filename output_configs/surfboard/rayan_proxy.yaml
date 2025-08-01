@@ -11,26 +11,26 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+Ainita-Server-2 = ss, 135.225.124.80, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
+Server-2 = ss, azure-sto.edgeservers.org, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 Server-1 = ss, azure-sto.edgeservers.org, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 Server-3 = ss, azure-sto.edgeservers.org, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
-Server-2 = ss, azure-sto.edgeservers.org, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 Server-4 = ss, azure-sto.edgeservers.org, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
-Ainita-Server-2 = ss, 135.225.124.80, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 🎯 全球直连 = direct
 
 [Proxy Group]
-🔰 节点选择 = select,♻️ 自动选择,🎯 全球直连,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
-♻️ 自动选择 = url-test,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2,url=http://www.gstatic.com/generate_204,interval=300,timeout=5
-🎥 NETFLIX = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
+🔰 节点选择 = select,♻️ 自动选择,🎯 全球直连,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
+♻️ 自动选择 = url-test,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4,url=http://www.gstatic.com/generate_204,interval=300,timeout=5
+🎥 NETFLIX = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
 ⛔️ 广告拦截 = select,🛑 全球拦截,🎯 全球直连,🔰 节点选择
 🚫 运营劫持 = select,🛑 全球拦截,🎯 全球直连,🔰 节点选择
-🌍 国外媒体 = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
+🌍 国外媒体 = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
 🌏 国内媒体 = select,🎯 全球直连,🔰 节点选择
-Ⓜ️ 微软服务 = select,🎯 全球直连,🔰 节点选择,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
-📲 电报信息 = select,🔰 节点选择,🎯 全球直连,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
-🍎 苹果服务 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
+Ⓜ️ 微软服务 = select,🎯 全球直连,🔰 节点选择,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
+📲 电报信息 = select,🔰 节点选择,🎯 全球直连,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
+🍎 苹果服务 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
 🛑 全球拦截 = select,REJECT,DIRECT
-🐟 漏网之鱼 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,Server-1,Server-3,Server-2,Server-4,Ainita-Server-2
+🐟 漏网之鱼 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,Ainita-Server-2,Server-2,Server-1,Server-3,Server-4
 
 [Rule]
 DOMAIN-SUFFIX,local,🎯 全球直连
