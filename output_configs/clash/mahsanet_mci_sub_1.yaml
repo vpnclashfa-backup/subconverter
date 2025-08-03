@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 Proxy:
+  - {name: "@meli_proxyy", server: 45.15.170.80, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v2raynplus |, server: 95.164.45.85, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyyسرورای‌بیشتر", server: 95.164.45.95, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
@@ -13,6 +14,7 @@ Proxy Group:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: ♻️ 自动选择
@@ -20,6 +22,7 @@ Proxy Group:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: 🎥 NETFLIX
@@ -28,6 +31,7 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: ⛔️ 广告拦截
@@ -48,6 +52,7 @@ Proxy Group:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: 🌏 国内媒体
@@ -60,6 +65,7 @@ Proxy Group:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: 📲 电报信息
@@ -67,6 +73,7 @@ Proxy Group:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: 🍎 苹果服务
@@ -75,6 +82,7 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
   - name: 🎯 全球直连
@@ -92,6 +100,7 @@ Proxy Group:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - "@meli_proxyy"
       - v2raynplus |
       - "@meli_proxyyسرورای‌بیشتر"
 Rule:
