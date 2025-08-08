@@ -7,17 +7,14 @@ external-controller: 127.0.0.1:9090
 Proxy:
   - {name: "TR | 🔓 VLESS | @dailyv2ray [23]", server: 193.164.6.27, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 543e67bb-15c6-4731-d0c9-7641517783b2, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @f_nirevil [3]", server: 185.8.129.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2, servername: TURKISH.NSCL.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @fastfreeconfig [49]", server: 212.64.193.3, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 3fd3a47a-ae18-41c2-a426-d3ca21287aec, servername: www.discord.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @free1_vpn [5]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @free1ss [7]", server: 83.217.9.210, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ss06wfVsRiVI, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @gh_v2rayng [17]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @gh_v2rayng [18]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @goodbyefiltering [1]", server: 78.135.80.142, port: 657, type: vless, tls: true, packet-encoding: xudp, uuid: b0f68b4d-1062-4560-96ea-042b03d9a44f, servername: game-center.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @jeyksatan [13]", server: 0us.amazon-osishop.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2bc31b80-7870-47e2-b6d7-4358108c0646, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @mowjproxy [3]", server: 103.231.75.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 52a1f20b-e3e2-4280-a953-1c7e940408b6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @msv2flyng [5]", server: 94.131.123.147, port: 7383, type: ss, cipher: chacha20-ietf-poly1305, password: eSHEdJz96rqNkOCAzd5Csv, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @netfreedom0 [15]", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @outline_vpn [18]", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔒 VLESS | @outline_vpn [15]", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @proxy_net_meli [9]", server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @proxyfn [8]", server: 212.64.193.3, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 3fd3a47a-ae18-41c2-a426-d3ca21287aec, servername: www.discord.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @prrofile_purple [125]", server: 193.124.46.134, port: 8444, type: ss, cipher: chacha20-ietf-poly1305, password: tunnel-telegram-ibahad, udp: true, tfo: false}
@@ -28,10 +25,10 @@ Proxy:
   - {name: "TR | 🔒 SS | @v2ray1_ng [5]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @v2raymelliii [5]", server: 45.136.5.246, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5da34674-9d4c-42c1-bdd1-0a9a2973ea8e, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: vJJOKAgWp7-GkEPeclV6PbyDn-Z2h1WZlyCY4y1xG3s, short-id: 3d2f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @v2rayng_1378 [11]", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @v2rayopen [3]", server: 103.231.75.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 52a1f20b-e3e2-4280-a953-1c7e940408b6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔒 VLESS | @v2rayopen [2]", server: 103.231.75.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 52a1f20b-e3e2-4280-a953-1c7e940408b6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @v_2ray1 [12]", server: 45.89.52.197, port: 32058, type: ss, cipher: chacha20-ietf-poly1305, password: Fgltbpm6cD9eHSFhKI6maC, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @vistav2ray [6]", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔒 VLESS | @vmesc [10]", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "TR | 🔒 VLESS | @vmesc [5]", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 Proxy Group:
   - name: 🔰 节点选择
     type: select
@@ -40,17 +37,14 @@ Proxy Group:
       - 🎯 全球直连
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -61,10 +55,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -72,17 +66,14 @@ Proxy Group:
     proxies:
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -93,10 +84,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -105,17 +96,14 @@ Proxy Group:
       - 🎯 全球直连
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -126,10 +114,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -150,17 +138,14 @@ Proxy Group:
       - 🎯 全球直连
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -171,10 +156,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -187,17 +172,14 @@ Proxy Group:
       - 🔰 节点选择
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -208,10 +190,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: 📲 电报信息
     type: select
     proxies:
@@ -219,17 +201,14 @@ Proxy Group:
       - 🎯 全球直连
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -240,10 +219,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -252,17 +231,14 @@ Proxy Group:
       - ♻️ 自动选择
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -273,10 +249,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -294,17 +270,14 @@ Proxy Group:
       - ♻️ 自动选择
       - TR | 🔓 VLESS | @dailyv2ray [23]
       - TR | 🔒 VLESS | @f_nirevil [3]
-      - TR | 🔒 VLESS | @fastfreeconfig [49]
       - TR | 🔒 SS | @free1_vpn [5]
-      - TR | 🔒 SS | @free1ss [7]
       - TR | 🔒 SS | @gh_v2rayng [17]
       - TR | 🔒 SS | @gh_v2rayng [18]
       - TR | 🔒 VLESS | @goodbyefiltering [1]
       - TR | 🔓 VLESS | @jeyksatan [13]
-      - TR | 🔒 VLESS | @mowjproxy [3]
       - TR | 🔒 SS | @msv2flyng [5]
       - TR | 🔒 VLESS | @netfreedom0 [15]
-      - TR | 🔒 VLESS | @outline_vpn [18]
+      - TR | 🔒 VLESS | @outline_vpn [15]
       - TR | 🔒 SS | @proxy_net_meli [9]
       - TR | 🔒 VLESS | @proxyfn [8]
       - TR | 🔒 SS | @prrofile_purple [125]
@@ -315,10 +288,10 @@ Proxy Group:
       - TR | 🔒 SS | @v2ray1_ng [5]
       - TR | 🔒 VLESS | @v2raymelliii [5]
       - TR | 🔒 VLESS | @v2rayng_1378 [11]
-      - TR | 🔒 VLESS | @v2rayopen [3]
+      - TR | 🔒 VLESS | @v2rayopen [2]
       - TR | 🔒 SS | @v_2ray1 [12]
       - TR | 🔒 VLESS | @vistav2ray [6]
-      - TR | 🔒 VLESS | @vmesc [10]
+      - TR | 🔒 VLESS | @vmesc [5]
 Rule:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
