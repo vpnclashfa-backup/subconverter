@@ -11,30 +11,29 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-TR | 🔒 SS | @free1_vpn [2] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
+TR | 🔒 SS | @free1_vpn [1] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
+TR | 🔒 SS | @gh_v2rayng [13] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
 TR | 🔒 SS | @gh_v2rayng [14] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
-TR | 🔒 SS | @gh_v2rayng [15] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
 TR | 🔒 SS | @msv2flyng [7] = ss, 94.131.123.147, 7383, encrypt-method=chacha20-ietf-poly1305, password=eSHEdJz96rqNkOCAzd5Csv, tfo=false, udp-relay=true
 TR | 🔒 SS | @proxy_net_meli [9] = ss, 212.68.55.11, 18760, encrypt-method=aes-256-gcm, password=hg49$WH8943g3, tfo=false, udp-relay=true
 TR | 🔒 SS | @shadowsockskeys [8] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
 TR | 🔓 VMESS | @tobevasl [6] = vmess, netherleindcd.abletodothingsorg.com, 8081, username=cb810065-88b0-4d6a-9d92-67ee32491616, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-TR | 🔒 SS | @v2ray_free_conf [14] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
 TR | 🔒 SS | @v_2ray1 [12] = ss, 45.89.52.197, 32058, encrypt-method=chacha20-ietf-poly1305, password=Fgltbpm6cD9eHSFhKI6maC, tfo=false, udp-relay=true
 🎯 全球直连 = direct
 
 [Proxy Group]
-🔰 节点选择 = select,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
-♻️ 自动选择 = url-test,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12],url=http://www.gstatic.com/generate_204,interval=300,timeout=5
-🎥 NETFLIX = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
+🔰 节点选择 = select,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
+♻️ 自动选择 = url-test,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12],url=http://www.gstatic.com/generate_204,interval=300,timeout=5
+🎥 NETFLIX = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
 ⛔️ 广告拦截 = select,🛑 全球拦截,🎯 全球直连,🔰 节点选择
 🚫 运营劫持 = select,🛑 全球拦截,🎯 全球直连,🔰 节点选择
-🌍 国外媒体 = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
+🌍 国外媒体 = select,🔰 节点选择,♻️ 自动选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
 🌏 国内媒体 = select,🎯 全球直连,🔰 节点选择
-Ⓜ️ 微软服务 = select,🎯 全球直连,🔰 节点选择,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
-📲 电报信息 = select,🔰 节点选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
-🍎 苹果服务 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
+Ⓜ️ 微软服务 = select,🎯 全球直连,🔰 节点选择,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
+📲 电报信息 = select,🔰 节点选择,🎯 全球直连,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
+🍎 苹果服务 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
 🛑 全球拦截 = select,REJECT,DIRECT
-🐟 漏网之鱼 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,TR | 🔒 SS | @free1_vpn [2],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @gh_v2rayng [15],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v2ray_free_conf [14],TR | 🔒 SS | @v_2ray1 [12]
+🐟 漏网之鱼 = select,🔰 节点选择,🎯 全球直连,♻️ 自动选择,TR | 🔒 SS | @free1_vpn [1],TR | 🔒 SS | @gh_v2rayng [13],TR | 🔒 SS | @gh_v2rayng [14],TR | 🔒 SS | @msv2flyng [7],TR | 🔒 SS | @proxy_net_meli [9],TR | 🔒 SS | @shadowsockskeys [8],TR | 🔓 VMESS | @tobevasl [6],TR | 🔒 SS | @v_2ray1 [12]
 
 [Rule]
 DOMAIN-SUFFIX,local,🎯 全球直连
