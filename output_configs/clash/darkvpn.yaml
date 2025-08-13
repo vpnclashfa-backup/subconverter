@@ -35,7 +35,6 @@ proxies:
   - {name: ProxyCloud 1, server: 134.209.255.236, port: 8080, type: vmess, uuid: a8fe3d46-0019-7d0c-f727-d5a413f67acb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud 2, server: 165.22.65.163, port: 8080, type: vmess, uuid: 716e41f9-c461-e876-82c5-3b57f0ba3955, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud 3, server: 178.62.222.84, port: 8080, type: vmess, uuid: b45c3124-184a-2dab-a193-99b34c635dc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ProxyCloud Algeria, server: 197.140.142.74, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: q26ZLxDI0VHiAR2uKUvDOz, udp: true, tfo: false}
   - {name: ProxyCloud Guatemala, server: 185.47.254.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: "Telegram: @irdevs_dns", server: fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 826f524a-cea1-4e44-9b49-3381d13b7593, servername: fk31lnDM4W8UJ0yP1dRwlTDTDKo6y-cU.PaGeS.DeV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Website: irdevs.sbs", server: gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: Gkh7IMoMi--3t3XCSTZt8pp4dlzuESKn.PAgeS.dEV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
