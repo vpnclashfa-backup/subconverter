@@ -1,285 +1,297 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fvpnclashfa-backup%2FSubConfigShuffler%2Frefs%2Fheads%2Fmain%2Fshuffled_outputs%2Fmaimengmeng.txt interval=86400 strict=false
 
+-----VIP下载专区----- = vmess, mbngfvbcvn_cdn.hfhfb.homes, 2086, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=1024, sni=mgcdn12.hfhfb.homes, ws-headers=Host:mgcdn12.hfhfb.homes, skip-cert-verify=false, tfo=false, udp-relay=true
 -----VIP国外免流区----- = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 AE-01 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 20017, encrypt-method=aes-256-gcm, password=C4CUWPXKNXCI7KFU, tfo=false, udp-relay=true
-AR-01 = ss, 31.40.212.221, 20006, encrypt-method=aes-256-gcm, password=IL15XOWA40ZIGM7F, tfo=false, udp-relay=true
-AR-01 2 = ss, 31.40.212.221, 20006, encrypt-method=aes-256-gcm, password=IL15XOWA40ZIGM7F, tfo=false, udp-relay=true
-AR-01 3 = ss, 31.40.212.221, 20006, encrypt-method=aes-256-gcm, password=IL15XOWA40ZIGM7F, tfo=false, udp-relay=true
 BE-01 = ss, 185.213.22.93, 20026, encrypt-method=aes-256-gcm, password=DE681TMII9G9UF1G, tfo=false, udp-relay=true
-BE-01 2 = ss, 185.213.22.93, 20026, encrypt-method=aes-256-gcm, password=DE681TMII9G9UF1G, tfo=false, udp-relay=true
-BE-01 3 = ss, 185.213.22.93, 20026, encrypt-method=aes-256-gcm, password=DE681TMII9G9UF1G, tfo=false, udp-relay=true
 BO-01 = ss, 185.93.173.246, 20008, encrypt-method=aes-256-gcm, password=EOJ9IX4SX0LKWY2A, tfo=false, udp-relay=true
 BR-01 = ss, 185.192.124.41, 20013, encrypt-method=aes-256-gcm, password=HNH8QUZU58O10CCG, tfo=false, udp-relay=true
-BR-01 2 = ss, 185.192.124.41, 20013, encrypt-method=aes-256-gcm, password=HNH8QUZU58O10CCG, tfo=false, udp-relay=true
 CH-01 = ss, 37.143.131.121, 20001, encrypt-method=aes-256-gcm, password=8HZ5NKVNZVYN1AP3, tfo=false, udp-relay=true
-CH-01 2 = ss, 37.143.131.121, 20001, encrypt-method=aes-256-gcm, password=8HZ5NKVNZVYN1AP3, tfo=false, udp-relay=true
 CL-01 = ss, 37.143.128.125, 20012, encrypt-method=aes-256-gcm, password=YTYUKNEZJBYT9M68, tfo=false, udp-relay=true
-CL-01 2 = ss, 37.143.128.125, 20012, encrypt-method=aes-256-gcm, password=YTYUKNEZJBYT9M68, tfo=false, udp-relay=true
 CO-01 = ss, 91.148.134.106, 20005, encrypt-method=aes-256-gcm, password=ZFPFU731WARRKT3P, tfo=false, udp-relay=true
 CO-01 2 = ss, 91.148.134.106, 20005, encrypt-method=aes-256-gcm, password=ZFPFU731WARRKT3P, tfo=false, udp-relay=true
 CR-01 = ss, 145.14.131.81, 20011, encrypt-method=aes-256-gcm, password=PIHD6H1H963HPRSD, tfo=false, udp-relay=true
 CR-01 2 = ss, 145.14.131.81, 20011, encrypt-method=aes-256-gcm, password=PIHD6H1H963HPRSD, tfo=false, udp-relay=true
 EC-01 = ss, 185.47.253.144, 20010, encrypt-method=aes-256-gcm, password=6G4KQU9VG1F1VV0D, tfo=false, udp-relay=true
-FI-01 = ss, 37.143.129.127, 20031, encrypt-method=aes-256-gcm, password=QS1F8TQAIP3Z8PDM, tfo=false, udp-relay=true
 GR-01 = ss, 185.126.238.37, 20004, encrypt-method=aes-256-gcm, password=JNHU7FAKMLNA3WB6, tfo=false, udp-relay=true
 GR-01 2 = ss, 185.126.238.37, 20004, encrypt-method=aes-256-gcm, password=JNHU7FAKMLNA3WB6, tfo=false, udp-relay=true
 GT-01 = ss, 185.47.254.177, 20007, encrypt-method=aes-256-gcm, password=K5NSBRLX5P9BRBWP, tfo=false, udp-relay=true
-GT-01 2 = ss, 185.47.254.177, 20007, encrypt-method=aes-256-gcm, password=K5NSBRLX5P9BRBWP, tfo=false, udp-relay=true
 IL-01 = ss, 147.78.2.35, 20020, encrypt-method=aes-256-gcm, password=C8K1QXRBHUULA65J, tfo=false, udp-relay=true
 IT-01 = ss, 185.213.20.36, 20029, encrypt-method=aes-256-gcm, password=X1QS0GPCK4N93YUL, tfo=false, udp-relay=true
+LT-01 = ss, 185.237.185.77, 20036, encrypt-method=aes-256-gcm, password=3H6KZNNBBXPKSEX5, tfo=false, udp-relay=true
+LT-01 2 = ss, 185.237.185.77, 20036, encrypt-method=aes-256-gcm, password=3H6KZNNBBXPKSEX5, tfo=false, udp-relay=true
+LT-01 3 = ss, 185.237.185.77, 20036, encrypt-method=aes-256-gcm, password=3H6KZNNBBXPKSEX5, tfo=false, udp-relay=true
 MA-01 = ss, 188.214.157.236, 20014, encrypt-method=aes-256-gcm, password=30RTTBCWFBJ0FTSW, tfo=false, udp-relay=true
 MA-01 2 = ss, 188.214.157.236, 20014, encrypt-method=aes-256-gcm, password=30RTTBCWFBJ0FTSW, tfo=false, udp-relay=true
+MA-01 3 = ss, 188.214.157.236, 20014, encrypt-method=aes-256-gcm, password=30RTTBCWFBJ0FTSW, tfo=false, udp-relay=true
 NG-01 = ss, 185.255.123.183, 20016, encrypt-method=aes-256-gcm, password=L9WX47VLZ2U2UT64, tfo=false, udp-relay=true
 NG-01 2 = ss, 185.255.123.183, 20016, encrypt-method=aes-256-gcm, password=L9WX47VLZ2U2UT64, tfo=false, udp-relay=true
-NO-01 = ss, 185.90.61.157, 20034, encrypt-method=aes-256-gcm, password=F7R4H7C377HG52P2, tfo=false, udp-relay=true
-Our-website:getafreenode.com = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Frankfurt.domain.com, ws-headers=Host:Frankfurt.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
 PE-01 = ss, 185.47.252.16, 20009, encrypt-method=aes-256-gcm, password=J5L65IO0CFY39C6E, tfo=false, udp-relay=true
-Please-click-AD-on-our-website = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=LosAngeles.domain.com, ws-headers=Host:LosAngeles.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
+PE-01 2 = ss, 185.47.252.16, 20009, encrypt-method=aes-256-gcm, password=J5L65IO0CFY39C6E, tfo=false, udp-relay=true
+PK-01 = ss, 223.165.5.107, 20023, encrypt-method=aes-256-gcm, password=1JI8Z1X7U6R1NOWW, tfo=false, udp-relay=true
+PK-01 2 = ss, 223.165.5.107, 20023, encrypt-method=aes-256-gcm, password=1JI8Z1X7U6R1NOWW, tfo=false, udp-relay=true
+RO-01 = ss, 185.126.237.58, 20027, encrypt-method=aes-256-gcm, password=HYQMWU0UJBGRZSB2, tfo=false, udp-relay=true
+RO-01 2 = ss, 185.126.237.58, 20027, encrypt-method=aes-256-gcm, password=HYQMWU0UJBGRZSB2, tfo=false, udp-relay=true
+RO-01 3 = ss, 185.126.237.58, 20027, encrypt-method=aes-256-gcm, password=HYQMWU0UJBGRZSB2, tfo=false, udp-relay=true
 RS-01 = ss, 185.186.77.137, 20025, encrypt-method=aes-256-gcm, password=B2ZXP3OITMYTDB1N, tfo=false, udp-relay=true
-RS-01 2 = ss, 185.186.77.137, 20025, encrypt-method=aes-256-gcm, password=B2ZXP3OITMYTDB1N, tfo=false, udp-relay=true
 SE-01 = ss, 185.186.78.220, 20035, encrypt-method=aes-256-gcm, password=MCTHDX6Z30WZ9J2Y, tfo=false, udp-relay=true
-SE-01 2 = ss, 185.186.78.220, 20035, encrypt-method=aes-256-gcm, password=MCTHDX6Z30WZ9J2Y, tfo=false, udp-relay=true
 TG售后群:@ChjsClub = ss, beiyong-.596743944.top, 42788, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-TG群:@helium_network_group = vmess, free-relay.themars.top, 39907, username=90030631-4027-4810-8ce9-3e9095390f2d, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-TG群:@helium_network_group 2 = vmess, free-relay.themars.top, 39907, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-TG群组：@gp33yrun = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr01s.9fde584d.cfd, ws-headers=Host:kr01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+TG群:@helium_network_group = vmess, free-relay.themars.top, 39907, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
+TG群组：@gp33yrun = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp04s.00274bce.cfd, ws-headers=Host:jp04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
 TH-01 = ss, 46.16.129.217, 20022, encrypt-method=aes-256-gcm, password=X4WI57WMF6U4WUJR, tfo=false, udp-relay=true
-TH-01 2 = ss, 46.16.129.217, 20022, encrypt-method=aes-256-gcm, password=X4WI57WMF6U4WUJR, tfo=false, udp-relay=true
-TH-01 3 = ss, 46.16.129.217, 20022, encrypt-method=aes-256-gcm, password=X4WI57WMF6U4WUJR, tfo=false, udp-relay=true
 TR-01 = ss, 185.123.100.140, 20024, encrypt-method=aes-256-gcm, password=2FJN2BR5UDUC8ZQ8, tfo=false, udp-relay=true
-TR-01 2 = ss, 185.123.100.140, 20024, encrypt-method=aes-256-gcm, password=2FJN2BR5UDUC8ZQ8, tfo=false, udp-relay=true
-Thanks-so-much-for-your-help = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Wien.domain.com, ws-headers=Host:Wien.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
 ZA-01 = ss, 129.232.133.62, 20015, encrypt-method=aes-256-gcm, password=A2NH4EE7NXAKFOGE, tfo=false, udp-relay=true
 ZA-01 2 = ss, 129.232.133.62, 20015, encrypt-method=aes-256-gcm, password=A2NH4EE7NXAKFOGE, tfo=false, udp-relay=true
-●以帮助我们获得运营资金● = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Wien.domain.com, ws-headers=Host:Wien.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
-●此UUID是错误或无效的● = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Amsterdam.domain.com, ws-headers=Host:Amsterdam.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
-●用于维护和添加更多节点● = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Wien.domain.com, ws-headers=Host:Wien.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
-●请前往网站获取有效订阅● = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Moscow.domain.com, ws-headers=Host:Moscow.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
-●请点击浏览网站广告数秒● = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=LosAngeles.domain.com, ws-headers=Host:LosAngeles.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
-加群关注电报频道获取延期码 = vmess, free-relay.themars.top, 39907, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-原因1：恶意退款 📞 = vmess, yx1.niaoba.top, 8080, username=4bd3df41-1509-4f6f-8cf7-757e3c5960db, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176509317197.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176509317197.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
-原因2：或者滥用 📋 = vmess, yx1.niaoba.top, 8080, username=4bd3df41-1509-4f6f-8cf7-757e3c5960db, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176509317197.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176509317197.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
+ZA-01 3 = ss, 129.232.133.62, 20015, encrypt-method=aes-256-gcm, password=A2NH4EE7NXAKFOGE, tfo=false, udp-relay=true
+ipv6免流-请自行修改host = vmess, 6ernu3zmhsv7s95fm.lovebaipiao.net, 80, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=6ernu3zmhsv7s95fm.lovebaipiao.net, ws-headers=Host:6ernu3zmhsv7s95fm.lovebaipiao.net, skip-cert-verify=false, tfo=false, udp-relay=true
+sd.258.cyou续费地址 = ss, zz.sudun2.top, 10541, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+tg群：https://t.me/mly_cloud = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+❗请续费使用❗ = ss, 1.1.1.1, 1080, encrypt-method=chacha20-ietf-poly1305, password=fake_node_password, tfo=false, udp-relay=true
+原因2：或者滥用 📋 = vmess, yx1.niaoba.top, 2095, username=4bd3df41-1509-4f6f-8cf7-757e3c5960db, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176549997466.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176549997466.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
 只有爱懂的人才能用 = vmess, 43.199.24.247, 3000, username=cc101ff1-3452-41c3-89fe-c2a5a20dc6dc, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 只有爱懂的人才能用 2 = vmess, 43.199.24.247, 3000, username=cc101ff1-3452-41c3-89fe-c2a5a20dc6dc, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-国内直连网站都是临时的，挂梯子可直接进 = vmess, haa.dashuai.cyou, 45050, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 新加� = ss, 14.18.253.178, 8334, encrypt-method=chacha20, password=DvPfKa8vsV9K, tfo=false, udp-relay=true
-无墙地址 https://d2ma0e5kn2hajt.cloudfront.net = vmess, free-relay.themars.top, 39907, username=90030631-4027-4810-8ce9-3e9095390f2d, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-无墙地址 https://du2ntfkwxlg2i.cloudfront.net = ss, free-relay.t01.themars.top, 51177, encrypt-method=chacha20-ietf-poly1305, password=c376082c-95c3-452e-88e4-6bb6a5daab41, tfo=false, udp-relay=true
-电报群https://t.me/feiniaoyunjichang = trojan, 2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, 820, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-电报群https://t.me/feiniaoyunjichang 2 = trojan, 2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, 820, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-群组 https://t.me/taronet_chat = ss, free-relay.t01.themars.top, 51177, encrypt-method=chacha20-ietf-poly1305, password=c376082c-95c3-452e-88e4-6bb6a5daab41, tfo=false, udp-relay=true
-请检查订阅地址 = ss, 127.0.0.1, 1080, encrypt-method=aes-256-gcm, password=f30ac87d-febb-4bf7-9cc7-61452a610787, tfo=false, udp-relay=true
-账户已被封禁-1 🚫 = vmess, yx1.niaoba.top, 8080, username=4bd3df41-1509-4f6f-8cf7-757e3c5960db, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176509317197.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176509317197.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
-距离下次重置剩余:14 天 = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59011, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-距离下次重置剩余：16 天 = vmess, free-relay.themars.top, 39907, username=90030631-4027-4810-8ce9-3e9095390f2d, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-距离下次重置剩余：16 天 2 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-过滤掉3条线路 = vmess, 45.136.245.177, 23158, username=791a9aad-1a8b-435d-862e-627f41025d73, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-过滤掉3条线路 2 = vmess, 45.136.245.177, 23158, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-过滤掉3条线路 3 = vmess, 45.136.245.177, 23158, username=eb186e3b-4c4a-4131-a717-f9c7bda6d80b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-过滤掉3条线路 4 = vmess, 45.136.245.177, 23158, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-防失联页https://github.com/feiniaoyun = trojan, 2.2.2.2, 820, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=2.2.2.2, skip-cert-verify=false, tfo=false, udp-relay=true
-防失联页https://github.com/feiniaoyun 2 = trojan, 2.2.2.2, 820, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=2.2.2.2, skip-cert-verify=false, tfo=false, udp-relay=true
-🇦🇪 AE-阿联酋 - 阿布扎比 01 = vmess, brk3kc1erf1f.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/ae?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+电报群https://t.me/feiniaoyunjichang = trojan, 2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, 820, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+续费请前往web1.bby011.com = ss, zfa01.333210.xyz, 50101, encrypt-method=aes-256-gcm, password=c72c88de-de73-433f-878b-51ac4f293af7, tfo=false, udp-relay=true
+账户已被封禁-1 🚫 = vmess, yx1.niaoba.top, 2095, username=4bd3df41-1509-4f6f-8cf7-757e3c5960db, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176549997466.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176549997466.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
+距离下次重置剩余:13 天 = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59011, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+距离下次重置剩余：15 天 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+距离下次重置剩余：15 天 2 = vmess, free-relay.themars.top, 39907, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
+距离下次重置剩余：16 天 = ss, xg-jd.huidu51.com, 46601, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+距离下次重置剩余：20 天 = vmess, 1.example.com, 1234, username=fixed-uuid-for-expired-users, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/ws-node1, sni=1.example.com, ws-headers=Host:1.example.com, skip-cert-verify=false, tfo=false, udp-relay=true
+过滤掉25条线路 = ss, 6kr1.bethebest.eu.org, 30101, encrypt-method=aes-128-gcm, password=32d3795c-7e38-425a-8a8c-9d195d1cb351, tfo=false, udp-relay=true
+过滤掉3条线路 = vmess, 45.136.245.177, 23159, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+防失联页https://github.com/feiniaoyun = trojan, 2.2.2.2, 820, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=2.2.2.2, skip-cert-verify=false, tfo=false, udp-relay=true
 🇦🇪 AE-阿联酋 - 阿布扎比 02 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/ae?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇦🇺 AU-01 = ss, 103.75.119.144, 20021, encrypt-method=aes-256-gcm, password=I2RO4YDTZST1ZOZM, tfo=false, udp-relay=true
 🇦🇺 AU-01 2 = ss, 103.75.119.144, 20021, encrypt-method=aes-256-gcm, password=I2RO4YDTZST1ZOZM, tfo=false, udp-relay=true
-🇦🇺 AU-01 3 = ss, 103.75.119.144, 20021, encrypt-method=aes-256-gcm, password=I2RO4YDTZST1ZOZM, tfo=false, udp-relay=true
-🇦🇺 澳大利亚原生1 = vmess, haa.dashuai.cyou, 45062, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇦🇺 澳大利亚原生2 = vmess, xdd.dashuai.cyou, 45063, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇧🇷 巴西1|cf = vmess, hk.bethebest.eu.org, 2052, username=32d3795c-7e38-425a-8a8c-9d195d1cb351, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=br.123417.xyz, ws-headers=Host:br.123417.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-🇧🇷 巴西2|cf = vmess, hk.bethebest.eu.org, 2052, username=32d3795c-7e38-425a-8a8c-9d195d1cb351, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=br2.123417.xyz, ws-headers=Host:br2.123417.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-🇧🇷 巴西3|cf = vmess, hk.bethebest.eu.org, 2052, username=32d3795c-7e38-425a-8a8c-9d195d1cb351, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=br3.123417.xyz, ws-headers=Host:br3.123417.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇦 加拿大1 = vmess, haa.dashuai.cyou, 45064, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇦 加拿大1|cf = vmess, hk.bethebest.eu.org, 2052, username=32d3795c-7e38-425a-8a8c-9d195d1cb351, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=ca11.123417.xyz, ws-headers=Host:ca11.123417.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇦 加拿大1 = vmess, haa.dashuai.cyou, 45064, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 CN-内蒙 01 | ws 80 | 1x = vmess, nmone.hjdfghfc.asia, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-内蒙 02| ws 443 | 1x = vmess, nmtow.hjdfghfc.asia, 443, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-北京BGP 02 | ws 65500 | 1x = vmess, uiuigvvhf.jkhkgj.xyz, 65500, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-四川BGP 01 | ws 18188 | 1x = vmess, vnhdfygh.hjdfghfc.asia, 18188, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-四川BGP 02 | ws 2579 | 1x = vmess, sdfgttt.hjdfghfc.asia, 2579, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-深圳BGP 01 | ws 50228 | 1x = vmess, vbhjty.jkhkgj.xyz, 50228, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-深圳BGP 02 | ws 50229 | 1x = vmess, wwffhj6544g.jkhkgj.xyz, 50229, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-湖北BGP 02 | ws 25395 | 1x = vmess, 111.170.36.146, 25395, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 CN-北京BGP 01 | ws 53122 | 1x = vmess, cvgecvdgh.jkhkgj.xyz, 53122, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 CN-湖北IPV6 01 | ws 18188 | 1x = vmess, 240e:95d:c01:700::, 18188, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market?ed=512, sni=i0.hdslb.com, ws-headers=Host:i0.hdslb.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 TW-01 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21001, encrypt-method=aes-256-gcm, password=2WK50QVB8ULS2BD6, tfo=false, udp-relay=true
 🇨🇳 TW-02 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21002, encrypt-method=aes-256-gcm, password=11DL86EW6G7Z1DBX, tfo=false, udp-relay=true
 🇨🇳 TW-03 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21003, encrypt-method=aes-256-gcm, password=3X67WJ5XBR9BJGNH, tfo=false, udp-relay=true
-🇨🇳 TW-03 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21003, encrypt-method=aes-256-gcm, password=3X67WJ5XBR9BJGNH, tfo=false, udp-relay=true
 🇨🇳 TW-04 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21004, encrypt-method=aes-256-gcm, password=8R259M1OKQJF224V, tfo=false, udp-relay=true
+🇨🇳 TW-04 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21004, encrypt-method=aes-256-gcm, password=8R259M1OKQJF224V, tfo=false, udp-relay=true
 🇨🇳 TW-05 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 21005, encrypt-method=aes-256-gcm, password=RZYIT8FWVERGQ3J1, tfo=false, udp-relay=true
 🇨🇳 TW-05 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 21005, encrypt-method=aes-256-gcm, password=RZYIT8FWVERGQ3J1, tfo=false, udp-relay=true
 🇨🇳 TW-06 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 21006, encrypt-method=aes-256-gcm, password=H7ZWAVO0U96N54NK, tfo=false, udp-relay=true
 🇨🇳 TW-06 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 21006, encrypt-method=aes-256-gcm, password=H7ZWAVO0U96N54NK, tfo=false, udp-relay=true
+🇨🇳 TW-06 3 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 21006, encrypt-method=aes-256-gcm, password=H7ZWAVO0U96N54NK, tfo=false, udp-relay=true
 🇨🇳 TW-07 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21007, encrypt-method=aes-256-gcm, password=HW53Y12FTZE6VVDT, tfo=false, udp-relay=true
-🇨🇳 TW-07 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 21007, encrypt-method=aes-256-gcm, password=HW53Y12FTZE6VVDT, tfo=false, udp-relay=true
 🇨🇳 TW-台湾 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 TW-台湾 02 = vmess, oaze3zp44i1p.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 TW-台湾 03 = vmess, brk3kc1erf1f.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/tw?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 Taiwan 26 = ss, tw-jd.huidu51.com, 46626, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
-🇨🇳 trojan台湾01 = trojan, tw7.344233.cc, 3663, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=tw7.344233.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 Taiwan 29 = ss, tw-jd.huidu51.com, 46629, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇨🇳 trojan台湾01 = trojan, tw7.344233.cc, 3663, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=tw7.344233.cc, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 trojan台湾02 = trojan, tw5.453521.xyz, 3663, password=cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni=tw5.453521.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 trojan台湾03 = trojan, tw4.453521.xyz, 3663, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=tw4.453521.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 trojan台湾04 = trojan, tw07.352343.cc, 3663, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=tw07.352343.cc, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 trojan台湾05 = trojan, tw11.352343.cc, 3663, password=a48d9102-3eb4-4576-8de7-482e58bc1a39, sni=tw11.352343.cc, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇳 台湾02|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59022, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 台湾04|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59024, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 台湾1(GPT等流媒体1.5x） = vmess, haa.dashuai.cyou, 45078, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 台湾2(GPT等流媒体1.5x） = vmess, xdd.dashuai.cyou, 45077, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 台湾x1 = vmess, beiyong-.596743944.top, 20763, username=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 台湾|IEPL家宽|02 x1.5 = ss, zz.sudun2.top, 10357, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
 🇨🇳 台湾|IEPL家宽|03 x1 = ss, zz2.sudun2.top, 10643, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇩🇪 DE-01 = ss, 45.154.207.246, 20030, encrypt-method=aes-256-gcm, password=1QGHVFEN3UDQEN6K, tfo=false, udp-relay=true
-🇩🇪 DE-01 2 = ss, 45.154.207.246, 20030, encrypt-method=aes-256-gcm, password=1QGHVFEN3UDQEN6K, tfo=false, udp-relay=true
-🇩🇪 德国|IEPL专线|01 x1.5 = ss, zz.sudun2.top, 10364, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇨🇳 台湾|广州移动|01 x1 = ss, ali.sudun2.top, 29429, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇩🇪 德国|广东联通|03 x1 = ss, zz2.sudun2.top, 10769, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
 🇩🇰 DK-01 = ss, 185.186.79.135, 20028, encrypt-method=aes-256-gcm, password=DY9REJVU8XYUP58V, tfo=false, udp-relay=true
 🇩🇰 DK-01 2 = ss, 185.186.79.135, 20028, encrypt-method=aes-256-gcm, password=DY9REJVU8XYUP58V, tfo=false, udp-relay=true
-🇩🇰 DK-01 3 = ss, 185.186.79.135, 20028, encrypt-method=aes-256-gcm, password=DY9REJVU8XYUP58V, tfo=false, udp-relay=true
 🇪🇸 ES-西班牙 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/es?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇫🇷 法国 = vmess, v37.heduian.link, 30837, username=cbb3f877-d1fb-344c-87a9-d153bffd5484, tls=false, vmess-aead=true, ws=true, ws-path=/oooo, sni=ocbc.com, ws-headers=Host:ocbc.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇫🇷 法国1 = vmess, haa.dashuai.cyou, 45072, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇬🇧 (隧道)英国2 = vmess, xdd.dashuai.cyou, 45067, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-04 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 15005, encrypt-method=aes-256-gcm, password=EHFWU1PZ4MODRXQK, tfo=false, udp-relay=true
-🇭🇰 HK-06 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15007, encrypt-method=aes-256-gcm, password=ALPWJOTEW2FUPBPA, tfo=false, udp-relay=true
-🇭🇰 HK-08 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 15009, encrypt-method=aes-256-gcm, password=FNI26U8JOI68L6Z8, tfo=false, udp-relay=true
+🇫🇷 法国2 = vmess, xdd.dashuai.cyou, 45071, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇬🇧 (IEPL)英国1 = vmess, haa.dashuai.cyou, 45066, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇬🇧 (隧道)英国2 = vmess, xdd.dashuai.cyou, 45067, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇬🇧 英国高速x1 = vmess, beiyong-.596743944.top, 56771, username=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 3x备用专线香港1 = vmess, xh.dashuai.cyou, 50051, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇭🇰 HK-11 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 15012, encrypt-method=aes-256-gcm, password=1NI9A9PID1PHEDBT, tfo=false, udp-relay=true
+🇭🇰 HK-13 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 15014, encrypt-method=aes-256-gcm, password=P5FMEGDPGYCXJIKC, tfo=false, udp-relay=true
+🇭🇰 HK-13 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 15014, encrypt-method=aes-256-gcm, password=P5FMEGDPGYCXJIKC, tfo=false, udp-relay=true
 🇭🇰 HK-14 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15015, encrypt-method=aes-256-gcm, password=OR6ELXNZL7SII6LL, tfo=false, udp-relay=true
 🇭🇰 HK-14 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15015, encrypt-method=aes-256-gcm, password=OR6ELXNZL7SII6LL, tfo=false, udp-relay=true
+🇭🇰 HK-14 3 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15015, encrypt-method=aes-256-gcm, password=OR6ELXNZL7SII6LL, tfo=false, udp-relay=true
 🇭🇰 HK-15 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15016, encrypt-method=aes-256-gcm, password=W7FWPR7PTGUXJPR6, tfo=false, udp-relay=true
-🇭🇰 HK-Eons_Data_Communications = vmess, www.visa.com.tw, 443, username=df7a96e2-c663-48ed-9713-1c144705f79e, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/vmess-argo?ed=2048, sni=ee-boston-therapist-cleaning.trycloudflare.com, ws-headers=Host:ee-boston-therapist-cleaning.trycloudflare.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-香港 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/hk?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-15 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 15016, encrypt-method=aes-256-gcm, password=W7FWPR7PTGUXJPR6, tfo=false, udp-relay=true
 🇭🇰 HK-香港 02 = vmess, oaze3zp44i1p.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/hk?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 Hong Kong 3 = ss, xg-jd.huidu51.com, 46603, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
-🇭🇰 Hong Kong 5 = ss, xg-jd.huidu51.com, 46605, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
 🇭🇰 Hong Kong 7 = ss, xg-jd.huidu51.com, 46607, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
-🇭🇰 香港01|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59011, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 Hong Kong 8 = ss, xg-jd.huidu51.com, 46608, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇭🇰 香港 = ss, 14.18.253.178, 9003, encrypt-method=chacha20, password=v5aUUtme3jxs, tfo=false, udp-relay=true
 🇭🇰 香港02|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59012, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港03|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59013, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港1 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk01s.9fde584d.cfd, ws-headers=Host:hk01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk02s.9fde584d.cfd, ws-headers=Host:hk02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港2 2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk02s.9fde584d.cfd, ws-headers=Host:hk02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港3 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk03s.9fde584d.cfd, ws-headers=Host:hk03s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港4 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk04s.9fde584d.cfd, ws-headers=Host:hk04s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 香港NO.2（GPT奈飞等） = vmess, xdd.dashuai.cyou, 45051, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港1 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk01s.00274bce.cfd, ws-headers=Host:hk01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港2 = vmess, 141.193.213.101, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/td6d1aqs/0g8rkph, sni=hk1.jjjiedian6j4tblb.com, ws-headers=Host:hk1.jjjiedian6j4tblb.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港3 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk03s.00274bce.cfd, ws-headers=Host:hk03s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港3 2 = vmess, 23.227.38.18, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/td6d1aqs/0g8rkph, sni=hk1.jjjiedian6j4tblb.com, ws-headers=Host:hk1.jjjiedian6j4tblb.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港3 3 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk03s.00274bce.cfd, ws-headers=Host:hk03s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港4 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk04s.00274bce.cfd, ws-headers=Host:hk04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港4 2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=hk04s.00274bce.cfd, ws-headers=Host:hk04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 香港NO.1（GPT奈飞等） = vmess, haa.dashuai.cyou, 45050, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇭🇰 香港|广东联通|02x 1 = ss, zz2.sudun2.top, 10724, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
 🇭🇰 香港|广州移动|01x 1 = ss, ali.sudun2.top, 34993, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇮🇳 印度2 = vmess, xdd.dashuai.cyou, 45073, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇮🇸 This-UUID-is-Wrong-or-Invalid = vmess, 127.0.0.1, 443, username=5af5e263-f03e-4329-a4c5-9aac626efdc2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=Amsterdam.domain.com, ws-headers=Host:Amsterdam.domain.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇮🇳 印度1 = vmess, haa.dashuai.cyou, 45074, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇯🇵 JP-01 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18001, encrypt-method=aes-256-gcm, password=I68B8LZZ297C0B2C, tfo=false, udp-relay=true
 🇯🇵 JP-02 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 18002, encrypt-method=aes-256-gcm, password=N3V9Q3ZUWJTM3HVN, tfo=false, udp-relay=true
 🇯🇵 JP-03 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18003, encrypt-method=aes-256-gcm, password=UBXE51C5IAD910ZM, tfo=false, udp-relay=true
+🇯🇵 JP-03 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18003, encrypt-method=aes-256-gcm, password=UBXE51C5IAD910ZM, tfo=false, udp-relay=true
 🇯🇵 JP-04 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18004, encrypt-method=aes-256-gcm, password=88G0F84A8U7YPVYL, tfo=false, udp-relay=true
+🇯🇵 JP-04 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18004, encrypt-method=aes-256-gcm, password=88G0F84A8U7YPVYL, tfo=false, udp-relay=true
 🇯🇵 JP-05 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18005, encrypt-method=aes-256-gcm, password=LK2HPIX1Y99G3WFP, tfo=false, udp-relay=true
 🇯🇵 JP-06 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18006, encrypt-method=aes-256-gcm, password=JUXB3ZNPWPA8AV4V, tfo=false, udp-relay=true
+🇯🇵 JP-06 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18006, encrypt-method=aes-256-gcm, password=JUXB3ZNPWPA8AV4V, tfo=false, udp-relay=true
 🇯🇵 JP-07 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18007, encrypt-method=aes-256-gcm, password=3KUF2YAYOIHWRVWE, tfo=false, udp-relay=true
+🇯🇵 JP-08 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18008, encrypt-method=aes-256-gcm, password=3PRI870TBEIQHDTM, tfo=false, udp-relay=true
+🇯🇵 JP-08 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18008, encrypt-method=aes-256-gcm, password=3PRI870TBEIQHDTM, tfo=false, udp-relay=true
 🇯🇵 JP-09 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18009, encrypt-method=aes-256-gcm, password=PQ6BNCF34FIU0YES, tfo=false, udp-relay=true
 🇯🇵 JP-09 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18009, encrypt-method=aes-256-gcm, password=PQ6BNCF34FIU0YES, tfo=false, udp-relay=true
-🇯🇵 JP-09 3 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18009, encrypt-method=aes-256-gcm, password=PQ6BNCF34FIU0YES, tfo=false, udp-relay=true
 🇯🇵 JP-11 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18011, encrypt-method=aes-256-gcm, password=47BT29QF88DIKABT, tfo=false, udp-relay=true
-🇯🇵 JP-11 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18011, encrypt-method=aes-256-gcm, password=47BT29QF88DIKABT, tfo=false, udp-relay=true
 🇯🇵 JP-12 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18012, encrypt-method=aes-256-gcm, password=DNC2J08A2X72IHE0, tfo=false, udp-relay=true
-🇯🇵 JP-12 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18012, encrypt-method=aes-256-gcm, password=DNC2J08A2X72IHE0, tfo=false, udp-relay=true
-🇯🇵 JP-13 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18013, encrypt-method=aes-256-gcm, password=MOFBLILDHY0XQBNJ, tfo=false, udp-relay=true
 🇯🇵 JP-14 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 18014, encrypt-method=aes-256-gcm, password=10TMZ6ZN5S6RP5AF, tfo=false, udp-relay=true
-🇯🇵 JP-15 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18015, encrypt-method=aes-256-gcm, password=M5UPJCZRT73TMW93, tfo=false, udp-relay=true
-🇯🇵 JP-日本 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/jp2?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-14 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 18014, encrypt-method=aes-256-gcm, password=10TMZ6ZN5S6RP5AF, tfo=false, udp-relay=true
+🇯🇵 JP-16 = ss, ti3hyra4.slashdevslashnetslashtun.net, 18016, encrypt-method=aes-256-gcm, password=GFAKZF87GDVVKBX9, tfo=false, udp-relay=true
 🇯🇵 JP-日本 02 = vmess, oaze3zp44i1p.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/jp1?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 Japan 20 = ss, rb-jd.huidu51.com, 46620, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇯🇵 Japan 15 = ss, rb-jd.huidu51.com, 46615, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇯🇵 Japan 17 = ss, rb-jd.huidu51.com, 46617, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
 🇯🇵 免费JP节点01 = vmess, free-relay.themars.top, 39907, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本01|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59041, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇯🇵 日本02|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59042, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇯🇵 日本03|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59043, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本1 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.9fde584d.cfd, ws-headers=Host:jp01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本1 2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.9fde584d.cfd, ws-headers=Host:jp01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本3 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp03s.9fde584d.cfd, ws-headers=Host:jp03s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本3 2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp03s.9fde584d.cfd, ws-headers=Host:jp03s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本4 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp04s.9fde584d.cfd, ws-headers=Host:jp04s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本NO.2 = vmess, xdd.dashuai.cyou, 45057, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 日本解锁gpt流媒体 = ss, zz2.sudun2.top, 10903, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇯🇵 日本1 = vmess, 141.193.213.73, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/5atdxvyfjn60ggx/jp1, sni=bpjp1.jptimecsgo.xyz, ws-headers=Host:bpjp1.jptimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本1 2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.00274bce.cfd, ws-headers=Host:jp01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本1 3 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.00274bce.cfd, ws-headers=Host:jp01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本2 = vmess, 141.193.213.223, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/5atdxvyfjn60ggx/jp1, sni=bpjp1.jptimecsgo.xyz, ws-headers=Host:bpjp1.jptimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本4 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp04s.00274bce.cfd, ws-headers=Host:jp04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本NO.1 = vmess, haa.dashuai.cyou, 45056, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本NO.2 = vmess, xdd.dashuai.cyou, 45057, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 日本|IEPL解锁|01 x1.5 = ss, zz.sudun2.top, 10623, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇯🇵 日本|IEPL解锁|02 x1.5 = ss, zz2.sudun2.top, 10926, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇯🇵 日本高速x1 = vmess, beiyong-.596743944.top, 46150, username=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇰🇷 KR-韩国 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/kr1?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇰🇷 KR-韩国 02 = vmess, brk3kc1erf1f.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/kr1?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 韩国1 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr01s.9fde584d.cfd, ws-headers=Host:kr01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 韩国2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr02s.9fde584d.cfd, ws-headers=Host:kr02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 韩国3 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr03s.9fde584d.cfd, ws-headers=Host:kr03s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 韩国4 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr04s.9fde584d.cfd, ws-headers=Host:kr04s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 [3x]韩国 专线NO2 = vmess, xdd.dashuai.cyou, 45075, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 韩国2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr02s.00274bce.cfd, ws-headers=Host:kr02s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 韩国3 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr03s.00274bce.cfd, ws-headers=Host:kr03s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 韩国4 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr04s.00274bce.cfd, ws-headers=Host:kr04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 韩国4 2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr04s.00274bce.cfd, ws-headers=Host:kr04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
 🇳🇱 NL-01 = ss, 109.104.154.131, 20000, encrypt-method=aes-256-gcm, password=O6JC8JHLVPZ1O9M5, tfo=false, udp-relay=true
-🇳🇱 NL-01 2 = ss, 109.104.154.131, 20000, encrypt-method=aes-256-gcm, password=O6JC8JHLVPZ1O9M5, tfo=false, udp-relay=true
 🇷🇺 RU-01 = ss, 185.126.239.231, 20002, encrypt-method=aes-256-gcm, password=U6ARB9TUHESV6LGI, tfo=false, udp-relay=true
 🇷🇺 RU-01 2 = ss, 185.126.239.231, 20002, encrypt-method=aes-256-gcm, password=U6ARB9TUHESV6LGI, tfo=false, udp-relay=true
-🇷🇺 RU-俄罗斯 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/ru?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU-01 3 = ss, 185.126.239.231, 20002, encrypt-method=aes-256-gcm, password=U6ARB9TUHESV6LGI, tfo=false, udp-relay=true
+🇷🇺 RU-俄罗斯 02 = vmess, oaze3zp44i1p.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/ru?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG - 新加坡 01 = vmess, oaze3zp44i1p.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/sg?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG - 新加坡 02 = vmess, brk3kc1erf1f.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/sg?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG - 新加坡 03 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/sg?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 SG-01 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16001, encrypt-method=aes-256-gcm, password=BC1MHO5I5Q7EF9PZ, tfo=false, udp-relay=true
-🇸🇬 SG-02 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16002, encrypt-method=aes-256-gcm, password=TI2PCJZMDNSW184U, tfo=false, udp-relay=true
+🇸🇬 SG-01 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16001, encrypt-method=aes-256-gcm, password=BC1MHO5I5Q7EF9PZ, tfo=false, udp-relay=true
 🇸🇬 SG-03 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16003, encrypt-method=aes-256-gcm, password=ZUZONOB0LD75JCRQ, tfo=false, udp-relay=true
 🇸🇬 SG-03 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16003, encrypt-method=aes-256-gcm, password=ZUZONOB0LD75JCRQ, tfo=false, udp-relay=true
 🇸🇬 SG-04 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16004, encrypt-method=aes-256-gcm, password=9IZ9HUKXV0Q70AW5, tfo=false, udp-relay=true
 🇸🇬 SG-04 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16004, encrypt-method=aes-256-gcm, password=9IZ9HUKXV0Q70AW5, tfo=false, udp-relay=true
 🇸🇬 SG-05 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16005, encrypt-method=aes-256-gcm, password=A0SOAOYLOBE8M1GJ, tfo=false, udp-relay=true
+🇸🇬 SG-05 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16005, encrypt-method=aes-256-gcm, password=A0SOAOYLOBE8M1GJ, tfo=false, udp-relay=true
 🇸🇬 SG-06 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16006, encrypt-method=aes-256-gcm, password=VN3PFT8K2EMYMAYK, tfo=false, udp-relay=true
 🇸🇬 SG-08 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16008, encrypt-method=aes-256-gcm, password=ZZI5NALBF6X2BU9K, tfo=false, udp-relay=true
-🇸🇬 SG-09 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16009, encrypt-method=aes-256-gcm, password=OXIIQB7F27FKB4AS, tfo=false, udp-relay=true
 🇸🇬 SG-10 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16010, encrypt-method=aes-256-gcm, password=YTVDA8I8VIYR2LL9, tfo=false, udp-relay=true
+🇸🇬 SG-10 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16010, encrypt-method=aes-256-gcm, password=YTVDA8I8VIYR2LL9, tfo=false, udp-relay=true
 🇸🇬 SG-11 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16011, encrypt-method=aes-256-gcm, password=MH7YOMUBFF48FVH2, tfo=false, udp-relay=true
 🇸🇬 SG-11 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16011, encrypt-method=aes-256-gcm, password=MH7YOMUBFF48FVH2, tfo=false, udp-relay=true
 🇸🇬 SG-12 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16012, encrypt-method=aes-256-gcm, password=WEMR86PGPE9O2L9G, tfo=false, udp-relay=true
 🇸🇬 SG-13 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16013, encrypt-method=aes-256-gcm, password=1ZL9179QS871GECA, tfo=false, udp-relay=true
 🇸🇬 SG-13 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16013, encrypt-method=aes-256-gcm, password=1ZL9179QS871GECA, tfo=false, udp-relay=true
+🇸🇬 SG-13 3 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16013, encrypt-method=aes-256-gcm, password=1ZL9179QS871GECA, tfo=false, udp-relay=true
 🇸🇬 SG-14 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16014, encrypt-method=aes-256-gcm, password=76KCM96XT9WF0IZW, tfo=false, udp-relay=true
+🇸🇬 SG-14 2 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16014, encrypt-method=aes-256-gcm, password=76KCM96XT9WF0IZW, tfo=false, udp-relay=true
+🇸🇬 SG-14 3 = ss, 8tv68qhq.slashdevslashnetslashtun.net, 16014, encrypt-method=aes-256-gcm, password=76KCM96XT9WF0IZW, tfo=false, udp-relay=true
 🇸🇬 SG-16 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16016, encrypt-method=aes-256-gcm, password=TPFBV7BML758AJY5, tfo=false, udp-relay=true
+🇸🇬 SG-16 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 16016, encrypt-method=aes-256-gcm, password=TPFBV7BML758AJY5, tfo=false, udp-relay=true
 🇸🇬 Singapore 10 = ss, xjp-jd.huidu51.com, 46610, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
 🇸🇬 Singapore 13 = ss, xjp-jd.huidu51.com, 46613, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇸🇬 Singapore 14 = ss, xjp-jd.huidu51.com, 46614, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
 🇸🇬 ❗续费后更新订阅❗ = ss, 1.1.1.1, 1080, encrypt-method=chacha20-ietf-poly1305, password=fake_node_password, tfo=false, udp-relay=true
-🇸🇬 不能更新订阅请挂订阅转换 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.9fde584d.cfd, ws-headers=Host:jp01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 不能更新订阅请挂订阅转换 2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01s.9fde584d.cfd, ws-headers=Host:jp01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 不能更新订阅请挂订阅转换 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us03s.00274bce.cfd, ws-headers=Host:us03s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 免费SG节点-03 = vmess, free-relay.themars.top, 39903, username=90030631-4027-4810-8ce9-3e9095390f2d, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 免费SG节点-03 2 = vmess, free-relay.themars.top, 39903, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 免费SG节点02 = vmess, free-relay.themars.top, 49102, username=90030631-4027-4810-8ce9-3e9095390f2d, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 免费节点01-新加坡 = ss, free-relay.t01.themars.top, 56616, encrypt-method=chacha20-ietf-poly1305, password=c376082c-95c3-452e-88e4-6bb6a5daab41, tfo=false, udp-relay=true
+🇸🇬 免费SG节点02 2 = vmess, free-relay.themars.top, 49102, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 免费节点02-新加坡 = ss, free-relay.t01.themars.top, 49901, encrypt-method=chacha20-ietf-poly1305, password=c376082c-95c3-452e-88e4-6bb6a5daab41, tfo=false, udp-relay=true
-🇸🇬 必须重新下载教程内的软件 = ss, xxxx, 11101, encrypt-method=chacha20-ietf-poly1305, password=6ec8d330-21cf-45f9-acd1-c75ff00c6154, tfo=false, udp-relay=true
-🇸🇬 新加坡 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg02s.9fde584d.cfd, ws-headers=Host:sg02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg02s.00274bce.cfd, ws-headers=Host:sg02s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 新加坡01|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59031, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 新加坡1 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg01s.9fde584d.cfd, ws-headers=Host:sg01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 新加坡3 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg03s.9fde584d.cfd, ws-headers=Host:sg03s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 新加坡4 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg04s.9fde584d.cfd, ws-headers=Host:sg04s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 新加坡4 2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg04s.9fde584d.cfd, ws-headers=Host:sg04s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 新加坡NO.2 = vmess, xdd.dashuai.cyou, 45055, username=064f3d50-afbc-4979-9ba3-ccb43bf2e517, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡1 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg01s.00274bce.cfd, ws-headers=Host:sg01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡3 = vmess, cdn3.bpcdn.cc, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=sgtxv82wilpfh6a8vm.lovebaipiao.com, ws-headers=Host:sgtxv82wilpfh6a8vm.lovebaipiao.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡4 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg04s.00274bce.cfd, ws-headers=Host:sg04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡NO.1 = vmess, haa.dashuai.cyou, 45054, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 新加坡|IEPL专线|01 x1.5 = ss, xinjiap.sudun2.top, 10570, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
 🇸🇬 新加坡|IEPL专线|02 x1.5 = ss, xinjiap.sudun2.top, 10570, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇸🇬 新加坡|SG01|ND = ss, sg01.nfsqttt.cn, 11109, encrypt-method=chacha20-ietf-poly1305, password=6ec8d330-21cf-45f9-acd1-c75ff00c6154, tfo=false, udp-relay=true
-🇸🇬 新加坡|SG02|ND = ss, sg02.nfsqttt.cn, 11120, encrypt-method=chacha20-ietf-poly1305, password=6ec8d330-21cf-45f9-acd1-c75ff00c6154, tfo=false, udp-relay=true
 🇸🇬 新加坡|广东;联通|03  x1 = ss, xinjiap.sudun2.top, 10570, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇸🇬 新加坡|广州移动|01 x1 = ss, xinjiap.sudun2.top, 10570, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇸🇬 直连订阅每日早更，注意更新你的本地订阅 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us02s.9fde584d.cfd, ws-headers=Host:us02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 最新地址:gy888.xyz = vmess, 2.example2.com, 456, username=2523445-uuid-for-expired2-users, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/ws-node2, sni=2.example2.com, ws-headers=Host:2.example2.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 直连订阅每日早更，注意更新你的本地订阅 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us01s.00274bce.cfd, ws-headers=Host:us01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
 🇸🇬 重新在网页复制订阅导入 = ss, xxxxx, 11102, encrypt-method=chacha20-ietf-poly1305, password=6ec8d330-21cf-45f9-acd1-c75ff00c6154, tfo=false, udp-relay=true
+🇹🇷 土耳其1 = vmess, digitalocean.com, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/9f2fquad/6mcv2bc, sni=tk1.jiesk4pdqcqjo16j.xyz, ws-headers=Host:tk1.jiesk4pdqcqjo16j.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇹🇷 土耳其2 = vmess, 141.193.213.137, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/9f2fquad/6mcv2bc, sni=tk1.jiesk4pdqcqjo16j.xyz, ws-headers=Host:tk1.jiesk4pdqcqjo16j.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 🇺🇦 UA-01 = ss, 147.78.3.137, 20032, encrypt-method=aes-256-gcm, password=49AWQGNS24QP2T87, tfo=false, udp-relay=true
 🇺🇦 UA-01 2 = ss, 147.78.3.137, 20032, encrypt-method=aes-256-gcm, password=49AWQGNS24QP2T87, tfo=false, udp-relay=true
 🇺🇸 US-01 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17001, encrypt-method=aes-256-gcm, password=4XSCD05PZFYEAJQC, tfo=false, udp-relay=true
 🇺🇸 US-02 = ss, 23.185.248.12, 17002, encrypt-method=aes-256-gcm, password=LHCPSTU5V31EX4M2, tfo=false, udp-relay=true
+🇺🇸 US-02 2 = ss, 23.185.248.12, 17002, encrypt-method=aes-256-gcm, password=LHCPSTU5V31EX4M2, tfo=false, udp-relay=true
 🇺🇸 US-03 = ss, 23.185.248.13, 17003, encrypt-method=aes-256-gcm, password=B65TI0ODDL2OEZ4Q, tfo=false, udp-relay=true
 🇺🇸 US-03 2 = ss, 23.185.248.13, 17003, encrypt-method=aes-256-gcm, password=B65TI0ODDL2OEZ4Q, tfo=false, udp-relay=true
-🇺🇸 US-03 3 = ss, 23.185.248.13, 17003, encrypt-method=aes-256-gcm, password=B65TI0ODDL2OEZ4Q, tfo=false, udp-relay=true
 🇺🇸 US-04 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17004, encrypt-method=aes-256-gcm, password=ELF3FHC3F4P0BIYK, tfo=false, udp-relay=true
 🇺🇸 US-04 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17004, encrypt-method=aes-256-gcm, password=ELF3FHC3F4P0BIYK, tfo=false, udp-relay=true
 🇺🇸 US-05 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17005, encrypt-method=aes-256-gcm, password=A4ABLJOS1T9P5EXA, tfo=false, udp-relay=true
 🇺🇸 US-05 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17005, encrypt-method=aes-256-gcm, password=A4ABLJOS1T9P5EXA, tfo=false, udp-relay=true
 🇺🇸 US-07 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17007, encrypt-method=aes-256-gcm, password=4AHZ7NXVR0INNPXB, tfo=false, udp-relay=true
-🇺🇸 US-07 2 = ss, ti3hyra4.slashdevslashnetslashtun.net, 17007, encrypt-method=aes-256-gcm, password=4AHZ7NXVR0INNPXB, tfo=false, udp-relay=true
 🇺🇸 US-09 = ss, 23.185.248.19, 17009, encrypt-method=aes-256-gcm, password=IY0IJF03YG4QOGBA, tfo=false, udp-relay=true
+🇺🇸 US-09 2 = ss, 23.185.248.19, 17009, encrypt-method=aes-256-gcm, password=IY0IJF03YG4QOGBA, tfo=false, udp-relay=true
+🇺🇸 US-10 = ss, 23.185.248.20, 17010, encrypt-method=aes-256-gcm, password=QE2BBDREHAIURABT, tfo=false, udp-relay=true
 🇺🇸 US-11 = ss, 23.185.248.21, 17011, encrypt-method=aes-256-gcm, password=0O14QUBWH2IPR7T6, tfo=false, udp-relay=true
 🇺🇸 US-11 2 = ss, 23.185.248.21, 17011, encrypt-method=aes-256-gcm, password=0O14QUBWH2IPR7T6, tfo=false, udp-relay=true
-🇺🇸 US-11 3 = ss, 23.185.248.21, 17011, encrypt-method=aes-256-gcm, password=0O14QUBWH2IPR7T6, tfo=false, udp-relay=true
 🇺🇸 US-12 = ss, 23.185.248.22, 17012, encrypt-method=aes-256-gcm, password=57R8ITK31A8VDRA1, tfo=false, udp-relay=true
 🇺🇸 US-12 2 = ss, 23.185.248.22, 17012, encrypt-method=aes-256-gcm, password=57R8ITK31A8VDRA1, tfo=false, udp-relay=true
 🇺🇸 US-13 = ss, 23.185.248.23, 17013, encrypt-method=aes-256-gcm, password=7RBISYLRGDDATYVF, tfo=false, udp-relay=true
-🇺🇸 US-14 = ss, 23.185.248.24, 17014, encrypt-method=aes-256-gcm, password=41N6CMVQ4NIXHZCD, tfo=false, udp-relay=true
 🇺🇸 US-15 = ss, 23.185.248.25, 17015, encrypt-method=aes-256-gcm, password=ECUH1JNNTFZW83CZ, tfo=false, udp-relay=true
+🇺🇸 US-15 2 = ss, 23.185.248.25, 17015, encrypt-method=aes-256-gcm, password=ECUH1JNNTFZW83CZ, tfo=false, udp-relay=true
+🇺🇸 US-16 = ss, 23.185.248.26, 17016, encrypt-method=aes-256-gcm, password=H6QU4LJ91ZQ66BTM, tfo=false, udp-relay=true
+🇺🇸 US-美国 01 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/us1?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-美国 02 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/us2?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇺🇸 US-美国 03 = vmess, hwenww5cd00r.jkhkgj.xyz, 80, username=ae2e2083-7cdc-47d2-be14-f7db9ddebf2c, tls=false, vmess-aead=true, ws=true, ws-path=/market/us2?ed=512, sni=file.dingtalk.com, ws-headers=Host:file.dingtalk.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 USA 21 = ss, mg-jd.huidu51.com, 46621, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇺🇸 USA 22 = ss, mg-jd.huidu51.com, 46622, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇺🇸 USA 24 = ss, mg-jd.huidu51.com, 46624, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
+🇺🇸 USA 25 = ss, mg-jd.huidu51.com, 46625, encrypt-method=chacha20-ietf-poly1305, password=dbba4dcb-db0c-4415-a6d3-d72a93206f5b, tfo=false, udp-relay=true
 🇺🇸 免费US节点-04 = vmess, free-relay.themars.top, 37904, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 免费US节点05 = vmess, free-relay.themars.top, 37906, username=631484bb-c085-4384-8c3a-d93db3d587ef, tls=false, vmess-aead=true, ws=true, ws-path=/cctv1.m3u8, sni=www.cctv.com, ws-headers=Host:www.cctv.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国 = vmess, v8.heduian.link, 30808, username=cbb3f877-d1fb-344c-87a9-d153bffd5484, tls=false, vmess-aead=true, ws=true, ws-path=/oooo, sni=baidu.com, ws-headers=Host:baidu.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-拉斯维加斯-002 = vmess, 45.136.245.177, 23158, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-拉斯维加斯-002 2 = vmess, 45.136.245.177, 23158, username=791a9aad-1a8b-435d-862e-627f41025d73, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-拉斯维加斯-003 = vmess, 45.136.245.177, 25029, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-拉斯维加斯-003 2 = vmess, 45.136.245.177, 25029, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-拉斯维加斯-003 3 = vmess, 45.136.245.177, 25029, username=60951a9f-46f9-46fc-bafe-efff0dad99b0, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-纽约-001 = vmess, 45.136.245.177, 22095, username=60951a9f-46f9-46fc-bafe-efff0dad99b0, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-纽约-001 2 = vmess, 45.136.245.177, 22095, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-纽约-001 3 = vmess, 45.136.245.177, 22095, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-纽约-001 4 = vmess, 45.136.245.177, 22095, username=eb186e3b-4c4a-4131-a717-f9c7bda6d80b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国-纽约-001 5 = vmess, 45.136.245.177, 22095, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国 = vmess, v4.heduian.link, 30804, username=cbb3f877-d1fb-344c-87a9-d153bffd5484, tls=false, vmess-aead=true, ws=true, ws-path=/oooo, sni=ocbc.com, ws-headers=Host:ocbc.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国 2 = vmess, v32.heduian.link, 30832, username=cbb3f877-d1fb-344c-87a9-d153bffd5484, tls=false, vmess-aead=true, ws=true, ws-path=/oooo, sni=baidu.com, ws-headers=Host:baidu.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 = vmess, 45.136.245.177, 23159, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 2 = vmess, 45.136.245.177, 23159, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 3 = vmess, 45.136.245.177, 23159, username=60951a9f-46f9-46fc-bafe-efff0dad99b0, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 4 = vmess, 45.136.245.177, 23159, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 5 = vmess, 45.136.245.177, 23159, username=eb186e3b-4c4a-4131-a717-f9c7bda6d80b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-002 6 = vmess, 45.136.245.177, 23159, username=791a9aad-1a8b-435d-862e-627f41025d73, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-003 = vmess, 45.136.245.177, 25029, username=eb186e3b-4c4a-4131-a717-f9c7bda6d80b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-拉斯维加斯-003 2 = vmess, 45.136.245.177, 25029, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-纽约-001 = vmess, 45.136.245.177, 22096, username=fceff025-b4ea-4fd2-9093-151b3bd503cd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-纽约-001 2 = vmess, 45.136.245.177, 22096, username=c3f62fb7-5e43-4a82-aecd-fdc3c507ac02, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国-纽约-001 3 = vmess, 45.136.245.177, 22096, username=f5dc8f26-f472-4089-82f8-7af58ea887d3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=45.136.245.177, skip-cert-verify=false, tfo=false, udp-relay=true
 🇺🇸 美国01|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59051, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国1 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us01s.9fde584d.cfd, ws-headers=Host:us01s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 美国2 = vmess, 2c8814.9fde584d.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us02s.9fde584d.cfd, ws-headers=Host:us02s.9fde584d.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国02|BGP = vmess, e4d7a1c2f3b80976a5e2c1d4b3f0a987.blue-bgp.xyz, 59052, username=382ea63d-63c6-4a68-a707-30f2413042d2, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国1 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us01s.00274bce.cfd, ws-headers=Host:us01s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国1-baipiaoyes.top = vmess, 104.19.174.68, 8443, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/td6d1aqs/0g8rkph, sni=us1.jjjiedian6j4tblb.com, ws-headers=Host:us1.jjjiedian6j4tblb.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us02s.00274bce.cfd, ws-headers=Host:us02s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国2 2 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us02s.00274bce.cfd, ws-headers=Host:us02s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国3 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=us03s.00274bce.cfd, ws-headers=Host:us03s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国NO.2（GPT） = vmess, xdd.dashuai.cyou, 45053, username=7e96d961-dc6a-4213-9304-544c47923ef6, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国ipv6-5G-ss = ss, 6ushrhml7ttpliy3.lovebaipiao.net, 51751, encrypt-method=aes-128-gcm, password=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tfo=false, udp-relay=true
 🇺🇸 美国|IEPL专线|01 x1.5 = ss, zz.sudun2.top, 10180, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🇺🇸 美国高速x2 = vmess, beiyong-.596743944.top, 17437, username=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国|US01|ND = ss, us01.nfsqttt.cn, 11135, encrypt-method=chacha20-ietf-poly1305, password=6ec8d330-21cf-45f9-acd1-c75ff00c6154, tfo=false, udp-relay=true
+🇺🇸 美国|广东联通|03 x1 = ss, zz2.sudun2.top, 10576, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
+🇺🇸 美国光速2 = vmess, 170.114.45.52, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/8qq37n268c4r728/us1, sni=bpus2.ustimecsgo.xyz, ws-headers=Host:bpus2.ustimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国光速4 = vmess, csgo.com, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/8qq37n268c4r728/us1, sni=bpus2.ustimecsgo.xyz, ws-headers=Host:bpus2.ustimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国光速6 = vmess, cloudflare.182682.xyz, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/8qq37n268c4r728/us1, sni=bpus2.ustimecsgo.xyz, ws-headers=Host:bpus2.ustimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国光速7 = vmess, 141.193.213.167, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/8qq37n268c4r728/us1, sni=bpus2.ustimecsgo.xyz, ws-headers=Host:bpus2.ustimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国光速9 = vmess, 141.193.213.169, 2086, username=2abba4af-d203-4cb2-a7d5-a0cb05d9aca2, tls=false, vmess-aead=true, ws=true, ws-path=/8qq37n268c4r728/us1, sni=bpus2.ustimecsgo.xyz, ws-headers=Host:bpus2.ustimecsgo.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 美国高速x1 = vmess, beiyong-.596743944.top, 17437, username=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 🇻🇳 越南|IEPL专线|01 x1.5 = ss, zz.sudun2.top, 10614, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
 🇻🇳 越南|IEPL专线|02 x1.5 = ss, zz.sudun2.top, 10126, encrypt-method=chacha20-ietf-poly1305, password=7dbdba19-6a3b-4370-93b1-fb5a89adde0c, tfo=false, udp-relay=true
-🏳️‍🌈 ⚠️ 您的订阅已过期-2 ⚠️ = vmess, yx1.niaoba.top, 8080, username=4000219a-a199-441d-abc7-70359c60ed44, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176509317197.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176509317197.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
-🏳️‍🌈 ⚠️ 您的订阅已过期-3 ⚠️ = vmess, yx1.niaoba.top, 8080, username=4000219a-a199-441d-abc7-70359c60ed44, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176509317197.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176509317197.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
-🏳️‍🌈 套餐已过期或流量已用完 = vmess, 1.example.com, 1234, username=fixed-uuid-for-expired-users, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/ws-node1, sni=1.example.com, ws-headers=Host:1.example.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🏳️‍🌈 ⚠️ 您的订阅已过期-1 ⚠️ = vmess, yx1.niaoba.top, 2095, username=4000219a-a199-441d-abc7-70359c60ed44, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=1176549997466.vmus6.taobao.yyds.niaoba.top, ws-headers=Host:1176549997466.vmus6.taobao.yyds.niaoba.top, skip-cert-verify=false, tfo=false, udp-relay=true
+🏳️‍🌈 节点全红检查是否流量已用完 = vmess, fae592.00274bce.cfd, 80, username=952797b6-21a0-4e66-9239-30ef5c0efcdf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=kr04s.00274bce.cfd, ws-headers=Host:kr04s.00274bce.cfd, skip-cert-verify=false, tfo=false, udp-relay=true
