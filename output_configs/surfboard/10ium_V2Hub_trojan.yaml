@@ -1,123 +1,114 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2F10ium%2FV2Hub3%2Fmain%2FSplit%2FBase64%2Ftrojan interval=86400 strict=false
 
-CZ🇨🇿 | 195.85.23.219-443 | 14.15ms = trojan, 195.85.23.219, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-EE🇪🇪 | 45.80.108.245-443 | 14.15ms = trojan, 45.80.108.245, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-IR🇮🇷 | wivip.dtsazino.com-443 | 320.92ms = trojan, wivip.dtsazino.com, 443, password=wPslQ6KBJN, sni=wivip.dtsazino.com, skip-cert-verify=false, tfo=false, udp-relay=true
-JO🇯🇴 | 62.72.166.57-443 | 13.99ms = trojan, 62.72.166.57, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-JO🇯🇴 | 62.72.166.57-443 | 14.19ms = trojan, 62.72.166.57, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-REALITY|SK🇸🇰 | eset.com-443 | 150.9ms = trojan, 46.62.153.8, 443, password=1UUks8qp3f, sni=eset.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.17.0.118-443 | 14.04ms = trojan, 104.17.0.118, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.17.120.240-443 | 15.37ms = trojan, 104.17.120.240, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.17.184.125-443 | 14.26ms = trojan, 104.17.184.125, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.17.244.30-443 | 14.96ms = trojan, 104.17.244.30, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.18.216.13-443 | 14.18ms = trojan, 104.18.216.13, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.19.208.2-443 | 14.19ms = trojan, 104.19.208.2, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 104.19.241.122-443 | 14.27ms = trojan, 104.19.241.122, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 108.162.198.98-443 | 14.54ms = trojan, 108.162.198.98, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 188.114.96.219-443 | 14.21ms = trojan, 188.114.96.219, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 188.114.97.198-443 | 14.3ms = trojan, 188.114.97.198, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 190.93.244.132-443 | 14.16ms = trojan, 190.93.244.132, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 190.93.244.215-443 | 14.39ms = trojan, 190.93.244.215, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 190.93.246.217-443 | 13.98ms = trojan, 190.93.246.217, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 190.93.247.7-443 | 13.97ms = trojan, 190.93.247.7, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 190.93.247.81-443 | 14.53ms = trojan, 190.93.247.81, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 85.2ms = trojan, 172.67.149.210, 443, password=CjqK8GFZ%29%2CD%3F, sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | 90.tAIpEI108.dpDnS.orG-443 | 129.46ms = trojan, 172.67.207.27, 443, password=5a5d1112-4ae7-431f-bdde-0d008fb473dd, sni=90.tAIpEI108.dpDnS.orG, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | CVFgTrE4.222560.XyZ-443 | 114.1ms = trojan, 172.67.149.202, 443, password=19a78eeb-d83a-4364-b095-b7dd93436320, sni=CVFgTrE4.222560.XyZ, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | CVFgTrE4.222560.XyZ-443 | 14.99ms = trojan, 104.21.29.205, 443, password=19a78eeb-d83a-4364-b095-b7dd93436320, sni=CVFgTrE4.222560.XyZ, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | PpAL03.arNUlFo-kunZE.WORkerS.dEV-443 | 84.25ms = trojan, 172.67.201.123, 443, password=47df6fe1-cc2a-4f26-b748-08d902272bde, sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | aio.zipzap.biz.id-443 | 224.12ms = trojan, aio.zipzap.biz.id, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=aio.zipzap.biz.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | azadnet-9ya.pages.dev-443 | 98.05ms = trojan, www.digitalocean.com, 443, password=trojan, sni=azadnet-9ya.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 138.76ms = trojan, 104.18.13.229, 8880, password=trojan, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | betashop.foz.rf.gd-8443 | 1494.69ms = trojan, 104.21.22.11, 8443, password=trojan, sni=betashop.foz.rf.gd, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-2087 | 69.04ms = trojan, 104.24.145.86, 2087, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 14.67ms = trojan, 104.16.155.68, 8443, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 14.6ms = trojan, 104.16.211.9, 8443, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | c2.validbv3528.eu.org-443 | 281.66ms = trojan, 104.16.83.8, 443, password=Ng35283528, sni=c2.validbv3528.eu.org, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | dcf741e8.epeius-2gy.pages.dev-443 | 85.82ms = trojan, 172.66.45.2, 443, password=auto, sni=dcf741e8.epeius-2gy.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 100ms = trojan, 104.20.19.168, 2083, password=auto, sni=e9464f45.trauma-2r4.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | esetsecuritylicense.bwnsmv.workers.dev-443 | 14.95ms = trojan, 172.67.203.182, 443, password=auto, sni=esetsecuritylicense.bwnsmv.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | esetsecuritylicense.bwnsmv.workers.dev-443 | 84.72ms = trojan, 185.146.173.158, 443, password=auto, sni=esetsecuritylicense.bwnsmv.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | esetsecuritylicense1.cxlrazo.workers.dev-443 | 99.77ms = trojan, 104.21.72.108, 443, password=auto, sni=esetsecuritylicense1.cxlrazo.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | esetsecuritylicense2.wawafec355.workers.dev-443 | 84.3ms = trojan, 172.67.213.48, 443, password=auto, sni=esetsecuritylicense2.wawafec355.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | esetsecuritylicense3.wawafec355.workers.dev-443 | 100.25ms = trojan, 104.21.35.43, 443, password=auto, sni=esetsecuritylicense3.wawafec355.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv-443 | 108.41ms = trojan, 172.66.45.9, 443, password=%3AbC5%5Elakx%3E%24d, sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | floral-shadow-a524.bestmanvpn2020.workers.dev-80 | 84.83ms = trojan, 104.17.147.22, 80, password=auto, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | gkH7iMomi--3t3xCStzt8pP4dLZUeskN.PagEs.Dev-443 | 103.75ms = trojan, www.speedtest.net, 443, password=%3FM%7C%24pIEDnf8N, sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV-443 | 14.93ms = trojan, 172.66.44.59, 443, password=%3FM%7C%24pIEDnf8N, sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | heihu880.pages.dev-443 | 14.63ms = trojan, 104.21.90.78, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | heihu880.pages.dev-443 | 14.9ms = trojan, 172.67.153.253, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | heihu880.pages.dev-443 | 15.68ms = trojan, www.pcmag.com, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | heihu880.pages.dev-443 | 49.96ms = trojan, www.wto.org, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | iNvIncIbLE.faFA20.SHop-2053 | 14.8ms = trojan, 104.21.95.229, 2053, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=iNvIncIbLE.faFA20.SHop, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | inVIncibLE.fAfA20.shoP-2083 | 15.1ms = trojan, 104.21.78.206, 2083, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=inVIncibLE.fAfA20.shoP, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | inviNcIble.fafa20.ShOp-443 | 79.94ms = trojan, 172.67.175.148, 443, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=inviNcIble.fafa20.ShOp, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | mashdt.pages.dev-443 | 112.9ms = trojan, 104.21.75.193, 443, password=bpb-trojan, sni=mashdt.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | muddy-frost-4e2d.vpnetwork3567.workers.dev-443 | 86.48ms = trojan, muddy-frost-4e2d.vpnetwork3567.workers.dev, 443, password=C910E5F2-A662-7CFB-B5A6-5D39DB212CBA, sni=muddy-frost-4e2d.vpnetwork3567.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | nameless-term-9c25.vpnconnect202020.workers.dev-443 | 119.96ms = trojan, 104.21.48.61, 443, password=auto, sni=nameless-term-9c25.vpnconnect202020.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | ocost-dy.wmlefl.cc-8443 | 14.95ms = trojan, 104.18.2.108, 8443, password=slch2024, sni=ocost-dy.wmlefl.cc, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | ocost-dy.wmlefl.cc-8443 | 54.14ms = trojan, 104.18.2.108, 8443, password=slch2024, sni=ocost-dy.wmlefl.cc, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | pages.dev-443 | 51.58ms = trojan, 172.67.204.84, 443, password=2df56fd0-d1b7-4793-b877-acd356d960f7, sni=pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | pangpi.pages.dev-8443 | 48.79ms = trojan, 104.18.13.229, 8443, password=trojan, sni=pangpi.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | production.tj.ojan.workers.dev-443 | 81.55ms = trojan, production.tj.ojan.workers.dev, 443, password=9yu6m5okr, sni=production.tj.ojan.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | top-azx.pages.dev-8443 | 14.89ms = trojan, 104.25.165.81, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | top-azx.pages.dev-8443 | 14.91ms = trojan, 104.25.165.81, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | top-azx.pages.dev-8443 | 84.72ms = trojan, 104.25.97.27, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | trojanmz.pages.dev-443 | 149.75ms = trojan, 108.162.195.209, 443, password=auto, sni=trojanmz.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | ttfang.fange.me-443 | 15.88ms = trojan, 128.199.237.143, 443, password=ttfang, sni=ttfang.fange.me, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vipren.biz.id-443 | 369.29ms = trojan, vipren.biz.id, 443, password=bbbbbbbb-cccc-4ddd-eeee-ffffffffffff, sni=vipren.biz.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vle.amclubsvip.dpdns.org-2096 | 8308.59ms = trojan, 154.83.2.54, 2096, password=d6b8011a-c725-435a-9fec-bf6d3530392c, sni=vle.amclubsvip.dpdns.org, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.5ms = trojan, 104.21.72.109, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.61ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.69ms = trojan, 104.21.72.109, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.6ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.75ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.78ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.8ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 14.94ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.21ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.32ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.57ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.65ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.6ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 15.79ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | vpn.stupidworld.web.id-443 | 195.61ms = trojan, www.speedtest.net, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | wahaha.yingyangkuaixian.dpdns.org-443 | 418.68ms = trojan, 91.193.58.0, 443, password=trojan, sni=wahaha.yingyangkuaixian.dpdns.org, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev-443 | 85.86ms = trojan, 185.18.250.117, 443, password=1e9aadae-ca17-4f75-b0a0-7de5e3858cfb, sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | yaml7.ggff.net-443 | 203.08ms = trojan, 104.21.61.73, 443, password=yaml777, sni=yaml7.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | zamim340.ggff.net-443 | 14.38ms = trojan, 104.26.4.60, 443, password=bpb-trojan, sni=zamim340.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY🚩 | zamim340.ggff.net-443 | 274.88ms = trojan, japan.com, 443, password=bpb-trojan, sni=zamim340.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | uk-02.allhubb.info-8443 | 298.16ms = trojan, 51.195.254.75, 8443, password=zsu4Mq3A9J, sni=uk-02.allhubb.info, skip-cert-verify=false, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 154.197.121.175-443 | 14.33ms = trojan, 154.197.121.175, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 185.193.28.17-443 | 15.17ms = trojan, 185.193.28.17, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 RELAY🚩 | t.hongkong6.qzz.io-2053 | 461.49ms = trojan, www.visa.com.sg, 2053, password=0F22D008-24D4-4DFE-947B-8D2FD64CD24C, sni=t.hongkong6.qzz.io, skip-cert-verify=false, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 45.131.208.126-443 | 13.89ms = trojan, 45.131.208.126, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇷🇺 RU🇷🇺 | 185.148.106.44-443 | 13.92ms = trojan, 185.148.106.44, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇷🇺 RU🇷🇺 | 185.148.106.44-443 | 14.74ms = trojan, 185.148.106.44, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 13.49ms = trojan, ru2.asc-sam.ir, 443, password=AdPYCBfMUM, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 23.28ms = trojan, ru2.asc-sam.ir, 443, password=IM4e0ZQNPU, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 27.46ms = trojan, 176.32.39.29, 443, password=8OXD5VVt8s, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 93.65ms = trojan, ru2.asc-sam.ir, 443, password=IM4e0ZQNPU, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 168.100.6.112-443 | 14.68ms = trojan, 168.100.6.112, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | akamai.cdn.steampipe.steamcontent.com-443 | 286.97ms = trojan, 35.92.52.160, 443, password=8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd, sni=akamai.cdn.steampipe.steamcontent.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 246.82ms = trojan, 104.16.159.5, 443, password=984e400bf5d541b7b0815913fe0c432a, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 53.55ms = trojan, 104.16.159.7, 443, password=4732adfa16c6450bbef87264e41332db, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 54.43ms = trojan, 104.16.159.6, 443, password=669d0ac7b5b64ebbb1abb75d5d540a5c, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | google.com-443 | 31.99ms = trojan, 45.76.47.77, 443, password=wkmY1R4EcP, sni=google.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | nextstepcareer.online-443 | 220.51ms = trojan, 165.22.74.230, 443, password=4732adfa16c6450bbef87264e41332db, sni=nextstepcareer.online, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | rc6.freeguard.org-443 | 339.08ms = trojan, 198.23.229.250, 443, password=2ee85121-31de-4581-a492-eb00f606e392, sni=rc6.freeguard.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | rc8.freeguard.org-443 | 423.58ms = trojan, 192.3.107.252, 443, password=2ee85121-31de-4581-a492-eb00f606e392, sni=rc8.freeguard.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | speedtest.net-80 | 12.39ms = trojan, 51.91.11.29, 80, password=598c19f3-a48e-47cd-8451-1ba04ea094d0, sni=speedtest.net, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 1144.15ms = trojan, www.ipchicken.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 1370.69ms = trojan, trevor.ns.cloudflare.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 463.88ms = trojan, 162.159.36.104, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 5037.34ms = trojan, 172.67.110.232, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 5037.55ms = trojan, iplocation.io, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 5044.34ms = trojan, 172.67.79.211, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 6316.78ms = trojan, visa.cn, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 729.69ms = trojan, craig.ns.cloudflare.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 797.9ms = trojan, 103.160.204.59, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 823.48ms = trojan, sullivan.ns.cloudflare.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 829.49ms = trojan, kyree.ns.cloudflare.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | tb.promote.icu-443 | 940.07ms = trojan, moura.ns.cloudflare.com, 443, password=blue2024, sni=tb.promote.icu, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | vzwzasc.cn-443 | 1837.55ms = trojan, 104.149.155.13, 443, password=79c935c0-27dc-4383-b307-dcac1b8e5509, sni=vzwzasc.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+EE🇪🇪 | 45.80.108.245-443 | 5.77ms = trojan, 45.80.108.245, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+IR🇮🇷 | wivip.dtsazino.com-443 | 277.92ms = trojan, wivip.dtsazino.com, 443, password=wPslQ6KBJN, sni=wivip.dtsazino.com, skip-cert-verify=false, tfo=false, udp-relay=true
+JO🇯🇴 | 62.72.166.57-443 | 5.62ms = trojan, 62.72.166.57, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+JO🇯🇴 | 62.72.166.57-443 | 6.37ms = trojan, 62.72.166.57, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+REALITY|SK🇸🇰 | eset.com-443 | 117ms = trojan, 46.62.153.8, 443, password=1UUks8qp3f, sni=eset.com, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za-443 | 67.82ms = trojan, 104.17.234.12, 443, password=VPNCUSTOMIZE, sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 104.16.91.99-443 | 5.31ms = trojan, 104.16.91.99, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 104.17.157.109-443 | 5.38ms = trojan, 104.17.157.109, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 104.25.124.93-443 | 5.36ms = trojan, 104.25.124.93, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 104.26.9.14-443 | 5.37ms = trojan, 104.26.9.14, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 150.48ms = trojan, 172.67.149.210, 443, password=CjqK8GFZ%29%2CD%3F, sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | 90.tAIpEI108.dpDnS.orG-443 | 138.98ms = trojan, 172.67.207.27, 443, password=5a5d1112-4ae7-431f-bdde-0d008fb473dd, sni=90.tAIpEI108.dpDnS.orG, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ArGodev11222.PaGes.Dev-2083 | 37.86ms = trojan, 104.18.39.232, 2083, password=89b3cbba-e6ac-485a-9481-976a0415eab9, sni=ArGodev11222.PaGes.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | CVFgTrE4.222560.XyZ-443 | 6.2ms = trojan, 104.21.29.205, 443, password=19a78eeb-d83a-4364-b095-b7dd93436320, sni=CVFgTrE4.222560.XyZ, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | CVFgTrE4.222560.XyZ-443 | 84.42ms = trojan, 172.67.149.202, 443, password=19a78eeb-d83a-4364-b095-b7dd93436320, sni=CVFgTrE4.222560.XyZ, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | PpAL03.arNUlFo-kunZE.WORkerS.dEV-443 | 136.67ms = trojan, 172.67.201.123, 443, password=47df6fe1-cc2a-4f26-b748-08d902272bde, sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | aio.zipzap.biz.id-443 | 192.05ms = trojan, aio.zipzap.biz.id, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=aio.zipzap.biz.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | aliii.ir-80 | 373.21ms = trojan, 199.232.197.231, 80, password=89b3cbba-e6ac-485a-9481-976a0415eab9, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | azadnet-9ya.pages.dev-443 | 23.26ms = trojan, www.digitalocean.com, 443, password=trojan, sni=azadnet-9ya.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | azadnet.vileyo6708.workers.dev-8880 | 22.98ms = trojan, 104.18.13.229, 8880, password=trojan, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | betashop.foz.rf.gd-8443 | 212.57ms = trojan, 104.21.22.11, 8443, password=trojan, sni=betashop.foz.rf.gd, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-2087 | 57.6ms = trojan, 104.24.145.86, 2087, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 5.99ms = trojan, 104.16.155.68, 8443, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 5.9ms = trojan, 104.16.211.9, 8443, password=Mojtaba-shieldheart, sni=broken-bread-6ba6.shieldheart4.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | c2.validbv3528.eu.org-443 | 190.89ms = trojan, 104.16.83.8, 443, password=Ng35283528, sni=c2.validbv3528.eu.org, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | dcf741e8.epeius-2gy.pages.dev-443 | 41.17ms = trojan, 172.66.45.2, 443, password=auto, sni=dcf741e8.epeius-2gy.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | e9464f45.trauma-2r4.pages.dev-2083 | 5.55ms = trojan, 104.20.19.168, 2083, password=auto, sni=e9464f45.trauma-2r4.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | e9464f45.trauma-2r4.pages.dev-8443 | 42.18ms = trojan, 162.159.128.233, 8443, password=auto, sni=e9464f45.trauma-2r4.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | esetsecuritylicense.bwnsmv.workers.dev-443 | 41.43ms = trojan, 185.146.173.158, 443, password=auto, sni=esetsecuritylicense.bwnsmv.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | esetsecuritylicense.bwnsmv.workers.dev-443 | 5.91ms = trojan, 172.67.203.182, 443, password=auto, sni=esetsecuritylicense.bwnsmv.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | esetsecuritylicense1.cxlrazo.workers.dev-443 | 60.84ms = trojan, 104.21.72.108, 443, password=auto, sni=esetsecuritylicense1.cxlrazo.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | esetsecuritylicense2.wawafec355.workers.dev-443 | 101.84ms = trojan, 172.67.213.48, 443, password=auto, sni=esetsecuritylicense2.wawafec355.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | esetsecuritylicense3.wawafec355.workers.dev-443 | 48.91ms = trojan, 104.21.35.43, 443, password=auto, sni=esetsecuritylicense3.wawafec355.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv-443 | 37.33ms = trojan, 172.66.45.9, 443, password=%3AbC5%5Elakx%3E%24d, sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | floral-shadow-a524.bestmanvpn2020.workers.dev-80 | 39.64ms = trojan, 104.17.147.22, 80, password=auto, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | gkH7iMomi--3t3xCStzt8pP4dLZUeskN.PagEs.Dev-443 | 44.96ms = trojan, www.speedtest.net, 443, password=%3FM%7C%24pIEDnf8N, sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV-443 | 5.98ms = trojan, 172.66.44.59, 443, password=%3FM%7C%24pIEDnf8N, sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | heihu880.pages.dev-443 | 39.75ms = trojan, www.wto.org, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | heihu880.pages.dev-443 | 6.01ms = trojan, 172.67.153.253, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | heihu880.pages.dev-443 | 6.13ms = trojan, www.pcmag.com, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | heihu880.pages.dev-443 | 9.04ms = trojan, 104.21.90.78, 443, password=vip, sni=heihu880.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | iNvIncIbLE.faFA20.SHop-2053 | 6.64ms = trojan, 104.21.95.229, 2053, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=iNvIncIbLE.faFA20.SHop, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | inVIncibLE.fAfA20.shoP-2083 | 5.94ms = trojan, 104.21.78.206, 2083, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=inVIncibLE.fAfA20.shoP, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | inviNcIble.fafa20.ShOp-443 | 34.75ms = trojan, 172.67.175.148, 443, password=13253e6e-a1f7-4090-801f-a8dc2b083bef, sni=inviNcIble.fafa20.ShOp, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | mashdt.pages.dev-443 | 61.9ms = trojan, 104.21.75.193, 443, password=bpb-trojan, sni=mashdt.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | muddy-frost-4e2d.vpnetwork3567.workers.dev-443 | 104.67ms = trojan, muddy-frost-4e2d.vpnetwork3567.workers.dev, 443, password=C910E5F2-A662-7CFB-B5A6-5D39DB212CBA, sni=muddy-frost-4e2d.vpnetwork3567.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | nameless-term-9c25.vpnconnect202020.workers.dev-443 | 143.76ms = trojan, 104.21.48.61, 443, password=auto, sni=nameless-term-9c25.vpnconnect202020.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ocost-dy.wmlefl.cc-8443 | 156.02ms = trojan, 104.18.2.108, 8443, password=slch2024, sni=ocost-dy.wmlefl.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ocost-dy.wmlefl.cc-8443 | 5.97ms = trojan, 104.18.2.108, 8443, password=slch2024, sni=ocost-dy.wmlefl.cc, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | pages.dev-443 | 22.92ms = trojan, 172.67.204.84, 443, password=2df56fd0-d1b7-4793-b877-acd356d960f7, sni=pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | pangpi.pages.dev-8443 | 28.76ms = trojan, 104.18.13.229, 8443, password=trojan, sni=pangpi.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | pardazeshvpn-tg48.pages.dev-8443 | 69.27ms = trojan, 104.16.190.131, 8443, password=9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1, sni=pardazeshvpn-tg48.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | production.tj.ojan.workers.dev-443 | 49.91ms = trojan, production.tj.ojan.workers.dev, 443, password=9yu6m5okr, sni=production.tj.ojan.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ssp2.100896.xyz-443 | 33.56ms = trojan, 141.101.120.10, 443, password=4b040268-f3a5-4136-b1a9-506012e8e3d9, sni=ssp2.100896.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ssp2.100896.xyz-443 | 6.12ms = trojan, 108.162.196.69, 443, password=4b040268-f3a5-4136-b1a9-506012e8e3d9, sni=ssp2.100896.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | top-azx.pages.dev-8443 | 40.83ms = trojan, 104.25.97.27, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | top-azx.pages.dev-8443 | 6.13ms = trojan, 104.25.165.81, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | top-azx.pages.dev-8443 | 6.19ms = trojan, 104.25.165.81, 8443, password=123456, sni=top-azx.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | trojanmz.pages.dev-443 | 39.42ms = trojan, 172.64.35.202, 443, password=auto, sni=trojanmz.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | trojanmz.pages.dev-443 | 6.1ms = trojan, 108.162.195.209, 443, password=auto, sni=trojanmz.pages.dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | ttfang.fange.me-443 | 5.98ms = trojan, 128.199.237.143, 443, password=ttfang, sni=ttfang.fange.me, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vipren.biz.id-443 | 229.35ms = trojan, vipren.biz.id, 443, password=bbbbbbbb-cccc-4ddd-eeee-ffffffffffff, sni=vipren.biz.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vle.amclubsvip.dpdns.org-2096 | 90.5ms = trojan, 154.83.2.54, 2096, password=d6b8011a-c725-435a-9fec-bf6d3530392c, sni=vle.amclubsvip.dpdns.org, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 163.4ms = trojan, www.speedtest.net, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.71ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.73ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.75ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.79ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.86ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.86ms 2 = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.87ms = trojan, 104.21.72.109, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.88ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.92ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 5.97ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 6.07ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 6.11ms = trojan, 104.21.72.109, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 6.18ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | vpn.stupidworld.web.id-443 | 6.21ms = trojan, 172.67.181.173, 443, password=f282b878-8711-45a1-8c69-5564172123c1, sni=vpn.stupidworld.web.id, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | wahaha.yingyangkuaixian.dpdns.org-443 | 423.73ms = trojan, 91.193.58.0, 443, password=trojan, sni=wahaha.yingyangkuaixian.dpdns.org, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev-443 | 39.41ms = trojan, 185.18.250.117, 443, password=1e9aadae-ca17-4f75-b0a0-7de5e3858cfb, sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | yaml7.ggff.net-443 | 306.33ms = trojan, 104.21.61.73, 443, password=yaml777, sni=yaml7.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | zamim340.ggff.net-443 | 232ms = trojan, japan.com, 443, password=bpb-trojan, sni=zamim340.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY🚩 | zamim340.ggff.net-443 | 5.65ms = trojan, 104.26.4.60, 443, password=bpb-trojan, sni=zamim340.ggff.net, skip-cert-verify=false, tfo=false, udp-relay=true
+SC🇸🇨 | 154.197.75.171-443 | 5.63ms = trojan, 154.197.75.171, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | uk-02.allhubb.info-8443 | 283.05ms = trojan, 51.195.254.75, 8443, password=zsu4Mq3A9J, sni=uk-02.allhubb.info, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK🇭🇰 | z309.hongkongnode.top-20309 | 662.81ms = trojan, gyl.58n.net, 20309, password=55e6d4ab-e382-33ef-96d4-7a475bde8732, sni=z309.hongkongnode.top, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 RELAY🚩 | t.hongkong6.qzz.io-2053 | 304.06ms = trojan, www.visa.com.sg, 2053, password=0F22D008-24D4-4DFE-947B-8D2FD64CD24C, sni=t.hongkong6.qzz.io, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | 185.148.106.44-443 | 5.81ms = trojan, 185.148.106.44, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | 46.254.92.112-443 | 5.3ms = trojan, 46.254.92.112, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | ru2.asc-sam.ir-443 | 119.36ms = trojan, ru2.asc-sam.ir, 443, password=344ObcMIAb, sni=ru2.asc-sam.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | ru2.asc-sam.ir-443 | 297.19ms = trojan, ru2.asc-sam.ir, 443, password=1a8EBLaDBL, sni=ru2.asc-sam.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | ru2.asc-sam.ir-443 | 297.98ms = trojan, ru2.asc-sam.ir, 443, password=%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven, sni=ru2.asc-sam.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | vkvd127.mycdn.me-80 | 462.1ms = trojan, 92.118.190.131, 80, password=49699004-a1ba-4621-9744-3d41e98040a9, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 12.07ms = trojan, ru2.asc-sam.ir, 443, password=AdPYCBfMUM, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 12.91ms = trojan, 176.32.39.29, 443, password=8OXD5VVt8s, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 18.26ms = trojan, ru2.asc-sam.ir, 443, password=IM4e0ZQNPU, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 30.53ms = trojan, ru2.asc-sam.ir, 443, password=IM4e0ZQNPU, sni=journalofbigdata.springeropen.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 69.48.218.190-443 | 5.5ms = trojan, 69.48.218.190, 443, password=NISHIKUITAN111, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | akamai.cdn.steampipe.steamcontent.com-443 | 6.5ms = trojan, 35.92.52.160, 443, password=8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd, sni=akamai.cdn.steampipe.steamcontent.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | akamai.cdn.steampipe.steamcontent.com-443 | 63.31ms = trojan, 35.92.52.160, 443, password=8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd, sni=akamai.cdn.steampipe.steamcontent.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 127.2ms = trojan, 104.16.159.3, 443, password=dba20dcb635e430fa4d3bfc303a149d2, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 14.5ms = trojan, 104.16.159.7, 443, password=4732adfa16c6450bbef87264e41332db, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 14.74ms = trojan, 104.16.159.6, 443, password=669d0ac7b5b64ebbb1abb75d5d540a5c, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | bangladeshipatri.com-443 | 7.83ms = trojan, 104.16.159.5, 443, password=984e400bf5d541b7b0815913fe0c432a, sni=bangladeshipatri.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | google.com-443 | 22.61ms = trojan, 45.76.47.77, 443, password=wkmY1R4EcP, sni=google.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | in.ylks.xyz-443 | 45.95ms = trojan, 173.245.59.61, 443, password=NISHIKUITAN222, sni=in.ylks.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | nextstepcareer.online-443 | 38.51ms = trojan, 165.22.74.230, 443, password=4732adfa16c6450bbef87264e41332db, sni=nextstepcareer.online, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | origin-a.akamaihd.net-443 | 101.51ms = trojan, 43.206.140.241, 443, password=8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd, sni=origin-a.akamaihd.net, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | rc6.freeguard.org-443 | 263.67ms = trojan, 198.23.229.250, 443, password=2ee85121-31de-4581-a492-eb00f606e392, sni=rc6.freeguard.org, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | rc8.freeguard.org-443 | 120.06ms = trojan, 192.3.107.252, 443, password=2ee85121-31de-4581-a492-eb00f606e392, sni=rc8.freeguard.org, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | speedtest.net-80 | 5.85ms = trojan, 51.91.11.29, 80, password=598c19f3-a48e-47cd-8451-1ba04ea094d0, sni=speedtest.net, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | vzwzasc.cn-443 | 1552.97ms = trojan, 104.149.155.13, 443, password=79c935c0-27dc-4383-b307-dcac1b8e5509, sni=vzwzasc.cn, skip-cert-verify=false, tfo=false, udp-relay=true
