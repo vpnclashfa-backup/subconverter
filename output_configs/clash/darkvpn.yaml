@@ -31,13 +31,45 @@ proxies:
   - {name: Cloudflare Plus - IRDevs 6, server: www.speedtest.net, port: 443, type: trojan, password: "%3AbC5%5Elakx%3E%24d", sni: FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trmwnHKV1e9tS6xrWn, headers: {Host: FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv}}, udp: true, tfo: false}
   - {name: Cloudflare Plus - IRDevs 7, server: 172.66.46.247, port: 443, type: trojan, password: "%3AbC5%5Elakx%3E%24d", sni: fk31lnDM4W8uJ0Yp1drWlTdTdkO6Y-Cu.pages.deV, skip-cert-verify: false, network: ws, ws-opts: {path: /trCa9HmRicRGuAse4M, headers: {Host: fk31lnDM4W8uJ0Yp1drWlTdTdkO6Y-Cu.pages.deV}}, udp: true, tfo: false}
   - {name: Cloudflare Plus - IRDevs 8, server: 172.66.45.9, port: 443, type: trojan, password: "%3AbC5%5Elakx%3E%24d", sni: fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trNs9G5VJ2vI0PxgP2, headers: {Host: fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv}}, udp: true, tfo: false}
-  - {name: MCI, server: tg1.tond1.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: MCI 2, server: tmp.iradsi.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: MCI 3, server: tmt.iradsi.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: MCI 4, server: 217.145.73.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: RNrUzs3KUXZH4sFGSDra_m9AOKXNj-7WrOnll-vuv1k, short-id: d807078b51a40e14}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: MCI 5, server: 88.209.249.208, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: RNrUzs3KUXZH4sFGSDra_m9AOKXNj-7WrOnll-vuv1k, short-id: d807078b51a40e14}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: MCI 6, server: 93.123.46.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19ab383d-6f68-4461-b263-2e300dc75104, servername: journalofbigdata.springeropen.com, reality-opts: {public-key: RNrUzs3KUXZH4sFGSDra_m9AOKXNj-7WrOnll-vuv1k, short-id: d807078b51a40e14}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Meli, server: 45.87.175.154, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: P-Cloud Plus 1, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: P-Cloud Plus 10, server: 185.231.233.173, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 11, server: 89.185.84.185, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cl4xcV9dcNWwqBkWbzsGHm, udp: true, tfo: false}
+  - {name: P-Cloud Plus 13, server: 38.180.211.126, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Kuiqk2cP0BMWrgme9IfEvp, udp: true, tfo: false}
+  - {name: P-Cloud Plus 14, server: 5.181.171.2, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a87bf8a2-17a4-3054-b51e-876b5f1d0f24, servername: speed.cloudflare.com, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: P-Cloud Plus 15, server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T, udp: true, tfo: false}
+  - {name: P-Cloud Plus 16, server: 103.175.79.2, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a87bf8a2-17a4-3054-b51e-876b5f1d0f24, servername: speed.cloudflare.com, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: P-Cloud Plus 17, server: 104.192.226.106, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 19, server: 188.214.36.155, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 2, server: 193.29.139.240, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: P-Cloud Plus 20, server: hackney-latest-strike.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T, udp: true, tfo: false}
+  - {name: P-Cloud Plus 22, server: x-zula.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: PishiNetVPN, servername: forbes.com, flow: xtls-rprx-vision, reality-opts: {public-key: aqqWmeO4JJl9gHwyoM7PAlCEOBd9P2TMt4Bw9zcxVzw, short-id: df91dc7e0ec8f8e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: P-Cloud Plus 23, server: 103.243.215.17, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 24, server: 181.119.30.20, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 25, server: sakura.outlinekeys.net, port: 1235, type: ss, cipher: chacha20-ietf-poly1305, password: EEsjQL0rXwQgJez3ASjoOq, udp: true, tfo: false}
+  - {name: P-Cloud Plus 26, server: 91.194.160.151, port: 1235, type: ss, cipher: chacha20-ietf-poly1305, password: EEsjQL0rXwQgJez3ASjoOq, udp: true, tfo: false}
+  - {name: P-Cloud Plus 27, server: 167.71.235.238, port: 47347, type: ss, cipher: chacha20-ietf-poly1305, password: WgACwLy1BPk47JOzHyA7zu, udp: true, tfo: false}
+  - {name: P-Cloud Plus 28, server: 185.47.255.22, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 3, server: 45.158.171.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: P-Cloud Plus 30, server: 145.14.131.37, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 31, server: 134.255.210.49, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 32, server: 154.205.159.100, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 33, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
+  - {name: P-Cloud Plus 34, server: 198.23.229.250, port: 443, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, sni: rc6.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: P-Cloud Plus 36, server: 46.183.185.15, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 37, server: 203.23.128.33, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 38, server: 46.101.245.131, port: 44354, type: ss, cipher: chacha20-ietf-poly1305, password: 9RviNa4tscjcmCB408vLSg, udp: true, tfo: false}
+  - {name: P-Cloud Plus 39, server: 134.209.147.198, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 4, server: 77.110.110.240, port: 443, type: ss, cipher: aes-256-gcm, password: d70ef8b5-6048-4c0d-be4d-fc60399b0f45, udp: true, tfo: false}
+  - {name: P-Cloud Plus 40, server: 160.19.78.75, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true, tfo: false}
+  - {name: P-Cloud Plus 41, server: 185.47.254.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: P-Cloud Plus 43, server: hanguo01.tmdns-sing.top, port: 13882, type: ss, cipher: aes-128-gcm, password: 6b1e5475-7661-4921-aa26-d11758b2f3f1, udp: true, tfo: false}
+  - {name: P-Cloud Plus 44, server: arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: true, tfo: false}
+  - {name: P-Cloud Plus 5, server: 45.134.13.75, port: 443, type: ss, cipher: aes-256-gcm, password: babec2f7-da9b-461a-83e9-9c7507909ecf, udp: true, tfo: false}
+  - {name: P-Cloud Plus 6, server: 45.132.1.139, port: 4143, type: ss, cipher: chacha20-ietf-poly1305, password: K6QKhEVAXZIY7qg2uOloE4, udp: true, tfo: false}
+  - {name: P-Cloud Plus 7, server: 188.245.75.235, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e89ba39d-ae7e-493a-a57b-cdd55b42b4e3, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: P-Cloud Plus 8, server: 83.147.216.70, port: 64519, type: ss, cipher: chacha20-ietf-poly1305, password: 9z4XoS0TfzxNsSqBVAWt7N, udp: true, tfo: false}
+  - {name: P-Cloud Plus 9, server: 77.83.246.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: jLkCXz7HsquYp2d0ecn0zC, udp: true, tfo: false}
   - {name: ProxyCloud Guatemala, server: 185.47.254.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: ProxyCloud Liechtenstein, server: npmjs.com, port: 8080, type: vmess, uuid: pmxnbcrrfd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /download/cdn, ws-headers: {Host: pmxnbcrrfd-4515167105.zamam.co}, udp: true, tfo: false}
   - {name: ProxyCloud VPN, server: communal-loss.oneeat.co, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a2af50d9-09c7-4a44-90d0-42da35923e9e, skip-cert-verify: false, udp: true, tfo: false}
@@ -45,15 +77,15 @@ proxies:
   - {name: "Website: irdevs.sbs", server: gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: Gkh7IMoMi--3t3XCSTZt8pp4dlzuESKn.PAgeS.dEV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: ایرانسل و همراه, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: ایرانسل و همراه 2, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 3, server: 45.158.171.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 4, server: 183.109.131.75, port: 20086, type: vmess, uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2 2, server: 45.158.171.136, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2 3, server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2 4, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 3, server: 183.109.131.75, port: 20086, type: vmess, uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 4, server: 45.158.171.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2 2, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2 3, server: 45.158.171.136, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2 4, server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: تمام اپراتور ها, server: www.speedtest.net, port: 443, type: vmess, uuid: b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /linkvkwss, ws-headers: {Host: BLaZE-fRA-64.BLaZECLOuD.sitE}, udp: true, tfo: false}
-  - {name: همراه اول, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
-  - {name: همراه اول 2, server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, udp: true, tfo: false}
-  - {name: همراه اول 3, server: 64.227.45.92, port: 20086, type: vmess, uuid: 5e02bc01-42a7-4609-b20a-4d93feea65c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
+  - {name: همراه اول, server: 64.227.45.92, port: 20086, type: vmess, uuid: 5e02bc01-42a7-4609-b20a-4d93feea65c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
+  - {name: همراه اول 2, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
+  - {name: همراه اول 3, server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, udp: true, tfo: false}
   - {name: همراه اول 4, server: 161.248.30.3, port: 20086, type: vmess, uuid: 1006a928-2021-4a3b-beb5-d5853c6281c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: همراه اول 2 2, server: 104.192.226.106, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: همراه اول 3 2, server: 64.74.163.130, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
@@ -74,8 +106,8 @@ proxies:
   - {name: 🇳🇱 NL Fast Unlimited, server: fearless-change.oneeat.co, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b055036a-2d81-4d46-ab18-4e1898b58cec, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 NL Fast Unlimited 2, server: 45.87.175.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands (Greenhost BV), server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 🇳🇱 ProxyCloud NL Fast, server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 ProxyCloud NL Fast 2, server: 193.29.139.177, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 ProxyCloud NL Fast, server: 193.29.139.177, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 ProxyCloud NL Fast 2, server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇳🇱 ProxyCloud NL Fast 2 2, server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇳🇱 ProxyCloud NL Pro, server: 45.87.175.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 🇳🇱 ProxyCloud NL Pro 2, server: 45.87.175.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
