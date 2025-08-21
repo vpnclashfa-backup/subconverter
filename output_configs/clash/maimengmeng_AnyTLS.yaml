@@ -1,6 +1,16 @@
 proxies:
-  - {name: 距离下次重置剩余：11 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 距离下次重置剩余：10 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇧🇷 巴西anytls, server: sasa.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 法国anytls, server: fr1.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇳 印度anytls, server: apap.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 日本【4】anytls, server: jp4.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇲🇽 墨西哥anytls, server: mxmx.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇦 沙特阿拉伯anytls, server: ksa.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇪 瑞典anytls, server: nlnl.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇸🇬 新加坡 01 - 1.0x, server: bjl.bianjiaoliao.mom, port: 22005, type: anytls, password: fbb2b4a8-5bee-45b2-a395-71abbd12253a, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 新加坡【1】anytls, server: sg1.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 新加坡【2】anytls, server: sg2.shidianban.top, port: 21452, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国01, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国02, server: 107.174.52.160, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国03, server: 152.53.54.139, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 美国2, server: us2.shidianban.top, port: 21453, type: anytls, password: a0915c4e-119c-46b4-9254-7a3cdf3abe5c, skip-cert-verify: false, udp: true, tfo: false}
