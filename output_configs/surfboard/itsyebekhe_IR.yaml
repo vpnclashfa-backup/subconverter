@@ -19,3 +19,4 @@ IR | 🔓 VMESS | @toucan_vpn [2] = vmess, 188.121.123.118, 26210, username=a0a7
 IR | 🔓 VMESS | @v2ray_sub [6] = vmess, 37.202.225.74, 40521, username=b368a86e-6fbc-431c-9f05-6e1fab896858, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=37.202.225.74, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @vpnfree_irann [4] = vmess, ir.tunneled.site, 3030, username=240874e2-c850-43cf-8104-99bed01ea749, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @xsv2ray [2] = vmess, irpnl.janebx.ir, 444, username=523d8d78-411a-4849-b17f-ccff6bcbf564, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+IR | 🔓 VMESS | @zerobaipiao [22] = vmess, 46.29.34.205, 59956, username=ca0c9937-58a6-44ea-9111-a6abac267d0f, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
