@@ -1,57 +1,54 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt interval=86400 strict=false
 
-[openproxylist.com] ss- = ss, 134.209.147.198, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 [openproxylist.com] ss-AT = ss, 77.110.110.240, 443, encrypt-method=aes-256-gcm, password=d70ef8b5-6048-4c0d-be4d-fc60399b0f45, tfo=false, udp-relay=true
 [openproxylist.com] ss-AT 2 = ss, 95.163.176.37, 8506, encrypt-method=chacha20-ietf-poly1305, password=eUh4lSpi7nOYj0vSrqLUh0, tfo=false, udp-relay=true
 [openproxylist.com] ss-CH = ss, 204.136.10.115, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
-[openproxylist.com] ss-EE = ss, 188.214.36.155, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 [openproxylist.com] ss-FI = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=w3TdzsHosPQjGAaLmo9lGQ, tfo=false, udp-relay=true
 [openproxylist.com] ss-FI 2 = ss, exchange.gameaurela.click, 52952, encrypt-method=chacha20-ietf-poly1305, password=LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo=false, udp-relay=true
-[openproxylist.com] ss-ID = ss, 156.244.1.59, 13879, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
+[openproxylist.com] ss-ID = ss, yinni01.tmdns-sing.top, 13879, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
 [openproxylist.com] ss-NO = ss, 185.213.23.226, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 [openproxylist.com] ss-PT = ss, 185.231.233.173, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 [openproxylist.com] ss-TR = ss, 77.83.245.190, 443, encrypt-method=chacha20-ietf-poly1305, password=haQpIdcLwwtb, tfo=false, udp-relay=true
-[openproxylist.com] ss-VN = ss, yuenan01.tmdns-sing.top, 13875, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
-[openproxylist.com] ss-VN 2 = ss, 103.163.218.2, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-[openproxylist.com] trojan- = trojan, 198.23.229.250, 443, password=2ee85121-31de-4581-a492-eb00f606e392, sni=rc6.freeguard.org, skip-cert-verify=false, tfo=false, udp-relay=true
-[openproxylist.com] vmess-FI = vmess, baota.me, 80, username=2f38f848-a899-4c87-9807-207a41615e3c, tls=false, vmess-aead=true, ws=true, ws-path=/rongseven?ed=2048, sni=us.freeyyds.dpdns.org, ws-headers=Host:us.freeyyds.dpdns.org, skip-cert-verify=false, tfo=false, udp-relay=true
-[openproxylist.com] vmess-FI 2 = vmess, panel3.ipyar.org, 32017, username=c0ccdeb9-784c-4d67-b904-20dcaac9902a, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+[openproxylist.com] ss-VN = ss, yuenan02.tmdns-sing.top, 13878, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
+[openproxylist.com] ss-VN 2 = ss, yuenan01.tmdns-sing.top, 13875, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
+[openproxylist.com] ss-VN 3 = ss, 103.163.218.2, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+[openproxylist.com] vmess-FI = vmess, panel3.ipyar.org, 32017, username=c0ccdeb9-784c-4d67-b904-20dcaac9902a, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 [openproxylist.com] vmess-VN = vmess, 161.248.30.3, 20086, username=1006a928-2021-4a3b-beb5-d5853c6281c5, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=161.248.30.3, skip-cert-verify=false, tfo=false, udp-relay=true
 🇨🇦 [openproxylist.com] ss-CA = ss, 149.28.255.6, 816, encrypt-method=chacha20-ietf-poly1305, password=GyZ5Xo0ht41vYmW3H4, tfo=false, udp-relay=true
-🇨🇦 [openproxylist.com] vmess-CA = vmess, 51.79.86.182, 42610, username=e0957ca6-f613-4017-ff3c-effd1da8871a, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇦 [openproxylist.com] ss-CA 2 = ss, 38.180.211.126, 443, encrypt-method=chacha20-ietf-poly1305, password=Kuiqk2cP0BMWrgme9IfEvp, tfo=false, udp-relay=true
 🇨🇳 [openproxylist.com] vmess-TW = vmess, 103.61.139.137, 20521, username=f8d93cfb-3d5d-447c-a697-16496dd74697, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=103.61.139.137, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 [openproxylist.com] ss-DE = ss, 185.177.229.245, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
 🇩🇪 [openproxylist.com] ss-DE 2 = ss, 46.101.245.131, 44354, encrypt-method=chacha20-ietf-poly1305, password=9RviNa4tscjcmCB408vLSg, tfo=false, udp-relay=true
 🇩🇪 [openproxylist.com] ss-DE 3 = ss, 147.45.178.200, 57456, encrypt-method=chacha20-ietf-poly1305, password=c40641c1f89e7acb, tfo=false, udp-relay=true
 🇩🇪 [openproxylist.com] vmess-DE = vmess, 1000ip.yangmie.online, 8080, username=e9123cce-e4bd-46cf-8466-708b363a9807, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=gyde.aifjj.asia, ws-headers=Host:gyde.aifjj.asia, skip-cert-verify=false, tfo=false, udp-relay=true
-🇩🇪 [openproxylist.com] vmess-DE 2 = vmess, 135.125.182.74, 28213, username=81852771-76fb-4e94-e4f1-4e37a698a49a, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 [openproxylist.com] vmess-DE 2 = vmess, 91.99.185.216, 20086, username=7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=91.99.185.216, skip-cert-verify=false, tfo=false, udp-relay=true
 🇫🇷 [openproxylist.com] ss-FR = ss, 77.105.166.12, 8594, encrypt-method=chacha20-ietf-poly1305, password=mSQiuT5jR17nyWgcXOPrTW, tfo=false, udp-relay=true
 🇫🇷 [openproxylist.com] ss-FR 2 = ss, 81.19.137.222, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-🇫🇷 [openproxylist.com] vmess-FR = vmess, www.speedtest.net, 443, username=b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/linkvkwss, sni=BLaZE-fRA-64.BLaZECLOuD.sitE, ws-headers=Host:BLaZE-fRA-64.BLaZECLOuD.sitE, skip-cert-verify=false, tfo=false, udp-relay=true
 🇬🇧 [openproxylist.com] vmess-GB = vmess, 173.208.51.193, 20086, username=b1726eb2-271b-4cb6-bae8-37647e78b776, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=173.208.51.193, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 [openproxylist.com] ss-HK = ss, 18.162.146.85, 8313, encrypt-method=chacha20-ietf-poly1305, password=ljqdalu13.., tfo=false, udp-relay=true
+🇭🇰 [openproxylist.com] ss-HK = ss, hk1-20250813213806be3c17japantm01.tmdns-sing.top, 13872, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
+🇭🇰 [openproxylist.com] ss-HK 2 = ss, 18.162.146.85, 8313, encrypt-method=chacha20-ietf-poly1305, password=ljqdalu13.., tfo=false, udp-relay=true
 🇮🇳 [openproxylist.com] ss-IN = ss, 167.71.235.238, 47347, encrypt-method=chacha20-ietf-poly1305, password=WgACwLy1BPk47JOzHyA7zu, tfo=false, udp-relay=true
+🇮🇳 [openproxylist.com] ss-IN 2 = ss, 134.209.147.198, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 🇯🇵 [openproxylist.com] ss-JP = ss, japan001.tmdns-sing.top, 13890, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
 🇯🇵 [openproxylist.com] ss-JP 2 = ss, 160.16.123.124, 10087, encrypt-method=aes-128-gcm, password=10086, tfo=false, udp-relay=true
 🇯🇵 [openproxylist.com] vmess-JP = vmess, 172.111.146.64, 80, username=05b8c783-7f59-47f9-9923-06a465679f6a, tls=false, vmess-aead=true, ws=true, ws-path=/vmess/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN, sni=172.111.146.64, skip-cert-verify=false, tfo=false, udp-relay=true
 🇰🇷 [openproxylist.com] ss-KR = ss, hanguo01.tmdns-sing.top, 13882, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
 🇰🇷 [openproxylist.com] vmess-KR = vmess, 183.109.131.75, 20086, username=b26c4803-0bca-467c-a245-c9a80bdd72ec, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=183.109.131.75, skip-cert-verify=false, tfo=false, udp-relay=true
 🇲🇾 [openproxylist.com] ss-MY = ss, malaixiya.tmdns-sing.top, 13887, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
-🇳🇱 [openproxylist.com] ss-NL = ss, 103.104.247.45, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 [openproxylist.com] ss-NL 2 = ss, 164.92.156.41, 24206, encrypt-method=chacha20-ietf-poly1305, password=zI7kiNZ0UfV9cXB73a4nRD, tfo=false, udp-relay=true
-🇳🇱 [openproxylist.com] ss-NL 3 = ss, 45.87.175.28, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇷🇺 [openproxylist.com] vmess-RU = vmess, 62.60.187.28, 20086, username=570b4cfc-80d5-4277-8c97-8444ba0689b9, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=62.60.187.28, skip-cert-verify=false, tfo=false, udp-relay=true
-🇷🇺 [openproxylist.com] vmess-RU 2 = vmess, 45.67.230.79, 11052, username=314185f7-931d-4656-922d-0857e7afd224, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇳🇱 [openproxylist.com] ss-NL = ss, 164.92.156.41, 24206, encrypt-method=chacha20-ietf-poly1305, password=zI7kiNZ0UfV9cXB73a4nRD, tfo=false, udp-relay=true
+🇳🇱 [openproxylist.com] ss-NL 2 = ss, 45.87.175.28, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
 🇸🇬 [openproxylist.com] ss-SG = ss, 45.76.180.205, 31368, encrypt-method=chacha20-ietf-poly1305, password=2981511c-becb-4b53-8a89-57cd3c97b328, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] ss-US = ss, hackney-latest-strike.freesocks.work, 443, encrypt-method=chacha20-ietf-poly1305, password=XUMTygEM1jVYIvysXKqA5T, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] ss-US 2 = ss, 104.192.226.106, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] ss-US 3 = ss, 104.167.197.25, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US = ss, usa022.tmdns-sing.top, 13892, encrypt-method=aes-128-gcm, password=6b1e5475-7661-4921-aa26-d11758b2f3f1, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 2 = ss, imap.roomyinmita.name, 40565, encrypt-method=chacha20-ietf-poly1305, password=MnEw5zo2ZhdS8Gy9fAMPfbhoguuv8biNYpoyHoNQLH2oZXWA4U4y6iNTYMexjaiBvQWv2N4b43gp9SVEG3nYvMf75p46K3He, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 3 = ss, 154.44.15.133, 44642, encrypt-method=aes-256-gcm, password=iHapGY8XoW, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 4 = ss, hackney-latest-strike.freesocks.work, 443, encrypt-method=chacha20-ietf-poly1305, password=XUMTygEM1jVYIvysXKqA5T, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 5 = ss, 104.192.226.106, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 6 = ss, 104.167.197.25, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] ss-US 7 = ss, 94.131.21.174, 54075, encrypt-method=chacha20-ietf-poly1305, password=o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3, tfo=false, udp-relay=true
 🇺🇸 [openproxylist.com] trojan-US = trojan, 194.104.147.74, 1066, password=dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59, skip-cert-verify=false, tfo=false, udp-relay=true
 🇺🇸 [openproxylist.com] vmess-US = vmess, 207.174.28.20, 20086, username=c6e3e775-ea56-4dcd-950b-c323117367f4, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=207.174.28.20, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 2 = vmess, v2ray.codefyinc.com, 443, username=2c981164-9b93-4bca-94ff-b78d3f8498d7, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/vmessws, sni=v2ray.codefyinc.com, ws-headers=Host:v2ray.codefyinc.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 3 = vmess, 38.106.3.14, 20086, username=766c0871-1359-4ae9-8921-0f468ec02722, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=38.106.3.14, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 4 = vmess, 206.206.80.227, 20086, username=0abb7b9e-81ba-4336-8ca7-056866032ff3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=206.206.80.227, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 5 = vmess, 104.238.162.76, 20086, username=6cf93fe6-0062-4212-95aa-2aabca8b11bf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=104.238.162.76, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 6 = vmess, 137.175.124.167, 20086, username=b4bce500-11fe-4f8f-a344-01ac247af9bd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=137.175.124.167, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 7 = vmess, 15.204.234.200, 41100, username=c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 [openproxylist.com] vmess-US 8 = vmess, bBbbbbbBb.222769.XYZ, 80, username=2e65577e-8fdb-4bb1-a495-96f3122099a7, tls=false, vmess-aead=true, ws=true, ws-path=/f6taOMcOSZb9TPR, sni=bbbbbbbbb.222769.xyz, ws-headers=Host:bbbbbbbbb.222769.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] vmess-US 2 = vmess, v2ray.codefyinc.com, 443, username=2c981164-9b93-4bca-94ff-b78d3f8498d7, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=v2ray.codefyinc.com, ws-headers=Host:v2ray.codefyinc.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] vmess-US 3 = vmess, 206.206.80.227, 20086, username=0abb7b9e-81ba-4336-8ca7-056866032ff3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=206.206.80.227, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] vmess-US 4 = vmess, 104.238.162.76, 20086, username=6cf93fe6-0062-4212-95aa-2aabca8b11bf, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=104.238.162.76, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] vmess-US 5 = vmess, 137.175.124.167, 20086, username=b4bce500-11fe-4f8f-a344-01ac247af9bd, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=137.175.124.167, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 [openproxylist.com] vmess-US 6 = vmess, 15.204.234.200, 41100, username=c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
