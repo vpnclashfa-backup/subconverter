@@ -1,4 +1,4 @@
 proxies:
-  - {name: "IR | 🔓 VLESS | @Fr33C0nfig [36]", server: 94.182.142.28, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: 32b67990-fb70-457f-8f02-c7c62e4156ca, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @Fr33C0nfig [50]", server: 94.182.142.28, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: 32b67990-fb70-457f-8f02-c7c62e4156ca, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @komail315 [3]", server: poland.a1mshop2.xyz, port: 49894, type: vless, tls: true, packet-encoding: xudp, uuid: 29a6f284-dd9f-48be-9c26-7fea94064322, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VMESS | @komail315 [4]", server: sv20.warzone1.in, port: 31195, type: vmess, uuid: 72bf75d0-eecd-cc57-8d87-3ef7d6c0cf22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
