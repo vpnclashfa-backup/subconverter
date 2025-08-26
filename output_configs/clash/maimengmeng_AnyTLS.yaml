@@ -1,5 +1,5 @@
 proxies:
-  - {name: 距离下次重置剩余：6 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 距离下次重置剩余：5 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾2｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港2｜直连-家宽, server: hk.t23r.n44ode.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
