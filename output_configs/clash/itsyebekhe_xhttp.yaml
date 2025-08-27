@@ -1,6 +1,5 @@
 proxies:
+  - {name: "CF | 🔒 VLESS | @proxystore11 [9]", server: cname.proxystore11.news, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 42fdc328-a930-40c4-8051-822dac85323a, servername: prx11.proxystore11.news, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 US | 🔒 VLESS | @proxystore11 [11]", server: cname.proxystore11.news, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 42fdc328-a930-40c4-8051-822dac85323a, servername: prx11.proxystore11.news, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 US | 🔒 VLESS | @proxystore11 [2]", server: cname.proxystore11.news, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d8be0f7f-1052-4d9d-990a-c563fe12ddc4, servername: prx11.proxystore11.news, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
