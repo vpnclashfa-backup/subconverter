@@ -1,17 +1,25 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsyebekhe%2FPSG%2Frefs%2Fheads%2Fmain%2Fsubscriptions%2Fxray%2Fbase64%2Fmix interval=86400 strict=false
 
 CF | 🔓 VMESS | @nn_vpn [2] = vmess, www.speedtest.net, 80, username=c4eeb4bd-1a7a-43e4-bc22-31062dd0c61c, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou., ws-headers=Host:2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou., skip-cert-verify=false, tfo=false, udp-relay=true
-CO | 🔒 SS | @NamiraConfigs [59] = ss, 181.119.30.20, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-FI | 🔓 VMESS | @proxystore11 [7] = vmess, 65.109.190.91.suupermeat.ir, 2053, username=b4493eed-d316-45d5-addf-9857ffeba30e, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+FI | 🔓 VMESS | @proxystore11 [5] = vmess, 65.109.190.91.suupermeat.ir, 2053, username=b4493eed-d316-45d5-addf-9857ffeba30e, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @komail315 [4] = vmess, sv20.warzone1.in, 31195, username=72bf75d0-eecd-cc57-8d87-3ef7d6c0cf22, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-PE | 🔒 SS | @NamiraConfigs [58] = ss, 185.47.252.251, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 ❔ XX | 🔒 TROJAN | @jiedianssr [3] = trojan, e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net, 15229, password=bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b, sni=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 DE | 🔒 SS | @jiedianssr [6] = ss, 138.124.115.157, 1080, encrypt-method=chacha20-ietf-poly1305, password=M-nffO40KlclwbCX9CV1DQ, tfo=false, udp-relay=true
 🇩🇪 DE | 🔓 VMESS | @Fr33C0nfig [46] = vmess, movaghat.funfil.link, 48252, username=ab65e694-c044-46cf-802e-301dc9998c41, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE | 🔓 VMESS | @NamiraConfigs [56] = vmess, 91.99.185.216, 20086, username=7bd6a1ea-a220-4f1c-afed-6cfb8ab96ad9, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=91.99.185.216, skip-cert-verify=false, tfo=false, udp-relay=true
 🇫🇷 FR | 🔒 TROJAN | @jiedianssr [5] = trojan, 15.236.173.146, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
-🇳🇱 NL | 🔒 SS | @NamiraConfigs [57] = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB | 🔒 SS | @NamiraConfigs [64] = ss, 212.102.53.198, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL | 🔒 SS | @NamiraConfigs [62] = ss, 45.158.171.110, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
 🇳🇱 NL | 🔒 SS | @jiedianssr [7] = ss, 194.87.216.121, 443, encrypt-method=chacha20-ietf-poly1305, password=piv97XS1Cval86vfwHPD5j, tfo=false, udp-relay=true
-🇺🇸 US | 🔒 SS | @NamiraConfigs [56] = ss, 45.87.175.154, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-🇺🇸 US | 🔒 SS | @NamiraConfigs [60] = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-🇺🇸 US | 🔒 SS | @NamiraConfigs [61] = ss, beesyar.org, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-🇺🇸 US | 🔒 SS | @NamiraConfigs [62] = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+🇸🇬 SG | 🔒 SS | @NamiraConfigs [70] = ss, 64.176.85.73, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [59] = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [60] = ss, 45.87.175.154, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [61] = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [63] = ss, 45.87.175.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [65] = ss, 37.19.198.244, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [66] = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [67] = ss, 45.87.175.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [68] = ss, 144.126.146.38, 30100, encrypt-method=chacha20-ietf-poly1305, password=741ddced-e6ee-4175-9c1a-e524009f9045, tfo=false, udp-relay=true
+🇺🇸 US | 🔒 SS | @NamiraConfigs [69] = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+🇺🇸 US | 🔓 VMESS | @NamiraConfigs [57] = vmess, 15.204.234.200, 41100, username=c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US | 🔓 VMESS | @NamiraConfigs [58] = vmess, 15.204.11.190, 15361, username=5d7bf9e3-415c-40f3-c66d-a54ea0fd860e, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
