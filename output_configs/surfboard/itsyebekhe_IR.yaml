@@ -2,7 +2,6 @@
 
 IR | 🔒 SS | @jeyksatan [7] = ss, 37050813702269272654038283817908.international-ixp.com, 11312, encrypt-method=aes-256-gcm, password=37fe3228-53ab-9453-19d9-e779456ef09a, tfo=false, udp-relay=true
 IR | 🔒 VMESS | @public504 [11] = vmess, 94.182.136.40, 25832, username=a4393300-6777-47b9-8348-1ac84aa7ede9, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-IR | 🔒 VMESS | @v2ray_free_conf [6] = vmess, pl.snappirtun.nikastoring.ir, 1616, username=1fb3bb9b-29da-4df6-93a5-b09c7fae506c, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔒 VMESS | @v2rayngc [9] = vmess, 185.143.234.120, 443, username=c4c52a36-bf9b-4219-b587-a11c58e7fc31, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=buguk2.mlgolden.site, ws-headers=Host:buguk2.mlgolden.site, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔒 VMESS | @xsv2ray [4] = vmess, tehran-sms.xyz, 443, username=7f034e0b-0d3f-4961-92d6-1b4bdbf3cb17, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/connect/de/?ed=1024/?JOKERRVPN, sni=tehran-sms.xyz, ws-headers=Host:tehran-sms.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @avaalvpn [1] = vmess, de.speedhunter.top, 21257, username=692cf949-bcf2-4cad-8067-2762b8e24874, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
