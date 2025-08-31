@@ -15,7 +15,5 @@ IR | 🔓 VMESS | @khoneproxy [4] = vmess, 37.32.23.122, 443, username=d12bc882-
 IR | 🔓 VMESS | @komail315 [4] = vmess, sv20.warzone1.in, 31195, username=72bf75d0-eecd-cc57-8d87-3ef7d6c0cf22, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @pro_chaneel [2] = vmess, 185.143.233.120, 2095, username=d7f9bd84-3d1d-4b4a-d2b8-5ae8b42e76aa, tls=false, vmess-aead=true, ws=true, ws-path=/ArsalanTauBot, sni=air5.arsi-mamad.sbs, ws-headers=Host:air5.arsi-mamad.sbs, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @toucan_vpn [2] = vmess, 188.121.123.118, 26210, username=a0a7f23d-9600-4d4c-9398-b80adcc3a3f0, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-IR | 🔓 VMESS | @v2ray_free_conf [17] = vmess, sv20.warzone1.in, 31195, username=72bf75d0-eecd-cc57-8d87-3ef7d6c0cf22, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @v2ray_sub [6] = vmess, 37.202.225.74, 40521, username=b368a86e-6fbc-431c-9f05-6e1fab896858, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=37.202.225.74, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | 🔓 VMESS | @xsv2ray [2] = vmess, irpnl.janebx.ir, 444, username=523d8d78-411a-4849-b17f-ccff6bcbf564, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-IR | 🔓 VMESS | @zerobaipiao [29] = vmess, dl01.armod.top, 443, username=cd11391b-9f7a-4478-b624-3a1d5d81d426, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
