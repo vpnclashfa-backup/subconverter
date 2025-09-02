@@ -1,13 +1,24 @@
 proxies:
   - {name: 距离下次重置剩余：28 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇨🇦 加拿大 tls, server: 51.79.67.180, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇨🇳 台湾(原生IP) 新协议, server: hinetddns1.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾2｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 德国 tls, server: 54.37.74.147, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 法国巴黎04|高速, server: faguo.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 法国巴黎05|高速, server: faguo.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 2x专线-香港-2 (新协议), server: v4-aws-hk.aikunapp.com, port: 7001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 香港 原生ip 新协议, server: hktddns1.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港01|Netflix, server: hkgz.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港2｜直连-家宽, server: hk.t23r.n44ode.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港｜直连-家宽, server: hk.t23r.n44ode.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇯🇵 日本1｜精品专线10x, server: jp1.t23r.n44ode.11008866.xyz, port: 11017, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 1.5x-韩国-三网优化, server: krgc.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 2x专线-新加坡-2 (新协议), server: v4-aws-sg.aikunapp.com, port: 7001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 2x专线-日本-2 (新协议), server: v4-aws-jp.aikunapp.com, port: 7001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 日本 樱花 新协议, server: tj-jp-1.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 美国 rs 新协议, server: tj-us-1.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 美国 pz 电信优化, server: us-pz.aikunapp.com, port: 6001, type: anytls, password: 24bab2be-68d3-4ca4-a1c7-453a88182947, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国01, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国02, server: 107.174.52.160, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国03, server: 152.53.54.139, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
