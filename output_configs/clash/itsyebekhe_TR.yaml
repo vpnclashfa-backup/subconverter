@@ -1,5 +1,6 @@
 proxies:
   - {name: "TR | 🔒 SS | @dalton_ping [4]", server: 62.60.233.152, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: doGAz9lPfLhS, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @fastfreeconfig [44]", server: 62.60.233.152, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: doGAz9lPfLhS, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @netfreedom0 [9]", server: 185.123.101.241, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @outline_ir [15]", server: 193.46.56.185, port: 6683, type: ss, cipher: chacha20-ietf-poly1305, password: iw8GoN42dciNxDBd0RwAdL, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @outline_ir [9]", server: 83.217.9.120, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 7bO8akoRoM2M, udp: true, tfo: false}
@@ -12,7 +13,7 @@ proxies:
   - {name: "TR | 🔒 SS | @v2rayfree [4]", server: 77.83.245.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: riOvLkhMVc1G, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @v2rayng_1378 [1]", server: 77.83.245.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: haQpIdcLwwtb, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @v2rayng_1378 [9]", server: 62.60.233.152, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: doGAz9lPfLhS, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @vmesc [16]", server: 62.60.233.152, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: doGAz9lPfLhS, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @vmesc [15]", server: 62.60.233.152, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: doGAz9lPfLhS, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @Fr33C0nfig [6]", server: 62.60.233.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0cdd44-2361-11f0-9970-45e1d80c4039, servername: images.apple.com, flow: xtls-rprx-vision, reality-opts: {public-key: MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw, short-id: 4476a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @goodbyefiltering [1]", server: 78.135.80.142, port: 657, type: vless, tls: true, packet-encoding: xudp, uuid: b0f68b4d-1062-4560-96ea-042b03d9a44f, servername: game-center.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @iseqaro [1]", server: 45.89.52.228, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: id6686739236, servername: www.trendyol.com, flow: xtls-rprx-vision, reality-opts: {public-key: oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys, short-id: 404c8792dfd88e41}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}

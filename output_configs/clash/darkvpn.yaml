@@ -77,17 +77,17 @@ proxies:
   - {name: "Telegram: @irdevs_dns", server: fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 826f524a-cea1-4e44-9b49-3381d13b7593, servername: fk31lnDM4W8UJ0yP1dRwlTDTDKo6y-cU.PaGeS.DeV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Website: irdevs.sbs", server: gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: Gkh7IMoMi--3t3XCSTZt8pp4dlzuESKn.PAgeS.dEV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: ایرانسل و همراه, server: 45.158.171.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2, server: 183.109.131.75, port: 20086, type: vmess, uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 3, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 3, server: 183.109.131.75, port: 20086, type: vmess, uuid: b26c4803-0bca-467c-a245-c9a80bdd72ec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: ایرانسل و همراه 4, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2 2, server: 45.158.171.136, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2 2, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: ایرانسل و همراه 2 3, server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: ایرانسل و همراه 2 4, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: ایرانسل و همراه 2 4, server: 45.158.171.136, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg, udp: true, tfo: false}
   - {name: تمام اپراتور ها, server: www.speedtest.net, port: 443, type: vmess, uuid: b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /linkvkwss, ws-headers: {Host: BLaZE-fRA-64.BLaZECLOuD.sitE}, udp: true, tfo: false}
-  - {name: همراه اول, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
+  - {name: همراه اول, server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, udp: true, tfo: false}
   - {name: همراه اول 2, server: 161.248.30.3, port: 20086, type: vmess, uuid: 1006a928-2021-4a3b-beb5-d5853c6281c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
-  - {name: همراه اول 3, server: 64.227.45.92, port: 20086, type: vmess, uuid: 5e02bc01-42a7-4609-b20a-4d93feea65c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
-  - {name: همراه اول 4, server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, udp: true, tfo: false}
+  - {name: همراه اول 3, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
+  - {name: همراه اول 4, server: 64.227.45.92, port: 20086, type: vmess, uuid: 5e02bc01-42a7-4609-b20a-4d93feea65c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, udp: true, tfo: false}
   - {name: همراه اول 2 2, server: 104.192.226.106, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: همراه اول 3 2, server: 64.74.163.130, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: کشور کمک های اولیه, server: 84.234.29.214, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 9eb0500f-c906-4731-90a6-08ad66122d74, servername: telwebion.com, reality-opts: {public-key: gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc, short-id: c3fe60ab}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
