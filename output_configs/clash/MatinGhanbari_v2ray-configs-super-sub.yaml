@@ -135,8 +135,8 @@ proxies:
   - {name: ⚡ b2n.ir/v2ray-configs | 760, server: 38.91.102.30, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
   - {name: ⚡ b2n.ir/v2ray-configs | 788, server: 18.130.204.79, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡ b2n.ir/v2ray-configs | 8, server: 85.208.108.59, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true, tfo: false}
-  - {name: ⚡ b2n.ir/v2ray-configs | 801, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
-  - {name: ⚡ b2n.ir/v2ray-configs | 801 2, server: 185.242.247.249, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Sur5Ny74npD3, udp: true, tfo: false}
+  - {name: ⚡ b2n.ir/v2ray-configs | 801, server: 185.242.247.249, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Sur5Ny74npD3, udp: true, tfo: false}
+  - {name: ⚡ b2n.ir/v2ray-configs | 801 2, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
   - {name: ⚡ b2n.ir/v2ray-configs | 810, server: 217.197.161.164, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: ⚡ b2n.ir/v2ray-configs | 817, server: 38.91.107.225, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: ⚡ b2n.ir/v2ray-configs | 823, server: 14.29.124.168, port: 25235, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true, tfo: false}
