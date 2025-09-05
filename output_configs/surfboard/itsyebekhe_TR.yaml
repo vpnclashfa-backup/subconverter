@@ -1,8 +1,7 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsyebekhe%2FPSG%2Frefs%2Fheads%2Fmain%2Fsubscriptions%2Flocation%2Fbase64%2FTR interval=86400 strict=false
 
 TR | 🔒 SS | @netfreedom0 [7] = ss, 185.123.101.241, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-TR | 🔒 SS | @outline_ir [10] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
-TR | 🔒 SS | @selinc [2] = ss, 62.60.233.152, 443, encrypt-method=chacha20-ietf-poly1305, password=doGAz9lPfLhS, tfo=false, udp-relay=true
-TR | 🔒 SS | @vmesc [16] = ss, 77.83.245.191, 443, encrypt-method=chacha20-ietf-poly1305, password=riOvLkhMVc1G, tfo=false, udp-relay=true
+TR | 🔒 SS | @outline_ir [7] = ss, 193.46.56.185, 6683, encrypt-method=chacha20-ietf-poly1305, password=iw8GoN42dciNxDBd0RwAdL, tfo=false, udp-relay=true
+TR | 🔒 SS | @selinc [1] = ss, 62.60.233.152, 443, encrypt-method=chacha20-ietf-poly1305, password=doGAz9lPfLhS, tfo=false, udp-relay=true
+TR | 🔒 SS | @vmesc [14] = ss, 77.83.245.191, 443, encrypt-method=chacha20-ietf-poly1305, password=riOvLkhMVc1G, tfo=false, udp-relay=true
 TR | 🔓 VMESS | @tobevasl [6] = vmess, netherleindcd.abletodothingsorg.com, 8081, username=cb810065-88b0-4d6a-9d92-67ee32491616, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-TR | 🔓 VMESS | @v2ray_free_conf [8] = vmess, 176.120.73.36, 3690, username=aea09291-8c74-4c37-8864-d9360025a74b, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
