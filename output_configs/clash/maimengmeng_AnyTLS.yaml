@@ -1,13 +1,13 @@
 proxies:
+  - {name: 距离下次重置剩余：22 天, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾2｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇳 台湾｜直连-家宽, server: tw001.hys.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 德国法兰克福01, server: dede.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 德国法兰克福02, server: dede.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 法国巴黎04|优化, server: faguo.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 法国巴黎05|优化, server: faguo.gzcloud.shop, port: 8443, type: anytls, password: 1f84e51f-c290-4426-9468-3060af826425, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港2｜直连-家宽, server: hk.t23r.n44ode.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 香港｜直连-家宽, server: hk.t23r.n44ode.11008866.xyz, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇯🇵 日本1｜精品专线10x, server: jp1.t23r.n44ode.11008866.xyz, port: 11017, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 美国01, server: 192.227.237.62, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 美国02, server: 107.174.52.160, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 美国03, server: 152.53.54.139, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国1｜精品专线10x, server: us0g23rp3t0yyy.t3r.n44oe.11008866.xyz, port: 11017, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国2｜精品专线10x, server: us0g23rp3t0yyy.t3r.n44oe.11008866.xyz, port: 11017, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 美国a｜直连, server: 170.9.9.142, port: 11010, type: anytls, password: c2079500-a9b8-4c1c-8e8c-e70f31c00825, skip-cert-verify: false, udp: true, tfo: false}
