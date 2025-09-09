@@ -1,7 +1,8 @@
 proxies:
-  - {name: "TR | 🔒 SS | @outline_ir [10]", server: 77.83.245.50, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WV7haGrJjRI7, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @outline_ir [17]", server: 5.188.36.93, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: nYRhTCZdQLExK6ewVHgHS2mlv4FCysKyeyTTfhRdEgdeeRN0, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @outline_ir [18]", server: 5.188.168.230, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: gB7OeNZVCOsZGKThvJlcO9JuiVsUgLPa8QHjADFho5cvGy4v, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @outline_ir [12]", server: 5.188.36.93, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: nYRhTCZdQLExK6ewVHgHS2mlv4FCysKyeyTTfhRdEgdeeRN0, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @outline_ir [13]", server: 5.188.168.230, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: gB7OeNZVCOsZGKThvJlcO9JuiVsUgLPa8QHjADFho5cvGy4v, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @outline_ir [5]", server: 77.83.245.50, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WV7haGrJjRI7, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @v2ray_free_conf [16]", server: 77.83.245.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: riOvLkhMVc1G, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @Fr33C0nfig [6]", server: 62.60.233.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0cdd44-2361-11f0-9970-45e1d80c4039, servername: images.apple.com, flow: xtls-rprx-vision, reality-opts: {public-key: MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw, short-id: 4476a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @iseqaro [1]", server: 45.89.52.228, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: id6686739236, servername: www.trendyol.com, flow: xtls-rprx-vision, reality-opts: {public-key: oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys, short-id: 404c8792dfd88e41}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @proxyfn [8]", server: 212.64.193.3, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 3fd3a47a-ae18-41c2-a426-d3ca21287aec, servername: www.discord.com, skip-cert-verify: false, udp: true, tfo: false}
