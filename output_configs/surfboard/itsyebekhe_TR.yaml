@@ -3,4 +3,4 @@
 TR | 🔒 SS | @outline_ir [12] = ss, 5.188.36.93, 31348, encrypt-method=chacha20-ietf-poly1305, password=nYRhTCZdQLExK6ewVHgHS2mlv4FCysKyeyTTfhRdEgdeeRN0, tfo=false, udp-relay=true
 TR | 🔒 SS | @outline_ir [13] = ss, 5.188.168.230, 31348, encrypt-method=chacha20-ietf-poly1305, password=gB7OeNZVCOsZGKThvJlcO9JuiVsUgLPa8QHjADFho5cvGy4v, tfo=false, udp-relay=true
 TR | 🔒 SS | @outline_ir [5] = ss, 77.83.245.50, 443, encrypt-method=chacha20-ietf-poly1305, password=WV7haGrJjRI7, tfo=false, udp-relay=true
-TR | 🔓 VMESS | @tobevasl [5] = vmess, netherleindcd.abletodothingsorg.com, 8081, username=cb810065-88b0-4d6a-9d92-67ee32491616, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+TR | 🔒 SS | @v2ray_sub [9] = ss, 77.83.245.50, 443, encrypt-method=chacha20-ietf-poly1305, password=WV7haGrJjRI7, tfo=false, udp-relay=true
