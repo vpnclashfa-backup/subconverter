@@ -28,4 +28,3 @@ Ainita Server 135.225.124.80 = ss, 135.225.124.80, 48172, encrypt-method=chacha2
 Ainita Server 4.223.100.248 = ss, 4.223.100.248, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 Ainita Server 4.223.106.151 = ss, 4.223.106.151, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
 Ainita Server 4.223.106.240 = ss, 4.223.106.240, 48172, encrypt-method=chacha20-ietf-poly1305, password=51yloQC8D9w1Wae7FHtI65, tfo=false, udp-relay=true
-Kyiv-GetAFreeNode.com = vmess, 185.126.255.78, 29196, username=9a86bfca-60f0-4370-b759-f8c4ca8ba343, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/speedtest, sni=real.getafreenode.sbs, ws-headers=Host:real.getafreenode.sbs, skip-cert-verify=false, tfo=false, udp-relay=true
