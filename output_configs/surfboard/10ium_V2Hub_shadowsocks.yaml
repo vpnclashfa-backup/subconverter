@@ -1,271 +1,275 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2F10ium%2FV2Hub3%2Fmain%2FSplit%2FBase64%2Fshadowsocks interval=86400 strict=false
 
-AE🇦🇪 | 151.242.251.131-8080 | 134.3ms = ss, 151.242.251.131, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-AE🇦🇪 | 151.242.251.147-8080 | 137.65ms = ss, 151.242.251.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-AE🇦🇪 | 151.242.251.147-8080 | 138.56ms = ss, 151.242.251.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-AE🇦🇪 | 151.242.251.153-8080 | 133.44ms = ss, 151.242.251.153, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-AT🇦🇹 | 178.22.31.202-25748 | 140.57ms = ss, 178.22.31.202, 25748, encrypt-method=chacha20-ietf-poly1305, password=NNc9xVh5HdfRYAR4kkxACd, tfo=false, udp-relay=true
-AT🇦🇹 | 212.113.106.76-29149 | 145.8ms = ss, 212.113.106.76, 29149, encrypt-method=chacha20-ietf-poly1305, password=IkOerOruBwts0awqUBHj6e, tfo=false, udp-relay=true
-BR🇧🇷 | 38.54.57.90-989 | 177.89ms = ss, 38.54.57.90, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-CH🇨🇭 | 156.146.62.164-443 | 149.73ms = ss, 156.146.62.164, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-CH🇨🇭 | 156.146.62.164-443 | 156.8ms = ss, 156.146.62.164, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-CH🇨🇭 | 204.136.10.115-1866 | 164.75ms = ss, 204.136.10.115, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
-CO🇨🇴 | 154.223.16.212-989 | 123ms = ss, 154.223.16.212, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-FI🇫🇮 | 46.62.152.84-808 | 165.04ms = ss, 46.62.152.84, 808, encrypt-method=chacha20-ietf-poly1305, password=tvX1v#NSFP_LG_bJ, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 172.34ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=UlT89D0rvcr05tKft1NB5a, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 173.35ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=YXgS8ComTam7qoesPlzlMo, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 174.08ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=F3nY73di5onWV3gotbpI0Q, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 176.14ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=pTUb4YuSmPoSJT4bYUYee2, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 178.09ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=9z4XoS0TfzxNsSqBVAWt7N, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 179.61ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=RLfa7IlzmmrwyBtI4BOJs3, tfo=false, udp-relay=true
-FI🇫🇮 | 83.147.216.70-64519 | 182.37ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=YXgS8ComTam7qoesPlzlMo, tfo=false, udp-relay=true
-HR🇭🇷 | 46.183.184.60-989 | 167.08ms = ss, 46.183.184.60, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-IR🇮🇷 | 37050813702269272654038283817908.international-ixp.com-11312 | 297.31ms = ss, 37050813702269272654038283817908.international-ixp.com, 11312, encrypt-method=aes-256-gcm, password=0e9b58aa-ec79-6827-c679-802ff329b1a1, tfo=false, udp-relay=true
-IR🇮🇷 | 45.138.135.155-42651 | 316.52ms = ss, 45.138.135.155, 42651, encrypt-method=chacha20-ietf-poly1305, password=1bEvJCWAJQGFPraJYx0EeA, tfo=false, udp-relay=true
-IR🇮🇷 | 78.157.48.148-443 | 323.45ms = ss, 78.157.48.148, 443, encrypt-method=chacha20-ietf-poly1305, password=lkwqla7B7I1zP1BZt9H9FB, tfo=false, udp-relay=true
-IR🇮🇷 | 93343878961078676381579883502615.international-ixp.com-11305 | 327.1ms = ss, 93343878961078676381579883502615.international-ixp.com, 11305, encrypt-method=aes-256-gcm, password=d3d06009-580c-d0f5-ee0e-6844e8155542, tfo=false, udp-relay=true
-KZ🇰🇿 | 38.107.234.38-57456 | 227.2ms = ss, 38.107.234.38, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-LT🇱🇹 | 192.36.61.59-990 | 228.08ms = ss, 192.36.61.59, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.10-8080 | 138.83ms = ss, 45.87.175.10, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.154-8080 | 134.48ms = ss, 45.87.175.154, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.154-8080 | 137.44ms = ss, 45.87.175.154, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.157-8080 | 137.42ms = ss, 45.87.175.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.157-8080 | 137.63ms = ss, 45.87.175.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.164-8080 | 137.4ms = ss, 45.87.175.164, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.165-8080 | 133.41ms = ss, 45.87.175.165, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.167-8080 | 134.49ms = ss, 45.87.175.167, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.170-8080 | 134.68ms = ss, 45.87.175.170, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.171-8080 | 137.3ms = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.171-8080 | 137.92ms = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.175-8080 | 134.18ms = ss, 45.87.175.175, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.178-8080 | 135.19ms = ss, 45.87.175.178, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.178-8080 | 140.52ms = ss, 45.87.175.178, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.180-8080 | 134.48ms = ss, 45.87.175.180, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.181-8080 | 138.33ms = ss, 45.87.175.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.183-8080 | 134.81ms = ss, 45.87.175.183, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.185-8080 | 135.29ms = ss, 45.87.175.185, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.188-8080 | 134.69ms = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.188-8080 | 137.99ms = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.190-8080 | 130.86ms = ss, 45.87.175.190, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.192-8080 | 130.48ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.192-8080 | 134.1ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.192-8080 | 134.73ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.199-8080 | 134.16ms = ss, 45.87.175.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.199-8080 | 137.38ms = ss, 45.87.175.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.22-8080 | 137.34ms = ss, 45.87.175.22, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.35-8080 | 134.55ms = ss, 45.87.175.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.58-8080 | 153.42ms = ss, 45.87.175.58, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.65-8080 | 134.87ms = ss, 45.87.175.65, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.69-8080 | 134.99ms = ss, 45.87.175.69, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.92-8080 | 134.63ms = ss, 45.87.175.92, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | 45.87.175.92-8080 | 137.35ms = ss, 45.87.175.92, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | ltnl11.saint.ydns.eu-8080 | 611.07ms = ss, ltnl11.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-LT🇱🇹 | ltnl12.saint.ydns.eu-8080 | 707.26ms = ss, ltnl12.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LT🇱🇹 | ltnl15.saint.ydns.eu-8080 | 600.43ms = ss, ltnl15.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-LV🇱🇻 | 216.173.70.187-57456 | 158.54ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-LV🇱🇻 | 216.173.70.187-57456 | 158.57ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-LV🇱🇻 | 216.173.70.187-57456 | 160.03ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-MK🇲🇰 | 46.183.185.15-989 | 180.15ms = ss, 46.183.185.15, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-MK🇲🇰 | 46.183.185.37-989 | 169.93ms = ss, 46.183.185.37, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-NO🇳🇴 | 185.213.23.226-990 | 147.53ms = ss, 185.213.23.226, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-PE🇵🇪 | 185.47.252.251-990 | 150ms = ss, 185.47.252.251, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-PR🇵🇷 | 185.47.255.22-990 | 79.35ms = ss, 185.47.255.22, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-PT🇵🇹 | 31.129.22.32-443 | 159.72ms = ss, 31.129.22.32, 443, encrypt-method=chacha20-ietf-poly1305, password=GTIZXGoe0wkt7, tfo=false, udp-relay=true
-PY🇵🇾 | 38.165.233.18-990 | 181.89ms = ss, 38.165.233.18, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-SE🇸🇪 | 46.246.98.155-44013 | 153.57ms = ss, 46.246.98.155, 44013, encrypt-method=chacha20-ietf-poly1305, password=UDcjYQ6Z6AIWxViZpqyOmO, tfo=false, udp-relay=true
-TR🇹🇷 | 62.133.63.21-65262 | 167.9ms = ss, 62.133.63.21, 65262, encrypt-method=chacha20-ietf-poly1305, password=24ZLHTP8bzMg6KeIWcpez7, tfo=false, udp-relay=true
-TR🇹🇷 | 62.133.63.226-2222 | 162.93ms = ss, 62.133.63.226, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-TR🇹🇷 | 62.60.233.152-443 | 182.25ms = ss, 62.60.233.152, 443, encrypt-method=chacha20-ietf-poly1305, password=doGAz9lPfLhS, tfo=false, udp-relay=true
-TR🇹🇷 | 62.60.233.173-2222 | 174.23ms = ss, 62.60.233.173, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-TR🇹🇷 | 77.83.245.191-443 | 174.42ms = ss, 77.83.245.191, 443, encrypt-method=chacha20-ietf-poly1305, password=riOvLkhMVc1G7, tfo=false, udp-relay=true
-TR🇹🇷 | 83.217.9.125-2222 | 166.77ms = ss, 83.217.9.125, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-TR🇹🇷 | 83.217.9.128-2222 | 168.2ms = ss, 83.217.9.128, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-TR🇹🇷 | tur.fastsoonlink.com-40019 | 377.3ms = ss, tur.fastsoonlink.com, 40019, encrypt-method=chacha20-ietf-poly1305, password=79, tfo=false, udp-relay=true
-VN🇻🇳 | 103.186.154.19-38388 | 206.99ms = ss, 103.186.154.19, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
-VN🇻🇳 | 103.186.154.20-38388 | 210.41ms = ss, 103.186.154.20, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
-VN🇻🇳 | 103.186.155.22-38388 | 212.98ms = ss, 103.186.155.22, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
-VN🇻🇳 | 103.186.155.23-38388 | 212.4ms = ss, 103.186.155.23, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
-VN🇻🇳 | 160.19.78.75-443 | 210.15ms = ss, 160.19.78.75, 443, encrypt-method=chacha20-ietf-poly1305, password=Nk9asglDzHzjktVzTkvhaA, tfo=false, udp-relay=true
-VN🇻🇳 | 160.19.78.75-443 | 211.92ms = ss, 160.19.78.75, 443, encrypt-method=chacha20-ietf-poly1305, password=Nk9asglDzHzjktVzTkvhaA, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 70.56ms = ss, 142.4.216.225, 80, encrypt-method=chacha20-ietf-poly1305, password=JIhN6rBKkaEboLNXVSv5rq, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 70.69ms = ss, 142.4.216.225, 80, encrypt-method=chacha20-ietf-poly1305, password=JIhN6rBKkaEboLNXVSv5rq, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 149.22.95.183-443 | 45.2ms = ss, 149.22.95.183, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 166.88.130.112-808 | 84.18ms = ss, 166.88.130.112, 808, encrypt-method=chacha20-ietf-poly1305, password=tvX1v#NSFP_LG_bJ, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 38.180.211.126-443 | 70.47ms = ss, 38.180.211.126, 443, encrypt-method=chacha20-ietf-poly1305, password=Kuiqk2cP0BMWrgme9IfEvp, tfo=false, udp-relay=true
-🇨🇦 CA🇨🇦 | 79.127.233.170-990 | 41.74ms = ss, 79.127.233.170, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇨🇳 TW🇹🇼 | 223.165.4.173-990 | 140.6ms = ss, 223.165.4.173, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 147.45.178.200-57456 | 131.63ms = ss, 147.45.178.200, 57456, encrypt-method=chacha20-ietf-poly1305, password=c40641c1f89e7acb, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 151.236.4.154-8443 | 136.82ms = ss, 151.236.4.154, 8443, encrypt-method=chacha20-ietf-poly1305, password=pCdA23OcvrEbLGqt5RgaRc, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 185.177.229.245-1866 | 145.01ms = ss, 185.177.229.245, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 45.132.1.139-4143 | 159.06ms = ss, 45.132.1.139, 4143, encrypt-method=chacha20-ietf-poly1305, password=K6QKhEVAXZIY7qg2uOloE4, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 51.195.101.222-8443 | 142.59ms = ss, 51.195.101.222, 8443, encrypt-method=aes-256-gcm, password=ad7f92fd-bfba-4fb2-832e-8bfa62c61b46, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 80.71.157.175-38211 | 136.75ms = ss, 80.71.157.175, 38211, encrypt-method=chacha20-ietf-poly1305, password=B72hSpji6jvvjUoaF1SZsi, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 80.71.157.175-38211 | 140.88ms = ss, 80.71.157.175, 38211, encrypt-method=chacha20-ietf-poly1305, password=eQp7xK1HNhPbRu98ucuCoG, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 131.72ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=Z27naSG5vb8T7LF5eYAfyo, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 153.48ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=8VAh3tR4nxtSu3XRjojTf6, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 85.208.139.158-25607 | 138.31ms = ss, 85.208.139.158, 25607, encrypt-method=chacha20-ietf-poly1305, password=DXQocbpII6cMgNuMK5xClQ, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 85.208.139.203-443 | 131.91ms = ss, 85.208.139.203, 443, encrypt-method=chacha20-ietf-poly1305, password=0DY8zBjtxP3Y7, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 91.99.159.82-1080 | 137.03ms = ss, 91.99.159.82, 1080, encrypt-method=chacha20-ietf-poly1305, password=aGOtWoBM-tGHVnKB_VgyUQ, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | 93.123.46.84-8443 | 146.63ms = ss, 93.123.46.84, 8443, encrypt-method=chacha20-ietf-poly1305, password=iJLULsqis422U4Dh6tQpQ2, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | desrv.ssvpnapp.win-57456 | 165.97ms = ss, desrv.ssvpnapp.win, 57456, encrypt-method=chacha20-ietf-poly1305, password=fe166c5b3465540f, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | h110vpnde2.outlinekeys.net-53122 | 267.66ms = ss, h110vpnde2.outlinekeys.net, 53122, encrypt-method=chacha20-ietf-poly1305, password=1Qhw93ffZB30DrRlMLgQ7U, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | h110vpnde2.outlinekeys.net-53122 | 522.54ms = ss, h110vpnde2.outlinekeys.net, 53122, encrypt-method=chacha20-ietf-poly1305, password=rWKE1UyQidbLmYCLvFNawV, tfo=false, udp-relay=true
-🇩🇪 DE🇩🇪 | universal.opengate.wiki-2222 | 357.95ms = ss, universal.opengate.wiki, 2222, encrypt-method=chacha20-ietf-poly1305, password=trErto8XzLALaQEslTp_jw, tfo=false, udp-relay=true
-🇩🇪 IR🇮🇷 | de.xray.services-8443 | 453.04ms = ss, de.xray.services, 8443, encrypt-method=chacha20-ietf-poly1305, password=LwiGWpb1VFaL8gS0qV9XJc, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 146.45ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=HYiYm38qg5ZPPnPaHOHySp, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 146.75ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=MzR6Gar8xWcNjRRk2X9Dv0, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 150.65ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=TG6msvZXmnb8H2468mHiJa, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 150.74ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=dbsW30CmvgIUEQgyv82eF8, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 150.81ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=jssSp7XzPkjgG4ijDFnKRz, tfo=false, udp-relay=true
-🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 151.06ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=FrdG0idghcpXcjnt5A9U0I, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 213.111.128.57-443 | 128.28ms = ss, 213.111.128.57, 443, encrypt-method=chacha20-ietf-poly1305, password=ehc3S2iQqBknFrL6IecAp2, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.146-8080 | 130.68ms = ss, 45.158.171.146, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.146-8080 | 134.2ms = ss, 45.158.171.146, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.19-8080 | 137.6ms = ss, 45.158.171.19, 8080, encrypt-method=chacha20-ietf-poly1305, password=a8bt9fY0QsLS6eLnXUe0Ym, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.35-8080 | 138.68ms = ss, 45.158.171.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=a8bt9fY0QsLS6eLnXUe0Ym, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.60-8080 | 134.91ms = ss, 45.158.171.60, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 45.158.171.70-8080 | 133.52ms = ss, 45.158.171.70, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 51.195.119.47-1080 | 144.38ms = ss, 51.195.119.47, 1080, encrypt-method=chacha20-ietf-poly1305, password=qXvO7zYU7KeaB0Md7DQLow, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | 81.19.137.222-57456 | 141.81ms = ss, 81.19.137.222, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-🇫🇷 FR🇫🇷 | fr.fastsoonlink.com-40034 | 369.03ms = ss, fr.fastsoonlink.com, 40034, encrypt-method=chacha20-ietf-poly1305, password=78e36312-16d4-49c2-ad18-610bf6d05d637, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 13.41.31.12-443 | 130.46ms = ss, 13.41.31.12, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 132.06ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 132.86ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 133.75ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks7, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 141.98.101.179-443 | 132.18ms = ss, 141.98.101.179, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 172.187.105.25-443 | 130.65ms = ss, 172.187.105.25, 443, encrypt-method=chacha20-ietf-poly1305, password=1xO2cqPazqjGfCfd, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 195.22.157.104-22577 | 214.29ms = ss, 195.22.157.104, 22577, encrypt-method=2022-blake3-aes-256-gcm, password=/9pLkGAdlCUkCLGb3N1PDJxu+xLcfWLALdvhKkoWJ00=, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 195.22.157.104-24754 | 255.01ms = ss, 195.22.157.104, 24754, encrypt-method=2022-blake3-aes-256-gcm, password=rW3/icV74z/gNN1Vcpgr/DX/ULFp8w8OZg+hPWGohhw=, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 212.102.53.193-443 | 124.6ms = ss, 212.102.53.193, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 212.102.53.196-443 | 128.47ms = ss, 212.102.53.196, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 212.102.53.197-443 | 124.61ms = ss, 212.102.53.197, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 212.102.53.78-443 | 124.47ms = ss, 212.102.53.78, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 212.102.53.80-443 | 124.72ms = ss, 212.102.53.80, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 64.137.109.212-44884 | 162.26ms = ss, 64.137.109.212, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 64.137.109.212-44884 | 162.54ms = ss, 64.137.109.212, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 74.177.207.175-443 | 134.06ms = ss, 74.177.207.175, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 85.210.120.237-443 | 123.09ms = ss, 85.210.120.237, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 85.210.120.237-443 | 131.09ms = ss, 85.210.120.237, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 134.05ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=Ddj2oeGcxTGSFAtUa85ydU, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 134.29ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=zqJYMyvskT5ENMtRAhDHj6, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 134.49ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=kRJAfuTKk2bOROXpB4Y8uI, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 134.68ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=rJ0glKyEep3DqXWvayX1a1, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 135.03ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=O0LJhWc3c0ZD9ctb4HWGSO, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 137.56ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=XMPFEQ02LMemv8QQwej7a2, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c1.webramz.co-443 | 134.14ms = ss, admin.c1.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=1xO2cqPazqjGfCfd, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c2.havij.co-443 | 130.95ms = ss, admin.c2.havij.co, 443, encrypt-method=chacha20-ietf-poly1305, password=AcGFEsMR6c07Txux, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c2.webramz.co-443 | 226.92ms = ss, admin.c2.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=WstuSnlu4ieA9M0L, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c3.webramz.co-443 | 133.58ms = ss, admin.c3.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=AlCsBGpsejHdVCME, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c3.webramz.co-443 | 146.4ms = ss, admin.c3.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c4.havij.co-443 | 193.81ms = ss, admin.c4.havij.co, 443, encrypt-method=chacha20-ietf-poly1305, password=VWsBymdCxQI9Qk8m, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | admin.c4.webramz.co-443 | 169.83ms = ss, admin.c4.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=69MUii7VDwMqh7Hz, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | azjnac1.uksouth.cloudapp.azure.com-443 | 131.26ms = ss, azjnac1.uksouth.cloudapp.azure.com, 443, encrypt-method=chacha20-ietf-poly1305, password=b2EJuconC460KllN, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | backup.fleetfoxi.link-44884 | 350.83ms = ss, backup.fleetfoxi.link, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | media.mothyleela.cfd-40521 | 319.99ms = ss, media.mothyleela.cfd, 40521, encrypt-method=chacha20-ietf-poly1305, password=LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW7, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | media.mothyleela.cfd-40521 | 502.89ms = ss, media.mothyleela.cfd, 40521, encrypt-method=chacha20-ietf-poly1305, password=2WkRGh6tAv8UmsHh4i3F6zosj2dzA6sCzXbwq4TdXteztMfyA5aZcLy5jY5Z7FZ3QQMcTVwM7TvibdvzYircC7iDZafp2U6z, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a1.samanehha.co-443 | 224.29ms = ss, series-a1.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2-me.samanehha.co-443 | 240.7ms = ss, series-a2-me.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2-me.varzesh360.co-443 | 249.95ms = ss, series-a2-me.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2-mec.samanehha.co-443 | 241.54ms = ss, series-a2-mec.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2-mec.varzesh360.co-443 | 224.93ms = ss, series-a2-mec.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 141.18ms = ss, series-a2.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 267.51ms = ss, series-a2.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=mps3FwmDjLrWaOVg, tfo=false, udp-relay=true
-🇬🇧 GB🇬🇧 | series-a2.varzesh360.co-443 | 231.7ms = ss, series-a2.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=mps3FwmDjLrWaOVg, tfo=false, udp-relay=true
-🇭🇰 HK🇭🇰 | 149.104.30.179-22728 | 159.68ms = ss, 149.104.30.179, 22728, encrypt-method=2022-blake3-aes-256-gcm, password=15gEk+SZJqjC8Ct7g7xLbxeGjWc5kIXj9K6O4J2Yorc=, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 103.111.114.29-57456 | 233.02ms = ss, 103.111.114.29, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 103.111.114.29-57456 | 239.86ms = ss, 103.111.114.29, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 134.209.147.198-990 | 299.54ms = ss, 134.209.147.198, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 82.180.146.173-30607 | 252.18ms = ss, 82.180.146.173, 30607, encrypt-method=aes-128-gcm, password=162629d7-cb17-43b1-82c9-f9c7ae6cba70, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 82.180.146.173-30607 | 330.61ms = ss, 82.180.146.173, 30607, encrypt-method=aes-128-gcm, password=162629d7-cb17-43b1-82c9-f9c7ae6cba70, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | 82.180.146.173-35652 | 247.45ms = ss, 82.180.146.173, 35652, encrypt-method=aes-128-gcm, password=93498539-7838-4836-b9b3-8311ffc79bcf, tfo=false, udp-relay=true
-🇮🇳 IN🇮🇳 | id.vpnsparta.pro-57456 | 375.32ms = ss, id.vpnsparta.pro, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇮🇸 IS🇮🇸 | 212.192.214.159-808 | 143.66ms = ss, 212.192.214.159, 808, encrypt-method=chacha20-ietf-poly1305, password=tvX1v#NSFP_LG_bJ, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 149.22.87.204-443 | 108.24ms = ss, 149.22.87.204, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 149.22.87.240-443 | 108.26ms = ss, 149.22.87.240, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 149.22.87.241-443 | 108.06ms = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 149.22.87.241-443 | 108.38ms = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 153.121.43.183-10087 | 108.61ms = ss, 153.121.43.183, 10087, encrypt-method=aes-128-gcm, password=10086, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 153.121.43.183-10087 | 109.23ms = ss, 153.121.43.183, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 153.121.51.214-10087 | 108.67ms = ss, 153.121.51.214, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 160.16.123.124-10087 | 109.16ms = ss, 160.16.123.124, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
-🇯🇵 JP🇯🇵 | 160.16.123.124-10087 | 109.53ms = ss, 160.16.123.124, 10087, encrypt-method=aes-128-gcm, password=10086, tfo=false, udp-relay=true
-🇰🇷 KR🇰🇷 | 141.164.63.32-30936 | 135.12ms = ss, 141.164.63.32, 30936, encrypt-method=chacha20-ietf-poly1305, password=b25727df-15ea-453c-a006-13fe98fee1d2, tfo=false, udp-relay=true
-🇰🇷 KR🇰🇷 | 218.237.185.230-4652 | 136.38ms = ss, 218.237.185.230, 4652, encrypt-method=aes-256-cfb, password=qwerREWQ@@, tfo=false, udp-relay=true
-🇲🇾 MY🇲🇾 | 103.243.215.17-990 | 190.94ms = ss, 103.243.215.17, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 103.104.247.45-8080 | 134.82ms = ss, 103.104.247.45, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 103.104.247.47-8080 | 133.25ms = ss, 103.104.247.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 103.104.247.47-8080 | 138.63ms = ss, 103.104.247.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 103.104.247.49-8080 | 135.39ms = ss, 103.104.247.49, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 109.201.152.181-443 | 135.61ms = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 109.201.152.181-443 | 139.78ms = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 141.98.4.67-52952 | 159.47ms = ss, 141.98.4.67, 52952, encrypt-method=chacha20-ietf-poly1305, password=LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 141.98.4.67-52952 | 165.93ms = ss, 141.98.4.67, 52952, encrypt-method=chacha20-ietf-poly1305, password=LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 149.34.244.68-443 | 136.89ms = ss, 149.34.244.68, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 149.34.244.71-443 | 136.92ms = ss, 149.34.244.71, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 178.208.78.170-23822 | 138.62ms = ss, 178.208.78.170, 23822, encrypt-method=chacha20-ietf-poly1305, password=5vUWPtKW2smZ3iLGX0nsbt, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 185.21.14.103-2222 | 130.57ms = ss, 185.21.14.103, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.157-8080 | 134.79ms = ss, 193.29.139.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.164-8080 | 134.87ms = ss, 193.29.139.164, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.177-8080 | 134.34ms = ss, 193.29.139.177, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.188-8080 | 148.01ms = ss, 193.29.139.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.202-8080 | 137.35ms = ss, 193.29.139.202, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.209-8080 | 135.51ms = ss, 193.29.139.209, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.227-8080 | 137.48ms = ss, 193.29.139.227, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.235-8080 | 130.15ms = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.235-8080 | 130.29ms = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 193.29.139.240-8080 | 137.36ms = ss, 193.29.139.240, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 194.87.216.189-443 | 142.27ms = ss, 194.87.216.189, 443, encrypt-method=chacha20-ietf-poly1305, password=Ib9hxFZxUH4m7, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 194.87.31.68-443 | 137.63ms = ss, 194.87.31.68, 443, encrypt-method=chacha20-ietf-poly1305, password=R2UGad61FGO57, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 208.67.105.196-42029 | 169.51ms = ss, 208.67.105.196, 42029, encrypt-method=chacha20-ietf-poly1305, password=Fzf5vaXFs7oCY3Xb33aZ945xkhvFt2rrxdRBY9D3dQecNQKEXysBXb2eVPzDVb9iqM3iBhwJHEi5eWhzAXJXEP2vUwWCpZXD, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 212.118.42.181-9260 | 129.86ms = ss, 212.118.42.181, 9260, encrypt-method=2022-blake3-aes-256-gcm, password=X0xJs7Bn4yXxePbQhfsKqc0CiAi5a7tcV6GFPCyYWn4=, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 213.109.147.242-62685 | 165.67ms = ss, 213.109.147.242, 62685, encrypt-method=chacha20-ietf-poly1305, password=VpKABcOpNNA0l5G2AVOmw8, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 62.84.102.28-26923 | 131.35ms = ss, 62.84.102.28, 26923, encrypt-method=chacha20-ietf-poly1305, password=5yOoUqBpwEevaGQ7gMxC0F, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 89.110.74.148-46271 | 132.78ms = ss, 89.110.74.148, 46271, encrypt-method=chacha20-ietf-poly1305, password=OzPK9PcJr1NsWfm7T48LiC, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 89.23.103.229-443 | 137.82ms = ss, 89.23.103.229, 443, encrypt-method=chacha20-ietf-poly1305, password=pVnTzYAqXEHw7, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | 92.112.126.90-443 | 9.36ms = ss, 92.112.126.90, 443, encrypt-method=chacha20-ietf-poly1305, password=9tqhMdIrTkgQ46PvhyAtMH, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | promo1o.bystrivpn.ru-443 | 876.94ms = ss, promo1o.bystrivpn.ru, 443, encrypt-method=chacha20-ietf-poly1305, password=0NeN5ta7FLa5B9DLytU0um, tfo=false, udp-relay=true
-🇳🇱 NL🇳🇱 | promo9v.bystrivpn.ru-443 | 886.69ms = ss, promo9v.bystrivpn.ru, 443, encrypt-method=chacha20-ietf-poly1305, password=CxtcZaOSFYiJnloyTZJ0z2, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 2.59.163.101-2222 | 154.78ms = ss, 2.59.163.101, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 2.59.163.104-2222 | 154.81ms = ss, 2.59.163.104, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 2.59.163.105-2222 | 150.83ms = ss, 2.59.163.105, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 217.30.10.18-9011 | 152.12ms = ss, 217.30.10.18, 9011, encrypt-method=aes-256-cfb, password=M3t2ZEQcMGRWBjRa, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 217.30.10.18-9060 | 156.82ms = ss, 217.30.10.18, 9060, encrypt-method=aes-256-cfb, password=ueLXVkvh4hckhErQ, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 217.30.10.70-9001 | 149.85ms = ss, 217.30.10.70, 9001, encrypt-method=aes-256-cfb, password=UkXRsXvR6buDMG2Y, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 217.30.10.70-9040 | 153.26ms = ss, 217.30.10.70, 9040, encrypt-method=aes-256-cfb, password=p9z5BVADH2YFs3MN, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 217.30.10.70-9059 | 149.89ms = ss, 217.30.10.70, 9059, encrypt-method=aes-256-cfb, password=9XwYyZsK8SNzQDtY, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 158.68ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 159.99ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 161.11ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 152.43ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=dZ2YvaTtYoVFWDekMk9XR6, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 155.06ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=PL7J6ZOVBQ31V2t1Z5pfAV, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 155.8ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=3I4glDZWnKHZSKHKYPyUm6, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 156.1ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=ohS6DgVRx8GKyrO4UoxdW6, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 156.91ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=rCgQnJq4xgO6NDVmmGSGMT, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 157.66ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=B39hI4d4Hc5b4jyQc0Eupg, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 89.223.93.176-41348 | 159.1ms = ss, 89.223.93.176, 41348, encrypt-method=chacha20-ietf-poly1305, password=Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA7, tfo=false, udp-relay=true
-🇵🇱 PL🇵🇱 | 92.118.205.228-990 | 155.65ms = ss, 92.118.205.228, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇷🇺 RU🇷🇺 | 45.139.24.24-57456 | 167.45ms = ss, 45.139.24.24, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇷🇺 RU🇷🇺 | 45.139.24.24-57456 | 172.98ms = ss, 45.139.24.24, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇸🇬 SG🇸🇬 | 174.138.17.254-52252 | 179.38ms = ss, 174.138.17.254, 52252, encrypt-method=chacha20-ietf-poly1305, password=1TdAdOggQYmujaoCVvHLZp, tfo=false, udp-relay=true
-🇸🇬 SG🇸🇬 | 64.176.85.73-1866 | 182.82ms = ss, 64.176.85.73, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 104.167.197.25-57456 | 59.21ms = ss, 104.167.197.25, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 138.199.42.68-8080 | 48.09ms = ss, 138.199.42.68, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 138.199.42.68-8080 | 52.54ms = ss, 138.199.42.68, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 144.126.146.38-30100 | 123.69ms = ss, 144.126.146.38, 30100, encrypt-method=chacha20-ietf-poly1305, password=741ddced-e6ee-4175-9c1a-e524009f9045, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 144.126.146.38-30100 | 93.97ms = ss, 144.126.146.38, 30100, encrypt-method=chacha20-ietf-poly1305, password=741ddced-e6ee-4175-9c1a-e524009f90457, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 144.126.146.38-30789 | 76.75ms = ss, 144.126.146.38, 30789, encrypt-method=chacha20-ietf-poly1305, password=8d73e088-dc5a-4dfe-8927-56351ee80407, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 144.126.146.38-30789 | 91.35ms = ss, 144.126.146.38, 30789, encrypt-method=chacha20-ietf-poly1305, password=8d73e088-dc5a-4dfe-8927-56351ee80407, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 156.146.38.169-443 | 24.36ms = ss, 156.146.38.169, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 173.244.56.6-443 | 1.68ms = ss, 173.244.56.6, 443, encrypt-method=aes-128-gcm, password=shadowsocks7, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 212.102.47.129-443 | 37.34ms = ss, 212.102.47.129, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 212.102.47.132-443 | 37ms = ss, 212.102.47.132, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 37.19.198.243-443 | 63.97ms = ss, 37.19.198.243, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 37.19.198.244-443 | 64.49ms = ss, 37.19.198.244, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 64.74.163.130-990 | 75.91ms = ss, 64.74.163.130, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 64.74.163.218-990 | 75.79ms = ss, 64.74.163.218, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 71.19.148.143-443 | 19.24ms = ss, 71.19.148.143, 443, encrypt-method=chacha20-ietf-poly1305, password=p78naCf2EfOlRSLTX0wFVx, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 74.50.98.185-8080 | 53.56ms = ss, 74.50.98.185, 8080, encrypt-method=chacha20-ietf-poly1305, password=Mju3ZSaa4QVk45mc, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 94.131.21.174-54075 | 158.54ms = ss, 94.131.21.174, 54075, encrypt-method=chacha20-ietf-poly1305, password=o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | 94.131.22.134-40565 | 162.16ms = ss, 94.131.22.134, 40565, encrypt-method=chacha20-ietf-poly1305, password=2JK8CwhNFuy3uQo5yHwHvRuEXKLnnrKW7T3snXFQ25yt27PGLKoLXMFrSFFoVgB5SQMeAHx8ZaQXx9mAY55cYskUyVaP6Rum7, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | h110vpnus.outlinekeys.net-9483 | 326.5ms = ss, h110vpnus.outlinekeys.net, 9483, encrypt-method=chacha20-ietf-poly1305, password=nLwAl3svNCBPtG9I2FrVYI, tfo=false, udp-relay=true
-🇺🇸 US🇺🇸 | pupas-shirting-unsung.freesocks.work-443 | 281.79ms = ss, pupas-shirting-unsung.freesocks.work, 443, encrypt-method=chacha20-ietf-poly1305, password=p78naCf2EfOlRSLTX0wFVx, tfo=false, udp-relay=true
+AE🇦🇪 | 151.242.251.131-8080 | 148.54ms = ss, 151.242.251.131, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+AE🇦🇪 | 151.242.251.147-8080 | 141.34ms = ss, 151.242.251.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+AE🇦🇪 | 151.242.251.147-8080 | 145.75ms = ss, 151.242.251.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+AE🇦🇪 | 151.242.251.153-8080 | 146.51ms = ss, 151.242.251.153, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+AE🇦🇪 | 45.134.13.75-443 | 157.81ms = ss, 45.134.13.75, 443, encrypt-method=aes-256-gcm, password=942d6d97-2117-4b0c-8ccb-adb9265692d6, tfo=false, udp-relay=true
+AE🇦🇪 | beesyar.org-8080 | 259.61ms = ss, beesyar.org, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+AT🇦🇹 | 178.22.31.202-25748 | 151.09ms = ss, 178.22.31.202, 25748, encrypt-method=chacha20-ietf-poly1305, password=NNc9xVh5HdfRYAR4kkxACd, tfo=false, udp-relay=true
+AT🇦🇹 | 212.113.106.76-29149 | 168ms = ss, 212.113.106.76, 29149, encrypt-method=chacha20-ietf-poly1305, password=IkOerOruBwts0awqUBHj6e, tfo=false, udp-relay=true
+AT🇦🇹 | 95.163.176.37-8506 | 157.55ms = ss, 95.163.176.37, 8506, encrypt-method=chacha20-ietf-poly1305, password=eUh4lSpi7nOYj0vSrqLUh0, tfo=false, udp-relay=true
+BR🇧🇷 | 38.54.57.90-989 | 193ms = ss, 38.54.57.90, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+CH🇨🇭 | 156.146.62.164-443 | 159.46ms = ss, 156.146.62.164, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+CH🇨🇭 | 195.15.243.125-5555 | 161.72ms = ss, 195.15.243.125, 5555, encrypt-method=chacha20-ietf-poly1305, password=AdcivTASb8XWqRKubWaz2w, tfo=false, udp-relay=true
+CH🇨🇭 | 204.136.10.115-1866 | 162.74ms = ss, 204.136.10.115, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 191.76ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=RLfa7IlzmmrwyBtI4BOJs3, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 192.81ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=F3nY73di5onWV3gotbpI0Q, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 197.82ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=YXgS8ComTam7qoesPlzlMo, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 198.59ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=9z4XoS0TfzxNsSqBVAWt7N, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 199.16ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=pTUb4YuSmPoSJT4bYUYee2, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 199.77ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=UlT89D0rvcr05tKft1NB5a, tfo=false, udp-relay=true
+FI🇫🇮 | 83.147.216.70-64519 | 214.55ms = ss, 83.147.216.70, 64519, encrypt-method=chacha20-ietf-poly1305, password=YXgS8ComTam7qoesPlzlMo, tfo=false, udp-relay=true
+GR🇬🇷 | 192.71.166.100-989 | 197.25ms = ss, 192.71.166.100, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+HR🇭🇷 | 46.183.184.60-989 | 163.93ms = ss, 46.183.184.60, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+IR🇮🇷 | 37050813702269272654038283817908.international-ixp.com-11312 | 389.19ms = ss, 37050813702269272654038283817908.international-ixp.com, 11312, encrypt-method=aes-256-gcm, password=0e9b58aa-ec79-6827-c679-802ff329b1a1, tfo=false, udp-relay=true
+IR🇮🇷 | 45.138.135.155-42651 | 310.53ms = ss, 45.138.135.155, 42651, encrypt-method=chacha20-ietf-poly1305, password=1bEvJCWAJQGFPraJYx0EeA, tfo=false, udp-relay=true
+IR🇮🇷 | 78.157.48.148-443 | 350.87ms = ss, 78.157.48.148, 443, encrypt-method=chacha20-ietf-poly1305, password=lkwqla7B7I1zP1BZt9H9FB, tfo=false, udp-relay=true
+IR🇮🇷 | 93343878961078676381579883502615.international-ixp.com-11305 | 335.48ms = ss, 93343878961078676381579883502615.international-ixp.com, 11305, encrypt-method=aes-256-gcm, password=d3d06009-580c-d0f5-ee0e-6844e8155542, tfo=false, udp-relay=true
+KZ🇰🇿 | 38.107.234.38-57456 | 243.06ms = ss, 38.107.234.38, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.10-8080 | 146.74ms = ss, 45.87.175.10, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.154-8080 | 141.82ms = ss, 45.87.175.154, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.157-8080 | 145.62ms = ss, 45.87.175.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.157-8080 | 151.43ms = ss, 45.87.175.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.165-8080 | 145.55ms = ss, 45.87.175.165, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.167-8080 | 141.82ms = ss, 45.87.175.167, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.170-8080 | 152.58ms = ss, 45.87.175.170, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.171-8080 | 141.73ms = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.171-8080 | 145.64ms = ss, 45.87.175.171, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.175-8080 | 146.75ms = ss, 45.87.175.175, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.178-8080 | 145.77ms = ss, 45.87.175.178, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.180-8080 | 146.67ms = ss, 45.87.175.180, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.181-8080 | 145.68ms = ss, 45.87.175.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.181-8080 | 150.7ms = ss, 45.87.175.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.183-8080 | 152.43ms = ss, 45.87.175.183, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.185-8080 | 152.48ms = ss, 45.87.175.185, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.188-8080 | 150.45ms = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.188-8080 | 152.2ms = ss, 45.87.175.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.190-8080 | 152.35ms = ss, 45.87.175.190, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.192-8080 | 145.7ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.192-8080 | 146.96ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.192-8080 | 150.72ms = ss, 45.87.175.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.199-8080 | 145.58ms = ss, 45.87.175.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.199-8080 | 148.66ms = ss, 45.87.175.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.199-8080 | 150.56ms = ss, 45.87.175.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.22-8080 | 151.24ms = ss, 45.87.175.22, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.28-8080 | 141.76ms = ss, 45.87.175.28, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.35-8080 | 152.2ms = ss, 45.87.175.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.58-8080 | 147.66ms = ss, 45.87.175.58, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.65-8080 | 147.63ms = ss, 45.87.175.65, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.69-8080 | 141.76ms = ss, 45.87.175.69, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.92-8080 | 145.68ms = ss, 45.87.175.92, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | 45.87.175.92-8080 | 150.51ms = ss, 45.87.175.92, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | ltnl03.saint.ydns.eu-8080 | 313.18ms = ss, ltnl03.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | ltnl10.saint.ydns.eu-8080 | 311.61ms = ss, ltnl10.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | ltnl11.saint.ydns.eu-8080 | 313.39ms = ss, ltnl11.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+LT🇱🇹 | ltnl12.saint.ydns.eu-8080 | 305.38ms = ss, ltnl12.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LT🇱🇹 | ltnl15.saint.ydns.eu-8080 | 1032.66ms = ss, ltnl15.saint.ydns.eu, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+LV🇱🇻 | 216.173.70.187-57456 | 169.2ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+LV🇱🇻 | 216.173.70.187-57456 | 172.44ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+LV🇱🇻 | 216.173.70.187-57456 | 178.35ms = ss, 216.173.70.187, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+MK🇲🇰 | 46.183.185.15-990 | 205.38ms = ss, 46.183.185.15, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+NO🇳🇴 | 185.213.23.226-990 | 155.78ms = ss, 185.213.23.226, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+PE🇵🇪 | 185.47.252.251-990 | 154.6ms = ss, 185.47.252.251, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+PR🇵🇷 | 185.47.255.22-990 | 87.31ms = ss, 185.47.255.22, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+PT🇵🇹 | 185.231.233.173-990 | 185.73ms = ss, 185.231.233.173, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+PT🇵🇹 | 31.129.22.32-443 | 160.13ms = ss, 31.129.22.32, 443, encrypt-method=chacha20-ietf-poly1305, password=GTIZXGoe0wkt7, tfo=false, udp-relay=true
+PY🇵🇾 | 38.165.233.18-990 | 186.21ms = ss, 38.165.233.18, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+TR🇹🇷 | 185.123.101.241-990 | 194.03ms = ss, 185.123.101.241, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+TR🇹🇷 | 62.133.63.21-65262 | 188.81ms = ss, 62.133.63.21, 65262, encrypt-method=chacha20-ietf-poly1305, password=24ZLHTP8bzMg6KeIWcpez7, tfo=false, udp-relay=true
+TR🇹🇷 | 62.133.63.226-2222 | 187.23ms = ss, 62.133.63.226, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+TR🇹🇷 | 62.60.233.173-2222 | 184.64ms = ss, 62.60.233.173, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+TR🇹🇷 | 77.83.245.191-443 | 182.37ms = ss, 77.83.245.191, 443, encrypt-method=chacha20-ietf-poly1305, password=riOvLkhMVc1G7, tfo=false, udp-relay=true
+TR🇹🇷 | 77.83.245.50-443 | 187.69ms = ss, 77.83.245.50, 443, encrypt-method=chacha20-ietf-poly1305, password=WV7haGrJjRI77, tfo=false, udp-relay=true
+TR🇹🇷 | 83.217.9.101-443 | 181.57ms = ss, 83.217.9.101, 443, encrypt-method=chacha20-ietf-poly1305, password=NbQNqngaIwS77, tfo=false, udp-relay=true
+TR🇹🇷 | 83.217.9.125-2222 | 188.43ms = ss, 83.217.9.125, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+TR🇹🇷 | 83.217.9.128-2222 | 191.97ms = ss, 83.217.9.128, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+TR🇹🇷 | 83.217.9.210-443 | 197.84ms = ss, 83.217.9.210, 443, encrypt-method=chacha20-ietf-poly1305, password=oC9c1kPkYbkg7, tfo=false, udp-relay=true
+TR🇹🇷 | tur.fastsoonlink.com-40019 | 481.07ms = ss, tur.fastsoonlink.com, 40019, encrypt-method=chacha20-ietf-poly1305, password=79, tfo=false, udp-relay=true
+VN🇻🇳 | 103.186.154.19-38388 | 203.93ms = ss, 103.186.154.19, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
+VN🇻🇳 | 103.186.154.20-38388 | 202.46ms = ss, 103.186.154.20, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
+VN🇻🇳 | 103.186.154.27-38388 | 204.51ms = ss, 103.186.154.27, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
+VN🇻🇳 | 103.186.154.29-38388 | 209.52ms = ss, 103.186.154.29, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
+VN🇻🇳 | 160.19.78.75-443 | 207.36ms = ss, 160.19.78.75, 443, encrypt-method=chacha20-ietf-poly1305, password=Nk9asglDzHzjktVzTkvhaA, tfo=false, udp-relay=true
+VN🇻🇳 | 160.19.78.75-443 | 280.79ms = ss, 160.19.78.75, 443, encrypt-method=chacha20-ietf-poly1305, password=Nk9asglDzHzjktVzTkvhaA, tfo=false, udp-relay=true
+🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 65.13ms = ss, 142.4.216.225, 80, encrypt-method=chacha20-ietf-poly1305, password=JIhN6rBKkaEboLNXVSv5rq, tfo=false, udp-relay=true
+🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 68.35ms = ss, 142.4.216.225, 80, encrypt-method=chacha20-ietf-poly1305, password=JIhN6rBKkaEboLNXVSv5rq, tfo=false, udp-relay=true
+🇨🇦 CA🇨🇦 | 149.22.95.183-443 | 22.72ms = ss, 149.22.95.183, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇨🇦 CA🇨🇦 | 166.88.130.112-808 | 58.99ms = ss, 166.88.130.112, 808, encrypt-method=chacha20-ietf-poly1305, password=tvX1v#NSFP_LG_bJ, tfo=false, udp-relay=true
+🇨🇦 CA🇨🇦 | 79.127.233.170-990 | 22.87ms = ss, 79.127.233.170, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇨🇳 TW🇹🇼 | 223.165.4.173-990 | 140.69ms = ss, 223.165.4.173, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 147.45.178.200-57456 | 153.36ms = ss, 147.45.178.200, 57456, encrypt-method=chacha20-ietf-poly1305, password=c40641c1f89e7acb, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 151.236.4.154-8443 | 156.65ms = ss, 151.236.4.154, 8443, encrypt-method=chacha20-ietf-poly1305, password=pCdA23OcvrEbLGqt5RgaRc, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 185.177.229.245-1866 | 148.3ms = ss, 185.177.229.245, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 45.132.1.139-4143 | 158.68ms = ss, 45.132.1.139, 4143, encrypt-method=chacha20-ietf-poly1305, password=K6QKhEVAXZIY7qg2uOloE4, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 51.195.101.222-8443 | 152.99ms = ss, 51.195.101.222, 8443, encrypt-method=aes-256-gcm, password=ad7f92fd-bfba-4fb2-832e-8bfa62c61b46, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 80.71.157.175-38211 | 152.05ms = ss, 80.71.157.175, 38211, encrypt-method=chacha20-ietf-poly1305, password=B72hSpji6jvvjUoaF1SZsi, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 80.71.157.175-38211 | 158.39ms = ss, 80.71.157.175, 38211, encrypt-method=chacha20-ietf-poly1305, password=eQp7xK1HNhPbRu98ucuCoG, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 157.04ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=Z27naSG5vb8T7LF5eYAfyo, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 166.74ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=PxPAkH6yDyehDA6FwIEk99, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 166.98ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=s5P4ZTLlCYZay6wuGXxHim, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 81.19.141.45-443 | 183.7ms = ss, 81.19.141.45, 443, encrypt-method=chacha20-ietf-poly1305, password=QnoxgmnSr6IYSBtEXp8UsL, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 85.208.139.158-25607 | 161.76ms = ss, 85.208.139.158, 25607, encrypt-method=chacha20-ietf-poly1305, password=DXQocbpII6cMgNuMK5xClQ, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 85.208.139.203-443 | 153.29ms = ss, 85.208.139.203, 443, encrypt-method=chacha20-ietf-poly1305, password=0DY8zBjtxP3Y7, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 91.107.134.230-50796 | 168.99ms = ss, 91.107.134.230, 50796, encrypt-method=2022-blake3-aes-256-gcm, password=jIFg591crAWibb9p3E/t9WcsR1qZ8ljUr0/9sDaRfv0=, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 91.99.159.82-1080 | 158.53ms = ss, 91.99.159.82, 1080, encrypt-method=chacha20-ietf-poly1305, password=aGOtWoBM-tGHVnKB_VgyUQ, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | 93.123.46.84-8443 | 158.38ms = ss, 93.123.46.84, 8443, encrypt-method=chacha20-ietf-poly1305, password=iJLULsqis422U4Dh6tQpQ2, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | desrv.ssvpnapp.win-57456 | 169.18ms = ss, desrv.ssvpnapp.win, 57456, encrypt-method=chacha20-ietf-poly1305, password=fe166c5b3465540f, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | h110vpnde2.outlinekeys.net-53122 | 179.2ms = ss, h110vpnde2.outlinekeys.net, 53122, encrypt-method=chacha20-ietf-poly1305, password=1Qhw93ffZB30DrRlMLgQ7U, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | h110vpnde2.outlinekeys.net-53122 | 180.67ms = ss, h110vpnde2.outlinekeys.net, 53122, encrypt-method=chacha20-ietf-poly1305, password=Gmg76W5fKGNG9jitR6OYyu, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | h110vpnde2.outlinekeys.net-53122 | 332.86ms = ss, h110vpnde2.outlinekeys.net, 53122, encrypt-method=chacha20-ietf-poly1305, password=rWKE1UyQidbLmYCLvFNawV, tfo=false, udp-relay=true
+🇩🇪 DE🇩🇪 | universal.opengate.wiki-2222 | 504.2ms = ss, universal.opengate.wiki, 2222, encrypt-method=chacha20-ietf-poly1305, password=trErto8XzLALaQEslTp_jw, tfo=false, udp-relay=true
+🇩🇪 IR🇮🇷 | de.xray.services-8443 | 323.43ms = ss, de.xray.services, 8443, encrypt-method=chacha20-ietf-poly1305, password=LwiGWpb1VFaL8gS0qV9XJc, tfo=false, udp-relay=true
+🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 151.94ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=FrdG0idghcpXcjnt5A9U0I, tfo=false, udp-relay=true
+🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 151.99ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=HYiYm38qg5ZPPnPaHOHySp, tfo=false, udp-relay=true
+🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 152.64ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=MzR6Gar8xWcNjRRk2X9Dv0, tfo=false, udp-relay=true
+🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 153.86ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=dbsW30CmvgIUEQgyv82eF8, tfo=false, udp-relay=true
+🇪🇸 ES🇪🇸 | 194.87.45.189-443 | 192.57ms = ss, 194.87.45.189, 443, encrypt-method=chacha20-ietf-poly1305, password=TG6msvZXmnb8H2468mHiJa, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 213.111.128.57-443 | 145.89ms = ss, 213.111.128.57, 443, encrypt-method=chacha20-ietf-poly1305, password=ehc3S2iQqBknFrL6IecAp2, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 45.158.171.146-8080 | 141.79ms = ss, 45.158.171.146, 8080, encrypt-method=chacha20-ietf-poly1305, password=1RWwXhwfAB5gAEozU4G2Pg, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 45.158.171.146-8080 | 150.44ms = ss, 45.158.171.146, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 45.158.171.35-8080 | 148.59ms = ss, 45.158.171.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=a8bt9fY0QsLS6eLnXUe0Ym, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 45.158.171.60-8080 | 156.24ms = ss, 45.158.171.60, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 45.158.171.70-8080 | 145.57ms = ss, 45.158.171.70, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 51.195.119.47-1080 | 155.81ms = ss, 51.195.119.47, 1080, encrypt-method=chacha20-ietf-poly1305, password=qXvO7zYU7KeaB0Md7DQLow, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | 81.19.137.222-57456 | 157.41ms = ss, 81.19.137.222, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+🇫🇷 FR🇫🇷 | fr.fastsoonlink.com-40034 | 366.86ms = ss, fr.fastsoonlink.com, 40034, encrypt-method=chacha20-ietf-poly1305, password=78e36312-16d4-49c2-ad18-610bf6d05d637, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 144.56ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 144.95ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks7, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 151.55ms = ss, 141.98.101.178, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 141.98.101.179-443 | 144.06ms = ss, 141.98.101.179, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 172.187.105.25-443 | 139.99ms = ss, 172.187.105.25, 443, encrypt-method=chacha20-ietf-poly1305, password=1xO2cqPazqjGfCfd, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 18.171.101.151-443 | 140.53ms = ss, 18.171.101.151, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 195.22.157.104-22577 | 294.23ms = ss, 195.22.157.104, 22577, encrypt-method=2022-blake3-aes-256-gcm, password=/9pLkGAdlCUkCLGb3N1PDJxu+xLcfWLALdvhKkoWJ00=, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 195.22.157.104-24754 | 261.24ms = ss, 195.22.157.104, 24754, encrypt-method=2022-blake3-aes-256-gcm, password=rW3/icV74z/gNN1Vcpgr/DX/ULFp8w8OZg+hPWGohhw=, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 212.102.53.193-443 | 136.45ms = ss, 212.102.53.193, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 212.102.53.196-443 | 146.13ms = ss, 212.102.53.196, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 212.102.53.198-443 | 154.33ms = ss, 212.102.53.198, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 212.102.53.78-443 | 152.09ms = ss, 212.102.53.78, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 64.137.109.212-44884 | 177.3ms = ss, 64.137.109.212, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 64.137.109.212-44884 | 182.85ms = ss, 64.137.109.212, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 74.177.207.175-443 | 139.09ms = ss, 74.177.207.175, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 85.210.120.237-443 | 139.84ms = ss, 85.210.120.237, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 85.210.120.237-443 | 144.94ms = ss, 85.210.120.237, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 131.57ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=XMPFEQ02LMemv8QQwej7a2, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 131.7ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=kRJAfuTKk2bOROXpB4Y8uI, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 136.47ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=zqJYMyvskT5ENMtRAhDHj6, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 136ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=Ddj2oeGcxTGSFAtUa85ydU, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 137.56ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=O0LJhWc3c0ZD9ctb4HWGSO, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | 89.185.84.185-443 | 139.22ms = ss, 89.185.84.185, 443, encrypt-method=chacha20-ietf-poly1305, password=rJ0glKyEep3DqXWvayX1a1, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c1.webramz.co-443 | 153.45ms = ss, admin.c1.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=1xO2cqPazqjGfCfd, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c2.havij.co-443 | 149.31ms = ss, admin.c2.havij.co, 443, encrypt-method=chacha20-ietf-poly1305, password=AcGFEsMR6c07Txux, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c2.webramz.co-443 | 156.3ms = ss, admin.c2.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=WstuSnlu4ieA9M0L, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c3.webramz.co-443 | 143.19ms = ss, admin.c3.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c3.webramz.co-443 | 148.97ms = ss, admin.c3.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=AlCsBGpsejHdVCME, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c4.havij.co-443 | 198.98ms = ss, admin.c4.havij.co, 443, encrypt-method=chacha20-ietf-poly1305, password=VWsBymdCxQI9Qk8m, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | admin.c4.webramz.co-443 | 150.13ms = ss, admin.c4.webramz.co, 443, encrypt-method=chacha20-ietf-poly1305, password=69MUii7VDwMqh7Hz, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | backup.fleetfoxi.link-44884 | 339.85ms = ss, backup.fleetfoxi.link, 44884, encrypt-method=chacha20-ietf-poly1305, password=2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | media.mothyleela.cfd-40521 | 352.92ms = ss, media.mothyleela.cfd, 40521, encrypt-method=chacha20-ietf-poly1305, password=LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW7, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | media.mothyleela.cfd-40521 | 377.4ms = ss, media.mothyleela.cfd, 40521, encrypt-method=chacha20-ietf-poly1305, password=2WkRGh6tAv8UmsHh4i3F6zosj2dzA6sCzXbwq4TdXteztMfyA5aZcLy5jY5Z7FZ3QQMcTVwM7TvibdvzYircC7iDZafp2U6z, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a1.samanehha.co-443 | 220.85ms = ss, series-a1.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2-me.samanehha.co-443 | 176.65ms = ss, series-a2-me.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2-me.varzesh360.co-443 | 191.51ms = ss, series-a2-me.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=Bog0ELmMM9DSxDdQ, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2-mec.samanehha.co-443 | 172.01ms = ss, series-a2-mec.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2-mec.varzesh360.co-443 | 201.63ms = ss, series-a2-mec.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 181.99ms = ss, series-a2.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 210.56ms = ss, series-a2.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=mps3FwmDjLrWaOVg, tfo=false, udp-relay=true
+🇬🇧 GB🇬🇧 | series-a2.varzesh360.co-443 | 223.35ms = ss, series-a2.varzesh360.co, 443, encrypt-method=chacha20-ietf-poly1305, password=mps3FwmDjLrWaOVg, tfo=false, udp-relay=true
+🇭🇰 HK🇭🇰 | 149.104.30.179-22728 | 152.89ms = ss, 149.104.30.179, 22728, encrypt-method=2022-blake3-aes-256-gcm, password=15gEk+SZJqjC8Ct7g7xLbxeGjWc5kIXj9K6O4J2Yorc=, tfo=false, udp-relay=true
+🇮🇳 IN🇮🇳 | 103.111.114.29-57456 | 228.36ms = ss, 103.111.114.29, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇮🇳 IN🇮🇳 | 103.111.114.29-57456 | 278.9ms = ss, 103.111.114.29, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇮🇳 IN🇮🇳 | 82.180.146.173-30607 | 220.88ms = ss, 82.180.146.173, 30607, encrypt-method=aes-128-gcm, password=162629d7-cb17-43b1-82c9-f9c7ae6cba70, tfo=false, udp-relay=true
+🇮🇳 IN🇮🇳 | 82.180.146.173-30607 | 222.68ms = ss, 82.180.146.173, 30607, encrypt-method=aes-128-gcm, password=162629d7-cb17-43b1-82c9-f9c7ae6cba70, tfo=false, udp-relay=true
+🇮🇳 IN🇮🇳 | 82.180.146.173-35652 | 284.19ms = ss, 82.180.146.173, 35652, encrypt-method=aes-128-gcm, password=93498539-7838-4836-b9b3-8311ffc79bcf, tfo=false, udp-relay=true
+🇮🇸 IS🇮🇸 | 212.192.214.159-808 | 185.72ms = ss, 212.192.214.159, 808, encrypt-method=chacha20-ietf-poly1305, password=tvX1v#NSFP_LG_bJ, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 149.22.87.204-443 | 104.53ms = ss, 149.22.87.204, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 149.22.87.240-443 | 104.48ms = ss, 149.22.87.240, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 149.22.87.241-443 | 104.41ms = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 149.22.87.241-443 | 104.73ms = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 153.121.43.183-10087 | 104.81ms = ss, 153.121.43.183, 10087, encrypt-method=aes-128-gcm, password=10086, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 153.121.43.183-10087 | 104.98ms = ss, 153.121.43.183, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 153.121.51.214-10087 | 104.96ms = ss, 153.121.51.214, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 160.16.123.124-10087 | 106.82ms = ss, 160.16.123.124, 10087, encrypt-method=aes-128-gcm, password=10086, tfo=false, udp-relay=true
+🇯🇵 JP🇯🇵 | 160.16.123.124-10087 | 106.91ms = ss, 160.16.123.124, 10087, encrypt-method=aes-128-gcm, password=100867, tfo=false, udp-relay=true
+🇰🇷 KR🇰🇷 | 141.164.63.32-30936 | 129.82ms = ss, 141.164.63.32, 30936, encrypt-method=chacha20-ietf-poly1305, password=b25727df-15ea-453c-a006-13fe98fee1d2, tfo=false, udp-relay=true
+🇰🇷 KR🇰🇷 | 218.237.185.230-4652 | 130.44ms = ss, 218.237.185.230, 4652, encrypt-method=aes-256-cfb, password=qwerREWQ@@, tfo=false, udp-relay=true
+🇲🇾 MY🇲🇾 | 103.243.215.17-990 | 173.57ms = ss, 103.243.215.17, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 103.104.247.45-8080 | 150.58ms = ss, 103.104.247.45, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 103.104.247.47-8080 | 141.92ms = ss, 103.104.247.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 103.104.247.47-8080 | 146.6ms = ss, 103.104.247.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 103.104.247.49-8080 | 147.52ms = ss, 103.104.247.49, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 109.201.152.181-443 | 145.97ms = ss, 109.201.152.181, 443, encrypt-method=ss, password=//YWVzLTEyOC1jZmI6c2hhZG93c29ja3M, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 109.201.152.181-443 | 152.28ms = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 109.201.152.181-443 | 153.29ms = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 141.98.4.67-52952 | 177.07ms = ss, 141.98.4.67, 52952, encrypt-method=chacha20-ietf-poly1305, password=LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 141.98.4.67-52952 | 185.14ms = ss, 141.98.4.67, 52952, encrypt-method=chacha20-ietf-poly1305, password=LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 149.34.244.68-443 | 150.44ms = ss, 149.34.244.68, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 149.34.244.71-443 | 150.09ms = ss, 149.34.244.71, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 178.208.78.170-23822 | 147.72ms = ss, 178.208.78.170, 23822, encrypt-method=chacha20-ietf-poly1305, password=5vUWPtKW2smZ3iLGX0nsbt, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.157-8080 | 142.05ms = ss, 193.29.139.157, 8080, encrypt-method=chacha20-ietf-poly1305, password=4a2rfixophdjffa8KVA4Aa, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.164-8080 | 151.5ms = ss, 193.29.139.164, 8080, encrypt-method=chacha20-ietf-poly1305, password=cvII85TrW6n0OGyfpHVS1u, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.177-8080 | 141.89ms = ss, 193.29.139.177, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.188-8080 | 145.57ms = ss, 193.29.139.188, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.202-8080 | 152.51ms = ss, 193.29.139.202, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.209-8080 | 150.54ms = ss, 193.29.139.209, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.227-8080 | 145.48ms = ss, 193.29.139.227, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.235-8080 | 141.68ms = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.235-8080 | 150.44ms = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 193.29.139.240-8080 | 145.5ms = ss, 193.29.139.240, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 194.87.216.189-443 | 160.45ms = ss, 194.87.216.189, 443, encrypt-method=chacha20-ietf-poly1305, password=Ib9hxFZxUH4m7, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 194.87.31.68-443 | 155.72ms = ss, 194.87.31.68, 443, encrypt-method=chacha20-ietf-poly1305, password=R2UGad61FGO57, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 208.67.105.196-42029 | 161.08ms = ss, 208.67.105.196, 42029, encrypt-method=chacha20-ietf-poly1305, password=Fzf5vaXFs7oCY3Xb33aZ945xkhvFt2rrxdRBY9D3dQecNQKEXysBXb2eVPzDVb9iqM3iBhwJHEi5eWhzAXJXEP2vUwWCpZXD, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 208.67.105.196-42029 | 164.12ms = ss, 208.67.105.196, 42029, encrypt-method=chacha20-ietf-poly1305, password=SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 213.109.147.242-62685 | 163.46ms = ss, 213.109.147.242, 62685, encrypt-method=chacha20-ietf-poly1305, password=VpKABcOpNNA0l5G2AVOmw8, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 62.84.102.28-26923 | 146.44ms = ss, 62.84.102.28, 26923, encrypt-method=chacha20-ietf-poly1305, password=5yOoUqBpwEevaGQ7gMxC0F, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 89.110.74.148-46271 | 199.63ms = ss, 89.110.74.148, 46271, encrypt-method=chacha20-ietf-poly1305, password=OzPK9PcJr1NsWfm7T48LiC, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 89.23.103.229-443 | 155.46ms = ss, 89.23.103.229, 443, encrypt-method=chacha20-ietf-poly1305, password=pVnTzYAqXEHw7, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | 92.112.126.90-443 | 222.22ms = ss, 92.112.126.90, 443, encrypt-method=chacha20-ietf-poly1305, password=9tqhMdIrTkgQ46PvhyAtMH, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | promo1o.bystrivpn.ru-443 | 548.28ms = ss, promo1o.bystrivpn.ru, 443, encrypt-method=chacha20-ietf-poly1305, password=0NeN5ta7FLa5B9DLytU0um, tfo=false, udp-relay=true
+🇳🇱 NL🇳🇱 | promo9v.bystrivpn.ru-443 | 386.01ms = ss, promo9v.bystrivpn.ru, 443, encrypt-method=chacha20-ietf-poly1305, password=CxtcZaOSFYiJnloyTZJ0z2, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 2.59.163.101-2222 | 168.54ms = ss, 2.59.163.101, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 2.59.163.104-2222 | 163.11ms = ss, 2.59.163.104, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 2.59.163.105-2222 | 157.88ms = ss, 2.59.163.105, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 2.59.163.105-2222 | 168.56ms = ss, 2.59.163.105, 2222, encrypt-method=chacha20-ietf-poly1305, password=qscavF5UviIL-8V-E4raBA, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 217.30.10.18-9011 | 158.66ms = ss, 217.30.10.18, 9011, encrypt-method=aes-256-cfb, password=M3t2ZEQcMGRWBjRa, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 217.30.10.18-9060 | 168.97ms = ss, 217.30.10.18, 9060, encrypt-method=aes-256-cfb, password=ueLXVkvh4hckhErQ, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 217.30.10.70-9001 | 163.9ms = ss, 217.30.10.70, 9001, encrypt-method=aes-256-cfb, password=UkXRsXvR6buDMG2Y, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 217.30.10.70-9040 | 166.96ms = ss, 217.30.10.70, 9040, encrypt-method=aes-256-cfb, password=p9z5BVADH2YFs3MN, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 156.09ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 160.94ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 45.144.49.140-57456 | 166.63ms = ss, 45.144.49.140, 57456, encrypt-method=chacha20-ietf-poly1305, password=a58fa62b4944ddbf, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 168.37ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=isoXiXtEcjf0ZONTsICowY, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 169.11ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=ohS6DgVRx8GKyrO4UoxdW6, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 170.66ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=3I4glDZWnKHZSKHKYPyUm6, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 170.79ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=dZ2YvaTtYoVFWDekMk9XR6, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 170.99ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=PL7J6ZOVBQ31V2t1Z5pfAV, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 176.3ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=rCgQnJq4xgO6NDVmmGSGMT, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 77.83.246.74-443 | 233.06ms = ss, 77.83.246.74, 443, encrypt-method=chacha20-ietf-poly1305, password=B39hI4d4Hc5b4jyQc0Eupg, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 89.223.93.176-41348 | 174.25ms = ss, 89.223.93.176, 41348, encrypt-method=chacha20-ietf-poly1305, password=Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA7, tfo=false, udp-relay=true
+🇵🇱 PL🇵🇱 | 92.118.205.228-990 | 173.36ms = ss, 92.118.205.228, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | 45.139.24.24-57456 | 184.2ms = ss, 45.139.24.24, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇷🇺 RU🇷🇺 | 45.139.24.24-57456 | 185.61ms = ss, 45.139.24.24, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇸🇬 SG🇸🇬 | 174.138.17.254-52252 | 167.86ms = ss, 174.138.17.254, 52252, encrypt-method=chacha20-ietf-poly1305, password=1TdAdOggQYmujaoCVvHLZp, tfo=false, udp-relay=true
+🇸🇬 SG🇸🇬 | 64.176.85.73-1866 | 167.87ms = ss, 64.176.85.73, 1866, encrypt-method=chacha20-ietf-poly1305, password=oXGp1+ihlfKg826H, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 104.167.197.25-57456 | 68.36ms = ss, 104.167.197.25, 57456, encrypt-method=chacha20-ietf-poly1305, password=360e21d21977dc11, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 138.199.42.68-8080 | 50ms = ss, 138.199.42.68, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 144.126.146.38-30100 | 37.11ms = ss, 144.126.146.38, 30100, encrypt-method=chacha20-ietf-poly1305, password=741ddced-e6ee-4175-9c1a-e524009f90457, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 144.126.146.38-30100 | 56.07ms = ss, 144.126.146.38, 30100, encrypt-method=chacha20-ietf-poly1305, password=741ddced-e6ee-4175-9c1a-e524009f9045, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 144.126.146.38-30789 | 26.14ms = ss, 144.126.146.38, 30789, encrypt-method=chacha20-ietf-poly1305, password=8d73e088-dc5a-4dfe-8927-56351ee80407, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 144.126.146.38-30789 | 29.08ms = ss, 144.126.146.38, 30789, encrypt-method=chacha20-ietf-poly1305, password=8d73e088-dc5a-4dfe-8927-56351ee80407, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 156.146.38.168-443 | 43.48ms = ss, 156.146.38.168, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 156.146.38.169-443 | 43.35ms = ss, 156.146.38.169, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 173.244.56.6-443 | 15.59ms = ss, 173.244.56.6, 443, encrypt-method=aes-128-gcm, password=shadowsocks7, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 212.102.47.129-443 | 18.31ms = ss, 212.102.47.129, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 212.102.47.132-443 | 18.39ms = ss, 212.102.47.132, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 37.19.198.160-443 | 71.59ms = ss, 37.19.198.160, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 37.19.198.244-443 | 66.79ms = ss, 37.19.198.244, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 64.74.163.130-990 | 68.24ms = ss, 64.74.163.130, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 64.74.163.218-990 | 68.79ms = ss, 64.74.163.218, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 71.19.148.143-443 | 2.05ms = ss, 71.19.148.143, 443, encrypt-method=chacha20-ietf-poly1305, password=p78naCf2EfOlRSLTX0wFVx, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 71.19.148.74-443 | 2.99ms = ss, 71.19.148.74, 443, encrypt-method=chacha20-ietf-poly1305, password=gqkUCvmeOTghYJXF1YIuk5, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 74.50.98.185-8080 | 68.66ms = ss, 74.50.98.185, 8080, encrypt-method=chacha20-ietf-poly1305, password=Mju3ZSaa4QVk45mc, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 94.131.21.174-54075 | 179.82ms = ss, 94.131.21.174, 54075, encrypt-method=chacha20-ietf-poly1305, password=o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | 94.131.22.134-40565 | 179.59ms = ss, 94.131.22.134, 40565, encrypt-method=chacha20-ietf-poly1305, password=2JK8CwhNFuy3uQo5yHwHvRuEXKLnnrKW7T3snXFQ25yt27PGLKoLXMFrSFFoVgB5SQMeAHx8ZaQXx9mAY55cYskUyVaP6Rum7, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | h110vpnus.outlinekeys.net-9483 | 394.74ms = ss, h110vpnus.outlinekeys.net, 9483, encrypt-method=chacha20-ietf-poly1305, password=nLwAl3svNCBPtG9I2FrVYI, tfo=false, udp-relay=true
+🇺🇸 US🇺🇸 | hackney-latest-strike.freesocks.work-443 | 292.26ms = ss, hackney-latest-strike.freesocks.work, 443, encrypt-method=chacha20-ietf-poly1305, password=XUMTygEM1jVYIvysXKqA5T, tfo=false, udp-relay=true
