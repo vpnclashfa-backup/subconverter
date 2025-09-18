@@ -2,4 +2,4 @@
 
 TR | 🔒 SS | @outline_ir [8] = ss, 5.188.36.93, 31348, encrypt-method=chacha20-ietf-poly1305, password=nYRhTCZdQLExK6ewVHgHS2mlv4FCysKyeyTTfhRdEgdeeRN0, tfo=false, udp-relay=true
 TR | 🔒 SS | @outline_ir [9] = ss, 5.188.168.230, 31348, encrypt-method=chacha20-ietf-poly1305, password=gB7OeNZVCOsZGKThvJlcO9JuiVsUgLPa8QHjADFho5cvGy4v, tfo=false, udp-relay=true
-TR | 🔒 SS | @v2aryng_vpn [9] = ss, 62.133.63.18, 443, encrypt-method=chacha20-ietf-poly1305, password=pW9XyPqxtSX1, tfo=false, udp-relay=true
+TR | 🔒 SS | @v2aryng_vpn [8] = ss, 62.133.63.18, 443, encrypt-method=chacha20-ietf-poly1305, password=pW9XyPqxtSX1, tfo=false, udp-relay=true
