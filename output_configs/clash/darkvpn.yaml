@@ -1,4 +1,5 @@
 proxies:
+  - {name: "@ERFWP عضو شو", server: ERFWPtelegram.vinamarketcenter.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 1d5f8279-6324-438f-d331-5ce427c1bb35, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Cloud CDN - IRDevs 1, server: gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: Gkh7IMoMi--3t3XCSTZt8pp4dlzuESKn.PAgeS.dEV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: Cloud CDN - IRDevs 2, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: Cloud CDN - IRDevs 3, server: 172.66.44.59, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6bae6ff-4e6b-40ad-8277-43ae2d71cde8, servername: gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
@@ -40,8 +41,8 @@ proxies:
   - {name: OVH, server: serkat.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: serkat.org, network: ws, ws-path: linkvws, ws-headers: {Host: serkat.org}, udp: true, tfo: false}
   - {name: ProxyCloud, server: 64.227.41.160, port: 57996, type: vless, tls: true, packet-encoding: xudp, uuid: ff3685d5-f031-46d3-88c0-0b6b0d1f1558, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud 2, server: 64.225.9.191, port: 25023, type: vless, tls: true, packet-encoding: xudp, uuid: 6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ProxyCloud DO, server: 206.189.135.13, port: 41856, type: vless, tls: true, packet-encoding: xudp, uuid: 895a39fb-6c32-49af-b04d-efecc1f6c5fb, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ProxyCloud DO 2, server: 170.64.154.27, port: 20651, type: vless, tls: true, packet-encoding: xudp, uuid: dda40179-f8b0-44a1-9926-bb64e7a767a7, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ProxyCloud DO, server: 170.64.154.27, port: 20651, type: vless, tls: true, packet-encoding: xudp, uuid: dda40179-f8b0-44a1-9926-bb64e7a767a7, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ProxyCloud DO 2, server: 206.189.135.13, port: 41856, type: vless, tls: true, packet-encoding: xudp, uuid: 895a39fb-6c32-49af-b04d-efecc1f6c5fb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud DO 3, server: 159.223.209.139, port: 46964, type: vless, tls: true, packet-encoding: xudp, uuid: 4bb35928-40bb-4bf3-95f1-9efdc4169147, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud DO 2 2, server: 139.59.46.188, port: 37548, type: vless, tls: true, packet-encoding: xudp, uuid: 976191fd-e929-467e-98b4-1349f58907d5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ProxyCloud DO 2 3, server: 165.22.200.45, port: 45323, type: vless, tls: true, packet-encoding: xudp, uuid: 3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d, skip-cert-verify: false, udp: true, tfo: false}
