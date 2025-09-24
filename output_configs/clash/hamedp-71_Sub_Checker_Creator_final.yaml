@@ -21,73 +21,6 @@ proxies:
   - {name: 17 hamedp71 - Vless, server: codepen.io, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18 hamedp71 - Vless, server: hubspot.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19 hamedp71 - Vless, server: surfiran.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1_100_1787, server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_101_1836, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
-  - {name: 1_112_1875, server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
-  - {name: 1_113_1844, server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
-  - {name: 1_114_1888, server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
-  - {name: 1_116_1861, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
-  - {name: 1_117_1830, server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
-  - {name: 1_118_1841, server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
-  - {name: 1_119_1853, server: 217.30.10.70, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
-  - {name: 1_120_1891, server: 217.30.10.70, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true, tfo: false}
-  - {name: 1_122_1886, server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: 1_123_1802, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
-  - {name: 1_124_1799, server: 217.30.10.70, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
-  - {name: 1_125_1838, server: 217.30.10.70, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
-  - {name: 1_126_1755, server: 217.30.10.70, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true, tfo: false}
-  - {name: 1_128_1809, server: 217.30.10.70, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
-  - {name: 1_129_1762, server: 217.30.10.70, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX, udp: true, tfo: false}
-  - {name: 1_130_1803, server: 217.30.10.70, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
-  - {name: 1_131_1816, server: 217.30.10.70, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
-  - {name: 1_132_1800, server: 217.30.10.70, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true, tfo: false}
-  - {name: 1_133_1821, server: 217.30.10.70, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
-  - {name: 1_134_1746, server: 217.30.10.70, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
-  - {name: 1_135_1863, server: 217.30.10.70, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
-  - {name: 1_136_1779, server: 217.30.10.70, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true, tfo: false}
-  - {name: 1_137_1829, server: 217.30.10.70, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true, tfo: false}
-  - {name: 1_138_1856, server: 217.30.10.70, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
-  - {name: 1_139_1763, server: 217.30.10.70, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
-  - {name: 1_140_1855, server: 217.30.10.70, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
-  - {name: 1_141_1831, server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
-  - {name: 1_142_1835, server: 217.30.10.70, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true, tfo: false}
-  - {name: 1_143_1857, server: 217.30.10.70, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
-  - {name: 1_144_1812, server: 217.30.10.70, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
-  - {name: 1_145_1820, server: 217.30.10.70, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
-  - {name: 1_146_1750, server: 217.30.10.70, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: 1_148_1759, server: 217.30.10.70, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
-  - {name: 1_150_1869, server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
-  - {name: 1_151_1873, server: 217.30.10.70, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true, tfo: false}
-  - {name: 1_152_1870, server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
-  - {name: 1_153_1790, server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
-  - {name: 1_154_1760, server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
-  - {name: 1_231_1834, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
-  - {name: 1_240_1804, server: 217.30.10.70, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
-  - {name: 1_244_1805, server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
-  - {name: 1_245_1823, server: 217.30.10.70, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
-  - {name: 1_248_1865, server: 217.30.10.70, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
-  - {name: 1_250_1815, server: 217.30.10.70, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true, tfo: false}
-  - {name: 1_264_1880, server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
-  - {name: 1_281_1748, server: 80.92.204.106, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
-  - {name: 1_292_1868, server: 185.237.185.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_299_1788, server: 217.30.10.70, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
-  - {name: 1_326_1786, server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
-  - {name: 1_349_1811, server: 217.30.10.18, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
-  - {name: 1_352_1877, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
-  - {name: 1_370_1885, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_42_1848, server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_46_1777, server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
-  - {name: 1_47_1776, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
-  - {name: 1_49_1845, server: 192.71.166.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_56_1832, server: 62.100.205.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 1_60_1866, server: 217.30.10.18, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
-  - {name: 1_61_1890, server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true, tfo: false}
-  - {name: 1_74_1782, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
-  - {name: 1_75_1859, server: 217.30.10.18, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
-  - {name: 1_76_1791, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
-  - {name: 1_77_1887, server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
-  - {name: 1_80_1824, server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
-  - {name: 1_94_1840, server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: 2 hamedp71 - Vless, server: vinted.fr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 20 hamedp71 - Vless, server: tappersia.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 21 hamedp71 - Vless, server: didnegar.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -104,145 +37,227 @@ proxies:
   - {name: 7 hamedp71 - Vless, server: thailandnet65.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8 hamedp71 - Vless, server: tgju.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 9 hamedp71 - Vless, server: cdnjs.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d18fc67-1994-4f7e-8ff8-c024223f33bb, servername: revcloud.migacpi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: HK_82, server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: Hysteria2, server: 91.98.79.239, port: 29111, type: hysteria2, ports: 29111, password: f599eb06-508a-4e24-9d59-4c50bf0332b9, obfs: salamander, obfs-password: zVwQtP96XEO8ylpQ, sni: plaza.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IQ_98, server: 91.132.94.200, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: JNIR-IPv4-(No-ECH), server: dir.cybsecguru.com, port: 35000, type: hysteria2, ports: 35000, password: 4e5fdf31-1aac-419c-9a95-c43be04adcb2, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: JNIR-IPv6-(No-ECH), server: dir.cybsecguru.com, port: 35000, type: hysteria2, ports: 35000, password: 4e5fdf31-1aac-419c-9a95-c43be04adcb2, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Join Telegram:@Farah_VPN, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: KR_100, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: MK_151, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: PL_29, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true, tfo: false}
-  - {name: RO_164, server: 89.46.238.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: RU_53 |49.52Mb, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: SS-TCP-NA  AR-190.103.176.32:989, server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: SS-TCP-NA  TR-62.60.233.173:2222, server: 62.60.233.173, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA, udp: true, tfo: false}
-  - {name: SS-TCP-NA  VN-103.186.154.23:38388, server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: WS direct vless, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: plaza.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ZZ_228, server: 103.186.154.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_229, server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_230, server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_231, server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_232, server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_233, server: 103.186.155.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_234, server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_235, server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_236, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_237, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_238, server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_239, server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_240, server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_241, server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_242, server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_243, server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_244, server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_245, server: 185.231.233.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: ZZ_246, server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_248, server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_249, server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_250, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_251, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_252, server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_253, server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: ZZ_254, server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: _01, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: _11, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
-  - {name: _20, server: 37.235.49.152, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: _26, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: _27, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: _hamedp71_hy2, server: net2025.afsharidempire.uk, port: 30205, type: hysteria2, ports: 30205, password: 8864aa9f-7517-4fd5-aef1-32050eb3095d, obfs: salamander, obfs-password: GdQ4bgvT8RFwuWi2, sni: net2025.afsharidempire.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: abbasdvd.2023_17, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
-  - {name: abbasdvd.2023_1852, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: abbasdvd.2023_247, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: abbasdvd.2023_65, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: github.com/Ruk1ng001_3134323237626462, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: github.com/Ruk1ng001_3232313539623666, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: github.com/Ruk1ng001_6438373236663130, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: grpc direct vless, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: plaza.ir, alpn: [h2], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hP71, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
-  - {name: haisto_185, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: hamedp7-14, server: bluehost.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-, server: 103.186.154.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-1, server: braze.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-1 2, server: snipaste5.speedip.eu.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-1 3, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-1 4, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-1-2, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-1-3, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-1-4, server: snipaste5.speedip.eu.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-1-5, server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-1-V, server: nkang2replace.airlineshoma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hamedp71-10, server: npmjs.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-10 2, server: 104.26.12.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-10 3, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-10 4, server: 104.26.12.31, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-10-2, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-10-3, server: 104.26.12.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-10-4, server: 104.26.12.31, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-10-5, server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-10-V, server: openai.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-100, server: 217.30.10.70, port: 9001, type: ss, cipher: aes-256-c, password: UkXRsXvR6buDMG2Y, udp: true, tfo: false}
   - {name: hamedp71-101, server: snipaste4.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-101-2, server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-c, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: hamedp71-102-2, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-c, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
+  - {name: hamedp71-103-2, server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-c, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: hamedp71-104, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-105, server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-c, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: hamedp71-106-2, server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-c, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
+  - {name: hamedp71-107-2, server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-c, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: hamedp71-108, server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-c, password: U6qnYRhfyDmn8sgn, udp: true, tfo: false}
+  - {name: hamedp71-109, server: 217.30.10.70, port: 9024, type: ss, cipher: aes-256-c, password: BejrQvtu9sqUeNuZ, udp: true, tfo: false}
   - {name: hamedp71-11, server: nodejs.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-11 2, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-11-2, server: 104.26.12.31, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-11-3, server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-11-V, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-110, server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: hamedp71-111, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: hamedp71-112, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-113, server: 107.151.182.253, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: hamedp71-114, server: 23.251.121.242, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: hamedp71-115, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-116, server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: hamedp71-117, server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-118, server: 37.235.49.168, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-119, server: 62.60.233.173, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA, udp: true, tfo: false}
   - {name: hamedp71-12, server: fonts.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-12-2, server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-12-V, server: kifpool.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-120, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-121-2, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-122, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-c, password: shadowsocks, udp: true, tfo: false}
+  - {name: hamedp71-123, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-124, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-125, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-128, server: 107.173.127.166, port: 25000, type: hysteria2, ports: 25000, password: 37afff84-34bd-4db6-b24a-7d73d2ed48ce, sni: www.apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-129, server: 198.23.130.211, port: 25000, type: hysteria2, ports: 25000, password: 37afff84-34bd-4db6-b24a-7d73d2ed48ce, sni: api.push.apple.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hamedp71-13, server: w3.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-13-2, server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-13-V, server: indeed.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-130, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-131, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-132, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-133, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: hamedp71-134, server: hk1.shiyuandian.shop, port: 24591, type: hysteria2, ports: 24591, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, sni: hk1.shiyuandian.shop, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-14-2, server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-14-V, server: autotrader.co.uk, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hamedp71-15, server: ahrefs.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-15-2, server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-16, server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-16-2, server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-17, server: codepen.io, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-17-2, server: 185.231.233.112, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: hamedp71-18, server: hubspot.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-18-2, server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-19, server: surfiran.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-19-2, server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-2, server: vinted.fr, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-2 2, server: 104.26.13.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-2 3, server: snipaste4.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-2 4, server: vless-10.webn.cc, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-2-2, server: vless-10.webn.cc, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-2-3, server: snipaste4.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-2-4, server: 104.26.13.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-2-5, server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-2-V, server: zula.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hamedp71-20, server: tappersia.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-20-2, server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-21, server: didnegar.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-21 2, server: snipaste3.speedip.eu.org, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-21-2, server: snipaste3.speedip.eu.org, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-21-3, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-22, server: ihiran.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-22-2, server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-23, server: vandiet.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-23-2, server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-24, server: check-host.net, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-24-2, server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-25, server: db-ip.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-25-2, server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-26, server: hunter.io, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-26-2, server: 91.132.94.200, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: hamedp71-27, server: mvps.net, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-27-2, server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-c, password: qwerREWQ@@, udp: true, tfo: false}
   - {name: hamedp71-28, server: example.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-28-2, server: 89.46.238.35, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-29, server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: hamedp71-3, server: indeed.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-3 2, server: vless-10.webn.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-3 3, server: snipaste1.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-3 4, server: snipaste2.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-3-2, server: vless-10.webn.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-3-3, server: snipaste1.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-3-4, server: snipaste2.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-3-5, server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-3-V, server: openai.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-30, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-c, password: shadowsocks, udp: true, tfo: false}
   - {name: hamedp71-31, server: snipaste2.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-4, server: vless-10.webn.cc, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-4 2, server: economist.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-4 3, server: snipaste3.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-4 4, server: snipaste4.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-31-2, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-32, server: 37.235.49.152, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-33, server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-34, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-35, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-36, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-c, password: GA9KzeEgvfxNrgmM, udp: true, tfo: false}
+  - {name: hamedp71-37-2, server: 154.223.20.79, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-38-2, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-c, password: shadowsocks, udp: true, tfo: false}
+  - {name: hamedp71-39, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-4, server: economist.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-4-2, server: vless-10.webn.cc, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-4-3, server: snipaste3.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-4-4, server: snipaste4.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-4-5, server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-4-V, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-40, server: 38.110.1.17, port: 8009, type: ss, cipher: aes-256-g, password: XKFKl2rULjIp74, udp: true, tfo: false}
   - {name: hamedp71-41, server: snipaste1.speedip.eu.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-5, server: snipaste3.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-5 2, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-5 3, server: snipaste5.speedip.eu.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-5 4, server: autotrader.co.uk, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-41-2, server: 217.30.10.70, port: 9098, type: ss, cipher: aes-256-c, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: hamedp71-42, server: 80.92.204.106, port: 9070, type: ss, cipher: aes-256-c, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
+  - {name: hamedp71-43, server: 217.30.10.70, port: 9088, type: ss, cipher: aes-256-c, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: hamedp71-44, server: 217.30.10.70, port: 9050, type: ss, cipher: aes-256-c, password: FG5ddLsMPbV5CutE, udp: true, tfo: false}
+  - {name: hamedp71-45, server: 217.30.10.70, port: 9059, type: ss, cipher: aes-256-c, password: 9XwYyZsK8SNzQDtY, udp: true, tfo: false}
+  - {name: hamedp71-46, server: 217.30.10.70, port: 9057, type: ss, cipher: aes-256-c, password: wjTugX3ZtHMB9c3Z, udp: true, tfo: false}
+  - {name: hamedp71-47, server: 217.30.10.70, port: 9053, type: ss, cipher: aes-256-c, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: hamedp71-48, server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-c, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
+  - {name: hamedp71-49, server: 217.30.10.70, port: 9073, type: ss, cipher: aes-256-c, password: daFYagqDdBdA6VTX, udp: true, tfo: false}
+  - {name: hamedp71-5, server: autotrader.co.uk, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-5-2, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-5-3, server: snipaste5.speedip.eu.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-5-4, server: snipaste3.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-5-5, server: 103.186.155.25, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-5-V, server: kifpool.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-50, server: 217.30.10.70, port: 9003, type: ss, cipher: aes-256-c, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
   - {name: hamedp71-51, server: snipaste5.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-51-2, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-c, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
+  - {name: hamedp71-52, server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-c, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
+  - {name: hamedp71-53, server: 217.30.10.70, port: 9020, type: ss, cipher: aes-256-c, password: BNmAXXxAHYpTRdzu, udp: true, tfo: false}
+  - {name: hamedp71-54, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-c, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
+  - {name: hamedp71-55, server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-c, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
+  - {name: hamedp71-56, server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-57-2, server: 217.30.10.70, port: 9042, type: ss, cipher: aes-256-c, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
+  - {name: hamedp71-58, server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-c, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: hamedp71-59, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-c, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
   - {name: hamedp71-6, server: ico.org.uk, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-6 2, server: 104.26.13.31, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-6 3, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-6 4, server: 104.26.12.31, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-6-2, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-6-3, server: 104.26.13.31, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-6-4, server: 104.26.12.31, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-6-5, server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-6-V, server: indeed.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-60, server: 217.30.10.70, port: 9070, type: ss, cipher: aes-256-c, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
   - {name: hamedp71-61, server: snipaste4.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-7, server: snipaste2.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-7 2, server: snipaste1.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-7 3, server: thailandnet65.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-7 4, server: 104.26.13.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-61-2, server: 217.30.10.70, port: 9014, type: ss, cipher: aes-256-c, password: KnJGad3FqTvjqbaX, udp: true, tfo: false}
+  - {name: hamedp71-62, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-c, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
+  - {name: hamedp71-63, server: 217.30.10.70, port: 9006, type: ss, cipher: aes-256-c, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
+  - {name: hamedp71-64, server: 217.30.10.70, port: 9043, type: ss, cipher: aes-256-c, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: hamedp71-65, server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-c, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: hamedp71-66-2, server: 217.30.10.70, port: 9046, type: ss, cipher: aes-256-c, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: hamedp71-67, server: 217.30.10.18, port: 9040, type: ss, cipher: aes-256-c, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
+  - {name: hamedp71-68, server: 217.30.10.70, port: 9064, type: ss, cipher: aes-256-c, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
+  - {name: hamedp71-69, server: 217.30.10.70, port: 9010, type: ss, cipher: aes-256-c, password: f63gg8EruDnUrmz4, udp: true, tfo: false}
+  - {name: hamedp71-7, server: thailandnet65.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-7-2, server: 104.26.13.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-7-3, server: snipaste2.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-7-4, server: snipaste1.speedip.eu.org, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-7-5, server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-7-V, server: autotrader.co.uk, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-70, server: 217.30.10.70, port: 9056, type: ss, cipher: aes-256-c, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
   - {name: hamedp71-71, server: 104.26.13.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-71-2, server: 217.30.10.70, port: 9025, type: ss, cipher: aes-256-c, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: hamedp71-72, server: 217.30.10.70, port: 9079, type: ss, cipher: aes-256-c, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
+  - {name: hamedp71-73-2, server: 217.30.10.70, port: 9097, type: ss, cipher: aes-256-c, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: hamedp71-74-2, server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-c, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
+  - {name: hamedp71-75, server: 217.30.10.70, port: 9045, type: ss, cipher: aes-256-c, password: Lp27rqyJq72bZsqX, udp: true, tfo: false}
+  - {name: hamedp71-76-2, server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-c, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: hamedp71-77, server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-c, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: hamedp71-78, server: 62.100.205.48, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-79-2, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-c, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
   - {name: hamedp71-8, server: tgju.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-8 2, server: 104.26.12.31, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-8 3, server: 104.26.13.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-8 4, server: snipaste5.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-8-2, server: 104.26.12.31, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-8-3, server: snipaste5.speedip.eu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-8-4, server: 104.26.13.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-8-5, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-8-V, server: nkang2replace.airlineshoma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-80, server: 217.30.10.70, port: 9037, type: ss, cipher: aes-256-c, password: TN2YqghxeFDKZfLU, udp: true, tfo: false}
   - {name: hamedp71-81, server: 104.26.12.31, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-9, server: snipaste4.speedip.eu.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-9 2, server: snipaste3.speedip.eu.org, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-9 3, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedp71-9 4, server: cdnjs.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-81-2, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-c, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: hamedp71-82, server: 217.30.10.70, port: 9032, type: ss, cipher: aes-256-c, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
+  - {name: hamedp71-83, server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: hamedp71-84, server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-c, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
+  - {name: hamedp71-85-2, server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-c, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: hamedp71-86, server: 192.71.166.100, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-87, server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-88, server: 217.30.10.70, port: 9005, type: ss, cipher: aes-256-c, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
+  - {name: hamedp71-89, server: 217.30.10.70, port: 9011, type: ss, cipher: aes-256-c, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
+  - {name: hamedp71-9, server: cdnjs.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 47e329b1-2ff6-48a2-90af-25a03fc70083, servername: frageu2.cpi2hidd.eu.org, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-9-2, server: vless-10.webn.cc, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-9-3, server: snipaste3.speedip.eu.org, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 7a726307-4a2d-4b9b-abca-cf1e5dabd7b7, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-9-4, server: snipaste4.speedip.eu.org, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b67d8a57-e335-497b-afeb-f4ead830c834, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-9-5, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-c, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: hamedp71-9-V, server: zula.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b754b53a-aaf5-475c-eeed-46806c2aa63f, servername: nkang2replace.airlineshoma.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-90-2, server: 217.30.10.70, port: 9040, type: ss, cipher: aes-256-c, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
   - {name: hamedp71-91, server: snipaste1.speedip.eu.org, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6877b96c-a092-4f90-8e46-cbb4cad2bb9f, servername: vless-10.webn.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedp71-91-2, server: 217.30.10.70, port: 9018, type: ss, cipher: aes-256-c, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: hamedp71-92-2, server: 217.30.10.18, port: 9006, type: ss, cipher: aes-256-c, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
+  - {name: hamedp71-93-2, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-c, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: hamedp71-94, server: 217.30.10.70, port: 9000, type: ss, cipher: aes-256-c, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: hamedp71-95-2, server: 217.30.10.70, port: 9084, type: ss, cipher: aes-256-c, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
+  - {name: hamedp71-96-2, server: 217.30.10.18, port: 9056, type: ss, cipher: aes-256-c, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
+  - {name: hamedp71-97, server: 185.237.185.160, port: 989, type: ss, cipher: aes-256-c, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: hamedp71-98, server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-c, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
+  - {name: hamedp71-99-2, server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-c, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
   - {name: http upgrade direct vless, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: plaza.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: reality tcp direct vless, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: tempail.com, alpn: [http%2F1.1], flow: xtls-rprx-vision, reality-opts: {public-key: 6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8, short-id: f47f400cc96a4e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tls WS CDN vless-trojan, server: net2026cd.zanddynastyofpersia.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ec8c120-33fa-4658-9bed-3a51cb04c55c, servername: net2026cd.zanddynastyofpersia.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -251,17 +266,3 @@ proxies:
   - {name: tls WS direct vless-frag, server: net2026.zanddynastyofpersia.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ec8c120-33fa-4658-9bed-3a51cb04c55c, servername: net2026.zanddynastyofpersia.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tls xhttp direct vless dl-h2, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: plaza.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
   - {name: xhttp direct vless dl-h1, server: 91.98.79.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f599eb06-508a-4e24-9d59-4c50bf0332b9, servername: plaza.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: yandex-100, server: 198.23.130.211, port: 25000, type: hysteria2, ports: 25000, password: 37afff84-34bd-4db6-b24a-7d73d2ed48ce, sni: api.push.apple.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: yandex-99, server: 107.173.127.166, port: 25000, type: hysteria2, ports: 25000, password: 37afff84-34bd-4db6-b24a-7d73d2ed48ce, sni: www.apple.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 中国 - 香港 - Ultahost, Inc. - 8", server: hk1.shiyuandian.shop, port: 24591, type: hysteria2, ports: 24591, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, sni: hk1.shiyuandian.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇸 SS-TCP-NA  IS-37.235.49.168:989, server: 37.235.49.168, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA  NL-51.15.23.63:989, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA  NL-79.127.227.53:989, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 🇷🇺 _RU_俄罗斯_157_1758, server: 217.30.10.70, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z, udp: true, tfo: false}
-  - {name: 🇷🇺 _RU_俄罗斯_183_1757, server: 217.30.10.70, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true, tfo: false}
-  - {name: 🇺🇸 @Vip_Security join us - 400, server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA  US-107.151.182.253:8080, server: 107.151.182.253, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA  US-23.251.121.242:8080, server: 23.251.121.242, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA  US-79.110.53.169:8080, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 🇺🇸 United States, server: 38.110.1.17, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
-  - {name: 🇻🇳 越南 - Hải Dương - FASTLY - 2, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
