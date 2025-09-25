@@ -1,7 +1,9 @@
 proxies:
+  - {name: "@Daily_Configs", server: 194.4.49.217, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2844ed48-493d-43ca-a13e-76df8e444de0, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran", server: 141.227.170.186, port: 34024, type: vless, tls: true, packet-encoding: xudp, uuid: f894d5%65d-530d-4f9f-%61b7d-468bf8%61c5dd%61, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@mehrosaboran 2", server: 141.227.166.177, port: 37421, type: vless, tls: true, packet-encoding: xudp, uuid: 75d%656b1d-5180-41d%65-b2%658-471c99c3c780, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@mehrosaboran 3", server: 141.227.174.30, port: 32657, type: vless, tls: true, packet-encoding: xudp, uuid: 24244970-2b14-47%656-b0c1-95c%65cc9bcc3c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@mehrosaboran 2", server: 141.227.172.235, port: 57249, type: vless, tls: true, packet-encoding: xudp, uuid: d%65332b56-8c%61%65-4cf7-92%611-19%659f5647c%650, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@mehrosaboran 3", server: 141.227.166.177, port: 37421, type: vless, tls: true, packet-encoding: xudp, uuid: 75d%656b1d-5180-41d%65-b2%658-471c99c3c780, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@mehrosaboran 4", server: 141.227.176.48, port: 10227, type: vless, tls: true, packet-encoding: xudp, uuid: b%611fc4f%65-c5%615-4%61d3-b4%652-f02%65cffd992%65, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy", server: sss21653.tas-bazi.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee845a26-9d15-4cac-b3a0-fc0c0c8135af, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy 2", server: 45.82.251.121, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy 3", server: 185.33.24.229, port: 28495, type: vless, tls: true, packet-encoding: xudp, uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1, servername: dl.google.com, reality-opts: {public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ, short-id: 0ecc2c1392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}

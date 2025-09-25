@@ -1,5 +1,4 @@
 proxies:
-  - {name: "@Daily_Configs", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@mehrosaboran", server: 141.227.172.235, port: 57249, type: vless, tls: true, packet-encoding: xudp, uuid: d%65332b56-8c%61%65-4cf7-92%611-19%659f5647c%650, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@mehrosaboran 2", server: 141.227.166.177, port: 37421, type: vless, tls: true, packet-encoding: xudp, uuid: 75d%656b1d-5180-41d%65-b2%658-471c99c3c780, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Daily_Configs", server: 194.4.49.217, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2844ed48-493d-43ca-a13e-76df8e444de0, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Daily_Configs 2", server: 185.234.66.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b5e8bfe7-6cdb-402d-b243-1e0f53ebb582, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy", server: 45.82.251.121, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, skip-cert-verify: false, udp: true, tfo: false}
