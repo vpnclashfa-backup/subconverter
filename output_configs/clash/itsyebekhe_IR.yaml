@@ -1,5 +1,4 @@
 proxies:
-  - {name: "IR | 🔒 VLESS | @hope_net [15]", server: 31.14.116.155, port: 8000, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, servername: vless.ifx.us.kg, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @lax_vpn [1]", server: s19.speedyconnect.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97dce074-7db1-4d59-99ca-0ef8311e2425, servername: s19.speedyconnect.pro, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @orange_vpns [3]", server: 193.151.135.21, port: 44443, type: vless, tls: true, packet-encoding: xudp, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, servername: www.speedtest.net, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔒 VLESS | @v2aryng_vpn [2]", server: hybrid.arvancloud.online, port: 44443, type: vless, tls: true, packet-encoding: xudp, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, servername: www.speedtest.net, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -41,7 +40,6 @@ proxies:
   - {name: "IR | 🔓 VLESS | @golf_vpn [7]", server: s14.leaders711.top, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: 341a1b4e-3a62-4367-bb57-ae744cfffaba, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @golf_vpn [8]", server: s14.leaders711.top, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: b7b52207-3f71-4f97-87c8-7d18810c6ee0, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @golf_vpn [9]", server: s15.leader21.top, port: 5054, type: vless, tls: true, packet-encoding: xudp, uuid: 7a7d2067-3ebd-4b25-9b00-13f35ea41a7a, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @hope_net [18]", server: 79.127.70.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 672a7a10-7e7a-40c6-8a45-2b2f799ae1dc, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @hormozvpn [1]", server: 92.114.24.92, port: 9985, type: vless, tls: true, packet-encoding: xudp, uuid: f95d9904-b801-4e91-af1b-63d2b30cb7f8, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @hormozvpn [2]", server: 92.114.24.92, port: 8989, type: vless, tls: true, packet-encoding: xudp, uuid: 8ed580b9-4823-4cb0-9d75-ad51bae94da0, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @hormozvpn [3]", server: 92.114.24.92, port: 8989, type: vless, tls: true, packet-encoding: xudp, uuid: 8ed580b9-4823-4cb0-9d75-ad51bae94da0, skip-cert-verify: false, udp: true, tfo: false}
@@ -99,7 +97,8 @@ proxies:
   - {name: "IR | 🔓 VLESS | @vaynora [2]", server: vaynora.imlast.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ce32e82a-8115-452b-a2bf-a2b1672f83c4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @vaynora [3]", server: vaynora.imlast.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ce32e82a-8115-452b-a2bf-a2b1672f83c4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @vipv2rey [39]", server: 46.102.136.69, port: 57803, type: vless, tls: true, packet-encoding: xudp, uuid: 5b5c6557-d611-4c6f-a43b-a2c48c0b541d, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @vmesc [19]", server: 89.44.242.222, port: 29500, type: vless, tls: true, packet-encoding: xudp, uuid: 888a20e2-fc3f-4f52-973c-36a6386225b8, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @vmesc [16]", server: 89.44.242.222, port: 29500, type: vless, tls: true, packet-encoding: xudp, uuid: 888a20e2-fc3f-4f52-973c-36a6386225b8, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @vmesc [20]", server: 89.44.242.222, port: 29495, type: vless, tls: true, packet-encoding: xudp, uuid: 4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @vpnfastservice [1]", server: tt1.hennessypro.site, port: 4001, type: vless, tls: true, packet-encoding: xudp, uuid: 062c145d-30ec-4e48-93d0-36094ef84d10, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @vpnfastservice [2]", server: tt1.hennessypro.site, port: 4001, type: vless, tls: true, packet-encoding: xudp, uuid: 3261a195-57f6-4a78-b4e6-a239d75dfc67, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @vpnfastservice [3]", server: tt1.hennessypro.site, port: 4001, type: vless, tls: true, packet-encoding: xudp, uuid: db3aa917-1354-42a8-a421-3467d74124dd, skip-cert-verify: false, udp: true, tfo: false}

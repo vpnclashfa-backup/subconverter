@@ -1,8 +1,7 @@
 proxies:
   - {name: "TR | 🔒 SS | @manzariyeh_rasht [5]", server: 83.217.9.4, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: v2LBhok5lvjR, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @outline_ir [18]", server: 77.83.245.169, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: X2ocJWZohXrE, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @outline_ir [8]", server: 83.217.9.64, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: MgEU8qSlwf53, udp: true, tfo: false}
-  - {name: "TR | 🔒 SS | @prrofile_purple [133]", server: 83.217.9.4, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: v2LBhok5lvjR, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @outline_ir [12]", server: 77.83.245.169, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: X2ocJWZohXrE, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @outline_ir [2]", server: 83.217.9.64, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: MgEU8qSlwf53, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @Fr33C0nfig [6]", server: 62.60.233.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0cdd44-2361-11f0-9970-45e1d80c4039, servername: images.apple.com, flow: xtls-rprx-vision, reality-opts: {public-key: MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw, short-id: 4476a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @netmellianti [8]", server: ardagulerturk.gojustore.site, port: 7033, type: vless, tls: true, packet-encoding: xudp, uuid: e265fc78-e269-46b2-9b6a-85f573dab3d5, servername: www.telewebion.com, reality-opts: {public-key: iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE, short-id: 16b6cda7ab793526}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @proxyfn [8]", server: 212.64.193.3, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 3fd3a47a-ae18-41c2-a426-d3ca21287aec, servername: www.discord.com, skip-cert-verify: false, udp: true, tfo: false}
