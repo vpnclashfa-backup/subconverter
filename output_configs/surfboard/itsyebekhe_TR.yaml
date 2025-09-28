@@ -2,5 +2,5 @@
 
 TR | 🔒 SS | @manstervpn [67] = ss, 83.217.9.64, 443, encrypt-method=chacha20-ietf-poly1305, password=MgEU8qSlwf53, tfo=false, udp-relay=true
 TR | 🔒 SS | @manstervpn [68] = ss, 62.133.63.18, 443, encrypt-method=chacha20-ietf-poly1305, password=pW9XyPqxtSX1, tfo=false, udp-relay=true
-TR | 🔒 SS | @v2ray_free_conf [11] = ss, 45.89.52.66, 9014, encrypt-method=aes-256-cfb, password=KnJGad3FqTvjqbaX, tfo=false, udp-relay=true
-TR | 🔓 VMESS | @prrofile_purple [148] = vmess, 164.138.202.114, 21639, username=ea4f2a2a-601c-4340-81b4-4b360eff4f61, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+TR | 🔒 SS | @prrofile_purple [133] = ss, 83.217.9.4, 443, encrypt-method=chacha20-ietf-poly1305, password=v2LBhok5lvjR, tfo=false, udp-relay=true
+TR | 🔒 SS | @vmesc [19] = ss, 185.123.101.241, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
