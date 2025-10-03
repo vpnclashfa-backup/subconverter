@@ -1,4 +1,5 @@
 proxies:
+  - {name: "@Capoit", server: 141.227.136.11, port: 11716, type: vless, tls: true, packet-encoding: xudp, uuid: 98b988ba-fe55-402e-824a-6f7bb3436f22, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran", server: 141.227.166.78, port: 35728, type: vless, tls: true, packet-encoding: xudp, uuid: 7bd98%65b6-5408-492c-%619f2-54776%6168%61%65b6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran 2", server: 141.227.174.221, port: 18409, type: vless, tls: true, packet-encoding: xudp, uuid: 5342%61980-50%614-4d%61%61-9c45-%6583f2%65b%61b024, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meli_proxyy", server: 45.82.251.121, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, skip-cert-verify: false, udp: true, tfo: false}
