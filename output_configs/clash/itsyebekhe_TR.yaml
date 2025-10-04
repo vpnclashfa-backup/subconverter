@@ -1,5 +1,5 @@
 proxies:
-  - {name: "TR | 🔒 SS | @free1_vpn [3]", server: 62.60.233.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vTZUnkhHC3DX, udp: true, tfo: false}
+  - {name: "TR | 🔒 SS | @free1_vpn [2]", server: 62.60.233.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vTZUnkhHC3DX, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @manstervpn [67]", server: 83.217.9.64, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: MgEU8qSlwf53, udp: true, tfo: false}
   - {name: "TR | 🔒 SS | @manstervpn [68]", server: 62.133.63.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pW9XyPqxtSX1, udp: true, tfo: false}
   - {name: "TR | 🔒 VLESS | @Fr33C0nfig [6]", server: 62.60.233.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0cdd44-2361-11f0-9970-45e1d80c4039, servername: images.apple.com, flow: xtls-rprx-vision, reality-opts: {public-key: MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw, short-id: 4476a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -13,7 +13,6 @@ proxies:
   - {name: "TR | 🔓 VLESS | @prrofile_purple [147]", server: dl.tr.azarbanou.ir, port: 5055, type: vless, tls: true, packet-encoding: xudp, uuid: 6261b90d-3268-4a3d-b02a-16329e0a4a9a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @pusyvpn [8]", server: 217.60.244.234, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: f342dad4-457e-45dd-8acd-56441fc55fa5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @selinc [5]", server: 185.234.66.89, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "TR | 🔓 VLESS | @v2raych [15]", server: 45.136.5.109, port: 2081, type: vless, tls: true, packet-encoding: xudp, uuid: 6d9a7312-5021-40b0-9e2b-d08b6ef0d917, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @v2rayopen [10]", server: panel-tr.turkcloud.ir, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 6b3a7034-39ec-f057-377d-cf6af57b4db4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @vmesskhodam [15]", server: ardagulerturk.vtuix.online, port: 7035, type: vless, tls: true, packet-encoding: xudp, uuid: babf3d3e-dc83-40ef-8a7e-a08550fdeed4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "TR | 🔓 VLESS | @vpnplusee_free [13]", server: 185.234.66.89, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, skip-cert-verify: false, udp: true, tfo: false}
