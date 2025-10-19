@@ -1,10 +1,9 @@
 proxies:
-  - {name: "@Eag1e_YT『🇩🇪』", server: 104.17.148.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: telegram-id-Arfilter, servername: gw.pdri.blog, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇩🇪』 2", server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 57bc1a80-072f-483c-9ca4-2878c1ef9ccb, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇩🇪』 3", server: 91.99.179.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Parsashonam-316, servername: google.com, reality-opts: {public-key: LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ, short-id: 0a8b4a1ad485}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇩🇪』", server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 82b155ff-789c-4b11-b3ca-a1220e5f531d, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇩🇪』 2", server: 91.99.179.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Parsashonam-316, servername: google.com, reality-opts: {public-key: LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ, short-id: 0a8b4a1ad485}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Eag1e_YT『🇫🇮』", server: 104.17.147.22, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: Parsashonam-Bot-31, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2e48cc0c-284d-49b0-b7ad-b2f47be3650e, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇺🇸』", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a0bbd3eb-a475-4554-bbee-b5d416aacec9, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Eag1e_YT『🇺🇸』 2", server: 104.17.147.22, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: Parsashonam-Bot-31, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "آخرین آپدیت : شب -  جمعه  - 1404/7/25💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "آخرین آپدیت : شب -  شنبه  -  1404/7/26💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "جهت خرید سرویس شخصی : EAGLE_IG@🆔️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: لطفا هر 24 ساعت لینک ساب رو آپدیت کنید⚡️, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
