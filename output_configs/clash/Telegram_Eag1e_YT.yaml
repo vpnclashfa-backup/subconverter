@@ -1,8 +1,7 @@
 proxies:
-  - {name: "@Eag1e_YT『🇩🇪』", server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 821795aa-2b02-4f0a-b1f7-ea6792e2289c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c8bf261f-8568-46d0-9215-50f0bd8e3275, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』 2", server: 104.17.147.22, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c8bf261f-8568-46d0-9215-50f0bd8e3275, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』 3", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c8bf261f-8568-46d0-9215-50f0bd8e3275, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "آخرین آپدیت : شب -  دوشنبه - 1404/8/5💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇺🇸』", server: 104.17.148.22, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7dd901-c84b-45a3-ba61-2823d6336fc7, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇺🇸』 2", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7dd901-c84b-45a3-ba61-2823d6336fc7, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇺🇸』 3", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7dd901-c84b-45a3-ba61-2823d6336fc7, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "آخرین آپدیت : شب - سه شنبه -1404/8/6💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "جهت خرید سرویس شخصی : EAGLE_IG@🆔️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: لطفا هر 24 ساعت لینک ساب رو آپدیت کنید⚡️, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
