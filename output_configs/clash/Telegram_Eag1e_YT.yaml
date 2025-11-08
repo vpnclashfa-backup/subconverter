@@ -1,9 +1,8 @@
 proxies:
-  - {name: "@Eag1e_YT『🇩🇪』", server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9001ea10-8091-41ab-8b40-c4852232c9f2, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇩🇪』", server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 91701ab0-3346-494e-8908-56efb0d38b4b, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇩🇪』 2", server: 185.146.173.185, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f3f68dde-eac4-4b56-b74f-6b80dec52676, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Eag1e_YT『🇫🇮』", server: 104.17.147.22, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: Parsashonam-Bot-35, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』", server: 104.17.147.22, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 877a6d5c-c78e-4ebe-8ad8-81ce2cde3f3c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』 2", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 877a6d5c-c78e-4ebe-8ad8-81ce2cde3f3c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Eag1e_YT『🇺🇸』 3", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 877a6d5c-c78e-4ebe-8ad8-81ce2cde3f3c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "آخرین آپدیت : شب- پنجشنبه -1404/8/15💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Eag1e_YT『🇺🇸』", server: 172.66.156.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c5afd573-6716-413c-aa64-ad80e26408a0, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "آخرین آپدیت : شب -  جمعه  -  1404/8/16💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "جهت خرید سرویس شخصی : EAGLE_IG@🆔️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
   - {name: لطفا هر 24 ساعت لینک ساب رو آپدیت کنید⚡️, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
