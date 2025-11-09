@@ -63,7 +63,7 @@ proxies:
   - {name: "IR | 🔓 VLESS | @pusyvpn [3]", server: 5.57.33.227, port: 5001, type: vless, tls: true, packet-encoding: xudp, uuid: 45c24d3e-5f87-45a3-a440-b0d6d3e92082, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @pusyvpn [5]", server: 94.182.147.227, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: a56cf768-7fbb-4504-aa3f-4b9b33ededd3, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @pusyvpn [6]", server: 31.14.115.163, port: 55375, type: vless, tls: true, packet-encoding: xudp, uuid: 5f9fc2af-5e32-4e06-9f46-bbdb8a9d306d, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "IR | 🔓 VLESS | @selinc [7]", server: 185.143.232.224, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "IR | 🔓 VLESS | @selinc [6]", server: 185.143.232.224, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @tobevasl [16]", server: 1conf.top, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: 7d283c1a-3a5b-4b2a-a924-0bd256e89726, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @toucan_vpn [1]", server: 185.46.1.203, port: 13008, type: vless, tls: true, packet-encoding: xudp, uuid: c123cc6a-528b-4992-fc03-e2aa9f313782, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "IR | 🔓 VLESS | @v2ra_ng_iran [17]", server: 185.243.51.67, port: 21760, type: vless, tls: true, packet-encoding: xudp, uuid: 73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac, skip-cert-verify: false, udp: true, tfo: false}
