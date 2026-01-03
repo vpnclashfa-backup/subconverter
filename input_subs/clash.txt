@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt,HighSpeed
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt,mahsanet_mci_sub_1
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt,mahsanet_mci_sub_2
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt,mahsanet_mci_sub_3
